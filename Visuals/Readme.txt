@@ -1,0 +1,1 @@
+These visuals are a part of an article highlighting the looming threat of climate change and how Ireland is dealing with this challenge?
