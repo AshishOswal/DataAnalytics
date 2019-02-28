@@ -1,0 +1,4985 @@
+state_or_territory,year,month,day,locally_acquired_cases,presumptive_viremic_blood_donors,symptomatic_disease_cases,travel_associated_cases
+Arkansas,2016,Feb,3,0.0,0.0,0.0,1.0
+California,2016,Feb,3,0.0,0.0,0.0,2.0
+District of Columbia,2016,Feb,3,0.0,0.0,0.0,3.0
+Florida,2016,Feb,3,0.0,0.0,0.0,9.0
+Georgia,2016,Feb,3,0.0,0.0,0.0,1.0
+Hawaii,2016,Feb,3,0.0,0.0,0.0,3.0
+Illinois,2016,Feb,3,0.0,0.0,0.0,3.0
+Massachusetts,2016,Feb,3,0.0,0.0,0.0,2.0
+Minnesota,2016,Feb,3,0.0,0.0,0.0,1.0
+New Jersey,2016,Feb,3,0.0,0.0,0.0,1.0
+Texas,2016,Feb,3,0.0,0.0,0.0,8.0
+Virginia,2016,Feb,3,0.0,0.0,0.0,1.0
+Puerto Rico,2016,Feb,3,8.0,0.0,0.0,1.0
+US Virgin Islands,2016,Feb,3,1.0,0.0,0.0,0.0
+Arkansas,2016,Feb,10,0.0,0.0,0.0,1.0
+California,2016,Feb,10,0.0,0.0,0.0,2.0
+Delaware,2016,Feb,10,0.0,0.0,0.0,1.0
+District of Columbia,2016,Feb,10,0.0,0.0,0.0,3.0
+Florida,2016,Feb,10,0.0,0.0,0.0,16.0
+Georgia,2016,Feb,10,0.0,0.0,0.0,1.0
+Hawaii,2016,Feb,10,0.0,0.0,0.0,4.0
+Illinois,2016,Feb,10,0.0,0.0,0.0,3.0
+Massachusetts,2016,Feb,10,0.0,0.0,0.0,2.0
+Minnesota,2016,Feb,10,0.0,0.0,0.0,1.0
+Nebraska,2016,Feb,10,0.0,0.0,0.0,2.0
+New Jersey,2016,Feb,10,0.0,0.0,0.0,1.0
+Ohio,2016,Feb,10,0.0,0.0,0.0,1.0
+Oregon,2016,Feb,10,0.0,0.0,0.0,1.0
+Pennsylvania,2016,Feb,10,0.0,0.0,0.0,2.0
+Texas,2016,Feb,10,0.0,0.0,0.0,10.0
+Virginia,2016,Feb,10,0.0,0.0,0.0,1.0
+Puerto Rico,2016,Feb,10,8.0,0.0,0.0,1.0
+US Virgin Islands,2016,Feb,10,1.0,0.0,0.0,0.0
+Alabama,2016,Feb,17,0.0,0.0,0.0,1.0
+Arkansas,2016,Feb,17,0.0,0.0,0.0,1.0
+California,2016,Feb,17,0.0,0.0,0.0,6.0
+Delaware,2016,Feb,17,0.0,0.0,0.0,1.0
+District of Columbia,2016,Feb,17,0.0,0.0,0.0,3.0
+Florida,2016,Feb,17,0.0,0.0,0.0,21.0
+Georgia,2016,Feb,17,0.0,0.0,0.0,1.0
+Hawaii,2016,Feb,17,0.0,0.0,0.0,4.0
+Illinois,2016,Feb,17,0.0,0.0,0.0,4.0
+Indiana,2016,Feb,17,0.0,0.0,0.0,1.0
+Maryland,2016,Feb,17,0.0,0.0,0.0,1.0
+Massachusetts,2016,Feb,17,0.0,0.0,0.0,2.0
+Minnesota,2016,Feb,17,0.0,0.0,0.0,1.0
+Nebraska,2016,Feb,17,0.0,0.0,0.0,2.0
+New Jersey,2016,Feb,17,0.0,0.0,0.0,1.0
+New York,2016,Feb,17,0.0,0.0,0.0,11.0
+Ohio,2016,Feb,17,0.0,0.0,0.0,4.0
+Oregon,2016,Feb,17,0.0,0.0,0.0,1.0
+Pennsylvania,2016,Feb,17,0.0,0.0,0.0,2.0
+Tennessee,2016,Feb,17,0.0,0.0,0.0,1.0
+Texas,2016,Feb,17,0.0,0.0,0.0,12.0
+Virginia,2016,Feb,17,0.0,0.0,0.0,1.0
+Puerto Rico,2016,Feb,17,8.0,0.0,0.0,1.0
+US Virgin Islands,2016,Feb,17,1.0,0.0,0.0,0.0
+Alabama,2016,Feb,26,0.0,0.0,0.0,1.0
+Arkansas,2016,Feb,26,0.0,0.0,0.0,1.0
+California,2016,Feb,26,0.0,0.0,0.0,6.0
+Delaware,2016,Feb,26,0.0,0.0,0.0,1.0
+District of Columbia,2016,Feb,26,0.0,0.0,0.0,3.0
+Florida,2016,Feb,26,0.0,0.0,0.0,28.0
+Georgia,2016,Feb,26,0.0,0.0,0.0,1.0
+Hawaii,2016,Feb,26,0.0,0.0,0.0,4.0
+Illinois,2016,Feb,26,0.0,0.0,0.0,4.0
+Indiana,2016,Feb,26,0.0,0.0,0.0,1.0
+Iowa,2016,Feb,26,0.0,0.0,0.0,1.0
+Louisiana,2016,Feb,26,0.0,0.0,0.0,1.0
+Maryland,2016,Feb,26,0.0,0.0,0.0,3.0
+Massachusetts,2016,Feb,26,0.0,0.0,0.0,2.0
+Minnesota,2016,Feb,26,0.0,0.0,0.0,3.0
+Nebraska,2016,Feb,26,0.0,0.0,0.0,2.0
+New Jersey,2016,Feb,26,0.0,0.0,0.0,1.0
+New York,2016,Feb,26,0.0,0.0,0.0,17.0
+Ohio,2016,Feb,26,0.0,0.0,0.0,4.0
+Oregon,2016,Feb,26,0.0,0.0,0.0,1.0
+Pennsylvania,2016,Feb,26,0.0,0.0,0.0,4.0
+Tennessee,2016,Feb,26,0.0,0.0,0.0,1.0
+Texas,2016,Feb,26,0.0,0.0,0.0,13.0
+Virginia,2016,Feb,26,0.0,0.0,0.0,3.0
+Washington,2016,Feb,26,0.0,0.0,0.0,1.0
+American Samoa,2016,Feb,26,4.0,0.0,0.0,0.0
+Puerto Rico,2016,Feb,26,34.0,0.0,0.0,1.0
+US Virgin Islands,2016,Feb,26,1.0,0.0,0.0,0.0
+Alabama,2016,Mar,2,0.0,0.0,0.0,1.0
+Arkansas,2016,Mar,2,0.0,0.0,0.0,1.0
+California,2016,Mar,2,0.0,0.0,0.0,10.0
+Colorado,2016,Mar,2,0.0,0.0,0.0,2.0
+Delaware,2016,Mar,2,0.0,0.0,0.0,1.0
+District of Columbia,2016,Mar,2,0.0,0.0,0.0,3.0
+Florida,2016,Mar,2,0.0,0.0,0.0,42.0
+Georgia,2016,Mar,2,0.0,0.0,0.0,2.0
+Hawaii,2016,Mar,2,0.0,0.0,0.0,4.0
+Illinois,2016,Mar,2,0.0,0.0,0.0,5.0
+Indiana,2016,Mar,2,0.0,0.0,0.0,2.0
+Iowa,2016,Mar,2,0.0,0.0,0.0,3.0
+Louisiana,2016,Mar,2,0.0,0.0,0.0,1.0
+Maryland,2016,Mar,2,0.0,0.0,0.0,3.0
+Massachusetts,2016,Mar,2,0.0,0.0,0.0,3.0
+Michigan,2016,Mar,2,0.0,0.0,0.0,1.0
+Minnesota,2016,Mar,2,0.0,0.0,0.0,3.0
+Montana,2016,Mar,2,0.0,0.0,0.0,1.0
+Nebraska,2016,Mar,2,0.0,0.0,0.0,2.0
+New Jersey,2016,Mar,2,0.0,0.0,0.0,1.0
+New York,2016,Mar,2,0.0,0.0,0.0,23.0
+North Carolina,2016,Mar,2,0.0,0.0,0.0,2.0
+Ohio,2016,Mar,2,0.0,0.0,0.0,5.0
+Oregon,2016,Mar,2,0.0,0.0,0.0,5.0
+Pennsylvania,2016,Mar,2,0.0,0.0,0.0,5.0
+Tennessee,2016,Mar,2,0.0,0.0,0.0,1.0
+Texas,2016,Mar,2,0.0,0.0,0.0,15.0
+Virginia,2016,Mar,2,0.0,0.0,0.0,5.0
+Washington,2016,Mar,2,0.0,0.0,0.0,1.0
+American Samoa,2016,Mar,2,4.0,0.0,0.0,0.0
+Puerto Rico,2016,Mar,2,102.0,0.0,0.0,1.0
+US Virgin Islands,2016,Mar,2,1.0,0.0,0.0,0.0
+Alabama,2016,Mar,9,0.0,0.0,0.0,1.0
+Arkansas,2016,Mar,9,0.0,0.0,0.0,1.0
+California,2016,Mar,9,0.0,0.0,0.0,13.0
+Colorado,2016,Mar,9,0.0,0.0,0.0,2.0
+Delaware,2016,Mar,9,0.0,0.0,0.0,1.0
+District of Columbia,2016,Mar,9,0.0,0.0,0.0,3.0
+Florida,2016,Mar,9,0.0,0.0,0.0,49.0
+Georgia,2016,Mar,9,0.0,0.0,0.0,5.0
+Hawaii,2016,Mar,9,0.0,0.0,0.0,5.0
+Illinois,2016,Mar,9,0.0,0.0,0.0,7.0
+Indiana,2016,Mar,9,0.0,0.0,0.0,3.0
+Iowa,2016,Mar,9,0.0,0.0,0.0,3.0
+Louisiana,2016,Mar,9,0.0,0.0,0.0,2.0
+Maryland,2016,Mar,9,0.0,0.0,0.0,4.0
+Massachusetts,2016,Mar,9,0.0,0.0,0.0,3.0
+Michigan,2016,Mar,9,0.0,0.0,0.0,2.0
+Minnesota,2016,Mar,9,0.0,0.0,0.0,6.0
+Missouri,2016,Mar,9,0.0,0.0,0.0,1.0
+Montana,2016,Mar,9,0.0,0.0,0.0,1.0
+Nebraska,2016,Mar,9,0.0,0.0,0.0,2.0
+New Hampshire,2016,Mar,9,0.0,0.0,0.0,1.0
+New Jersey,2016,Mar,9,0.0,0.0,0.0,2.0
+New York,2016,Mar,9,0.0,0.0,0.0,25.0
+North Carolina,2016,Mar,9,0.0,0.0,0.0,5.0
+Ohio,2016,Mar,9,0.0,0.0,0.0,6.0
+Oklahoma,2016,Mar,9,0.0,0.0,0.0,2.0
+Oregon,2016,Mar,9,0.0,0.0,0.0,5.0
+Pennsylvania,2016,Mar,9,0.0,0.0,0.0,6.0
+Tennessee,2016,Mar,9,0.0,0.0,0.0,1.0
+Texas,2016,Mar,9,0.0,0.0,0.0,19.0
+Virginia,2016,Mar,9,0.0,0.0,0.0,6.0
+Washington,2016,Mar,9,0.0,0.0,0.0,1.0
+American Samoa,2016,Mar,9,13.0,0.0,0.0,0.0
+Puerto Rico,2016,Mar,9,159.0,0.0,0.0,1.0
+US Virgin Islands,2016,Mar,9,1.0,0.0,0.0,0.0
+Alabama,2016,Mar,16,0.0,0.0,0.0,1.0
+Arkansas,2016,Mar,16,0.0,0.0,0.0,1.0
+California,2016,Mar,16,0.0,0.0,0.0,13.0
+Colorado,2016,Mar,16,0.0,0.0,0.0,2.0
+Delaware,2016,Mar,16,0.0,0.0,0.0,1.0
+District of Columbia,2016,Mar,16,0.0,0.0,0.0,3.0
+Florida,2016,Mar,16,0.0,0.0,0.0,59.0
+Georgia,2016,Mar,16,0.0,0.0,0.0,7.0
+Hawaii,2016,Mar,16,0.0,0.0,0.0,5.0
+Illinois,2016,Mar,16,0.0,0.0,0.0,7.0
+Indiana,2016,Mar,16,0.0,0.0,0.0,4.0
+Iowa,2016,Mar,16,0.0,0.0,0.0,4.0
+Kansas,2016,Mar,16,0.0,0.0,0.0,1.0
+Kentucky,2016,Mar,16,0.0,0.0,0.0,1.0
+Louisiana,2016,Mar,16,0.0,0.0,0.0,2.0
+Maryland,2016,Mar,16,0.0,0.0,0.0,5.0
+Massachusetts,2016,Mar,16,0.0,0.0,0.0,3.0
+Michigan,2016,Mar,16,0.0,0.0,0.0,2.0
+Minnesota,2016,Mar,16,0.0,0.0,0.0,7.0
+Missouri,2016,Mar,16,0.0,0.0,0.0,1.0
+Montana,2016,Mar,16,0.0,0.0,0.0,1.0
+Nebraska,2016,Mar,16,0.0,0.0,0.0,2.0
+New Hampshire,2016,Mar,16,0.0,0.0,0.0,2.0
+New Jersey,2016,Mar,16,0.0,0.0,0.0,2.0
+New York,2016,Mar,16,0.0,0.0,0.0,42.0
+North Carolina,2016,Mar,16,0.0,0.0,0.0,6.0
+Ohio,2016,Mar,16,0.0,0.0,0.0,8.0
+Oklahoma,2016,Mar,16,0.0,0.0,0.0,3.0
+Oregon,2016,Mar,16,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Mar,16,0.0,0.0,0.0,8.0
+Tennessee,2016,Mar,16,0.0,0.0,0.0,1.0
+Texas,2016,Mar,16,0.0,0.0,0.0,34.0
+Virginia,2016,Mar,16,0.0,0.0,0.0,7.0
+Washington,2016,Mar,16,0.0,0.0,0.0,2.0
+West Virginia,2016,Mar,16,0.0,0.0,0.0,5.0
+American Samoa,2016,Mar,16,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Mar,16,259.0,0.0,0.0,2.0
+US Virgin Islands,2016,Mar,16,10.0,0.0,0.0,1.0
+Alabama,2016,Mar,23,0.0,0.0,0.0,2.0
+Arkansas,2016,Mar,23,0.0,0.0,0.0,1.0
+California,2016,Mar,23,0.0,0.0,0.0,17.0
+Colorado,2016,Mar,23,0.0,0.0,0.0,2.0
+Connecticut,2016,Mar,23,0.0,0.0,0.0,1.0
+Delaware,2016,Mar,23,0.0,0.0,0.0,3.0
+District of Columbia,2016,Mar,23,0.0,0.0,0.0,3.0
+Florida,2016,Mar,23,0.0,0.0,0.0,70.0
+Georgia,2016,Mar,23,0.0,0.0,0.0,7.0
+Hawaii,2016,Mar,23,0.0,0.0,0.0,5.0
+Illinois,2016,Mar,23,0.0,0.0,0.0,9.0
+Indiana,2016,Mar,23,0.0,0.0,0.0,4.0
+Iowa,2016,Mar,23,0.0,0.0,0.0,4.0
+Kansas,2016,Mar,23,0.0,0.0,0.0,1.0
+Kentucky,2016,Mar,23,0.0,0.0,0.0,2.0
+Louisiana,2016,Mar,23,0.0,0.0,0.0,2.0
+Maryland,2016,Mar,23,0.0,0.0,0.0,5.0
+Massachusetts,2016,Mar,23,0.0,0.0,0.0,3.0
+Michigan,2016,Mar,23,0.0,0.0,0.0,2.0
+Minnesota,2016,Mar,23,0.0,0.0,0.0,9.0
+Missouri,2016,Mar,23,0.0,0.0,0.0,1.0
+Montana,2016,Mar,23,0.0,0.0,0.0,1.0
+Nebraska,2016,Mar,23,0.0,0.0,0.0,2.0
+New Hampshire,2016,Mar,23,0.0,0.0,0.0,2.0
+New Jersey,2016,Mar,23,0.0,0.0,0.0,2.0
+New York,2016,Mar,23,0.0,0.0,0.0,43.0
+North Carolina,2016,Mar,23,0.0,0.0,0.0,7.0
+Ohio,2016,Mar,23,0.0,0.0,0.0,8.0
+Oklahoma,2016,Mar,23,0.0,0.0,0.0,3.0
+Oregon,2016,Mar,23,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Mar,23,0.0,0.0,0.0,8.0
+Tennessee,2016,Mar,23,0.0,0.0,0.0,1.0
+Texas,2016,Mar,23,0.0,0.0,0.0,23.0
+Virginia,2016,Mar,23,0.0,0.0,0.0,7.0
+Washington,2016,Mar,23,0.0,0.0,0.0,2.0
+West Virginia,2016,Mar,23,0.0,0.0,0.0,5.0
+American Samoa,2016,Mar,23,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Mar,23,258.0,0.0,0.0,3.0
+US Virgin Islands,2016,Mar,23,10.0,0.0,0.0,1.0
+Alabama,2016,Mar,30,0.0,0.0,0.0,2.0
+Arizona,2016,Mar,30,0.0,0.0,0.0,1.0
+Arkansas,2016,Mar,30,0.0,0.0,0.0,1.0
+California,2016,Mar,30,0.0,0.0,0.0,17.0
+Colorado,2016,Mar,30,0.0,0.0,0.0,2.0
+Connecticut,2016,Mar,30,0.0,0.0,0.0,1.0
+Delaware,2016,Mar,30,0.0,0.0,0.0,3.0
+District of Columbia,2016,Mar,30,0.0,0.0,0.0,3.0
+Florida,2016,Mar,30,0.0,0.0,0.0,74.0
+Georgia,2016,Mar,30,0.0,0.0,0.0,9.0
+Hawaii,2016,Mar,30,0.0,0.0,0.0,5.0
+Illinois,2016,Mar,30,0.0,0.0,0.0,9.0
+Indiana,2016,Mar,30,0.0,0.0,0.0,5.0
+Iowa,2016,Mar,30,0.0,0.0,0.0,4.0
+Kansas,2016,Mar,30,0.0,0.0,0.0,1.0
+Kentucky,2016,Mar,30,0.0,0.0,0.0,3.0
+Louisiana,2016,Mar,30,0.0,0.0,0.0,2.0
+Maine,2016,Mar,30,0.0,0.0,0.0,1.0
+Maryland,2016,Mar,30,0.0,0.0,0.0,6.0
+Massachusetts,2016,Mar,30,0.0,0.0,0.0,7.0
+Michigan,2016,Mar,30,0.0,0.0,0.0,2.0
+Minnesota,2016,Mar,30,0.0,0.0,0.0,12.0
+Mississippi,2016,Mar,30,0.0,0.0,0.0,2.0
+Missouri,2016,Mar,30,0.0,0.0,0.0,1.0
+Montana,2016,Mar,30,0.0,0.0,0.0,1.0
+Nebraska,2016,Mar,30,0.0,0.0,0.0,2.0
+Nevada,2016,Mar,30,0.0,0.0,0.0,2.0
+New Hampshire,2016,Mar,30,0.0,0.0,0.0,2.0
+New Jersey,2016,Mar,30,0.0,0.0,0.0,5.0
+New York,2016,Mar,30,0.0,0.0,0.0,46.0
+North Carolina,2016,Mar,30,0.0,0.0,0.0,7.0
+Ohio,2016,Mar,30,0.0,0.0,0.0,9.0
+Oklahoma,2016,Mar,30,0.0,0.0,0.0,3.0
+Oregon,2016,Mar,30,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Mar,30,0.0,0.0,0.0,11.0
+Tennessee,2016,Mar,30,0.0,0.0,0.0,1.0
+Texas,2016,Mar,30,0.0,0.0,0.0,27.0
+Utah,2016,Mar,30,0.0,0.0,0.0,2.0
+Virginia,2016,Mar,30,0.0,0.0,0.0,8.0
+Washington,2016,Mar,30,0.0,0.0,0.0,2.0
+West Virginia,2016,Mar,30,0.0,0.0,0.0,5.0
+American Samoa,2016,Mar,30,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Mar,30,325.0,0.0,0.0,2.0
+US Virgin Islands,2016,Mar,30,10.0,0.0,0.0,1.0
+Alabama,2016,Apr,6,0.0,0.0,0.0,2.0
+Arizona,2016,Apr,6,0.0,0.0,0.0,1.0
+Arkansas,2016,Apr,6,0.0,0.0,0.0,1.0
+California,2016,Apr,6,0.0,0.0,0.0,29.0
+Colorado,2016,Apr,6,0.0,0.0,0.0,2.0
+Connecticut,2016,Apr,6,0.0,0.0,0.0,1.0
+Delaware,2016,Apr,6,0.0,0.0,0.0,3.0
+District of Columbia,2016,Apr,6,0.0,0.0,0.0,3.0
+Florida,2016,Apr,6,0.0,0.0,0.0,78.0
+Georgia,2016,Apr,6,0.0,0.0,0.0,11.0
+Hawaii,2016,Apr,6,0.0,0.0,0.0,5.0
+Illinois,2016,Apr,6,0.0,0.0,0.0,10.0
+Indiana,2016,Apr,6,0.0,0.0,0.0,6.0
+Iowa,2016,Apr,6,0.0,0.0,0.0,4.0
+Kansas,2016,Apr,6,0.0,0.0,0.0,1.0
+Kentucky,2016,Apr,6,0.0,0.0,0.0,3.0
+Louisiana,2016,Apr,6,0.0,0.0,0.0,4.0
+Maine,2016,Apr,6,0.0,0.0,0.0,1.0
+Maryland,2016,Apr,6,0.0,0.0,0.0,6.0
+Massachusetts,2016,Apr,6,0.0,0.0,0.0,7.0
+Michigan,2016,Apr,6,0.0,0.0,0.0,2.0
+Minnesota,2016,Apr,6,0.0,0.0,0.0,12.0
+Mississippi,2016,Apr,6,0.0,0.0,0.0,2.0
+Missouri,2016,Apr,6,0.0,0.0,0.0,2.0
+Montana,2016,Apr,6,0.0,0.0,0.0,1.0
+Nebraska,2016,Apr,6,0.0,0.0,0.0,2.0
+Nevada,2016,Apr,6,0.0,0.0,0.0,2.0
+New Hampshire,2016,Apr,6,0.0,0.0,0.0,2.0
+New Jersey,2016,Apr,6,0.0,0.0,0.0,5.0
+New York,2016,Apr,6,0.0,0.0,0.0,55.0
+North Carolina,2016,Apr,6,0.0,0.0,0.0,8.0
+Ohio,2016,Apr,6,0.0,0.0,0.0,9.0
+Oklahoma,2016,Apr,6,0.0,0.0,0.0,3.0
+Oregon,2016,Apr,6,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Apr,6,0.0,0.0,0.0,12.0
+Tennessee,2016,Apr,6,0.0,0.0,0.0,1.0
+Texas,2016,Apr,6,0.0,0.0,0.0,27.0
+Utah,2016,Apr,6,0.0,0.0,0.0,2.0
+Virginia,2016,Apr,6,0.0,0.0,0.0,8.0
+Washington,2016,Apr,6,0.0,0.0,0.0,2.0
+West Virginia,2016,Apr,6,0.0,0.0,0.0,5.0
+American Samoa,2016,Apr,6,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Apr,6,325.0,0.0,0.0,2.0
+US Virgin Islands,2016,Apr,6,12.0,0.0,0.0,1.0
+Alabama,2016,Apr,13,0.0,0.0,0.0,2.0
+Arizona,2016,Apr,13,0.0,0.0,0.0,1.0
+Arkansas,2016,Apr,13,0.0,0.0,0.0,2.0
+California,2016,Apr,13,0.0,0.0,0.0,29.0
+Colorado,2016,Apr,13,0.0,0.0,0.0,2.0
+Connecticut,2016,Apr,13,0.0,0.0,0.0,1.0
+Delaware,2016,Apr,13,0.0,0.0,0.0,3.0
+District of Columbia,2016,Apr,13,0.0,0.0,0.0,3.0
+Florida,2016,Apr,13,0.0,0.0,0.0,82.0
+Georgia,2016,Apr,13,0.0,0.0,0.0,11.0
+Hawaii,2016,Apr,13,0.0,0.0,0.0,5.0
+Illinois,2016,Apr,13,0.0,0.0,0.0,10.0
+Indiana,2016,Apr,13,0.0,0.0,0.0,6.0
+Iowa,2016,Apr,13,0.0,0.0,0.0,4.0
+Kansas,2016,Apr,13,0.0,0.0,0.0,1.0
+Kentucky,2016,Apr,13,0.0,0.0,0.0,3.0
+Louisiana,2016,Apr,13,0.0,0.0,0.0,4.0
+Maine,2016,Apr,13,0.0,0.0,0.0,1.0
+Maryland,2016,Apr,13,0.0,0.0,0.0,7.0
+Massachusetts,2016,Apr,13,0.0,0.0,0.0,7.0
+Michigan,2016,Apr,13,0.0,0.0,0.0,2.0
+Minnesota,2016,Apr,13,0.0,0.0,0.0,12.0
+Mississippi,2016,Apr,13,0.0,0.0,0.0,3.0
+Missouri,2016,Apr,13,0.0,0.0,0.0,3.0
+Montana,2016,Apr,13,0.0,0.0,0.0,1.0
+Nebraska,2016,Apr,13,0.0,0.0,0.0,2.0
+Nevada,2016,Apr,13,0.0,0.0,0.0,2.0
+New Hampshire,2016,Apr,13,0.0,0.0,0.0,2.0
+New Jersey,2016,Apr,13,0.0,0.0,0.0,8.0
+New York,2016,Apr,13,0.0,0.0,0.0,54.0
+North Carolina,2016,Apr,13,0.0,0.0,0.0,9.0
+Ohio,2016,Apr,13,0.0,0.0,0.0,9.0
+Oklahoma,2016,Apr,13,0.0,0.0,0.0,3.0
+Oregon,2016,Apr,13,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Apr,13,0.0,0.0,0.0,12.0
+Tennessee,2016,Apr,13,0.0,0.0,0.0,2.0
+Texas,2016,Apr,13,0.0,0.0,0.0,27.0
+Utah,2016,Apr,13,0.0,0.0,0.0,2.0
+Virginia,2016,Apr,13,0.0,0.0,0.0,8.0
+Washington,2016,Apr,13,0.0,0.0,0.0,2.0
+West Virginia,2016,Apr,13,0.0,0.0,0.0,5.0
+American Samoa,2016,Apr,13,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Apr,13,445.0,0.0,0.0,3.0
+US Virgin Islands,2016,Apr,13,12.0,0.0,0.0,1.0
+Alabama,2016,Apr,20,0.0,0.0,0.0,2.0
+Arizona,2016,Apr,20,0.0,0.0,0.0,1.0
+Arkansas,2016,Apr,20,0.0,0.0,0.0,2.0
+California,2016,Apr,20,0.0,0.0,0.0,29.0
+Colorado,2016,Apr,20,0.0,0.0,0.0,2.0
+Connecticut,2016,Apr,20,0.0,0.0,0.0,1.0
+Delaware,2016,Apr,20,0.0,0.0,0.0,3.0
+District of Columbia,2016,Apr,20,0.0,0.0,0.0,3.0
+Florida,2016,Apr,20,0.0,0.0,0.0,84.0
+Georgia,2016,Apr,20,0.0,0.0,0.0,13.0
+Hawaii,2016,Apr,20,0.0,0.0,0.0,7.0
+Illinois,2016,Apr,20,0.0,0.0,0.0,12.0
+Indiana,2016,Apr,20,0.0,0.0,0.0,6.0
+Iowa,2016,Apr,20,0.0,0.0,0.0,4.0
+Kansas,2016,Apr,20,0.0,0.0,0.0,1.0
+Kentucky,2016,Apr,20,0.0,0.0,0.0,3.0
+Louisiana,2016,Apr,20,0.0,0.0,0.0,4.0
+Maine,2016,Apr,20,0.0,0.0,0.0,2.0
+Maryland,2016,Apr,20,0.0,0.0,0.0,8.0
+Massachusetts,2016,Apr,20,0.0,0.0,0.0,7.0
+Michigan,2016,Apr,20,0.0,0.0,0.0,3.0
+Minnesota,2016,Apr,20,0.0,0.0,0.0,13.0
+Mississippi,2016,Apr,20,0.0,0.0,0.0,3.0
+Missouri,2016,Apr,20,0.0,0.0,0.0,3.0
+Montana,2016,Apr,20,0.0,0.0,0.0,1.0
+Nebraska,2016,Apr,20,0.0,0.0,0.0,2.0
+Nevada,2016,Apr,20,0.0,0.0,0.0,2.0
+New Hampshire,2016,Apr,20,0.0,0.0,0.0,2.0
+New Jersey,2016,Apr,20,0.0,0.0,0.0,8.0
+New Mexico,2016,Apr,20,0.0,0.0,0.0,1.0
+New York,2016,Apr,20,0.0,0.0,0.0,60.0
+North Carolina,2016,Apr,20,0.0,0.0,0.0,10.0
+Ohio,2016,Apr,20,0.0,0.0,0.0,10.0
+Oklahoma,2016,Apr,20,0.0,0.0,0.0,4.0
+Oregon,2016,Apr,20,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Apr,20,0.0,0.0,0.0,15.0
+Tennessee,2016,Apr,20,0.0,0.0,0.0,2.0
+Texas,2016,Apr,20,0.0,0.0,0.0,30.0
+Utah,2016,Apr,20,0.0,0.0,0.0,2.0
+Virginia,2016,Apr,20,0.0,0.0,0.0,10.0
+Washington,2016,Apr,20,0.0,0.0,0.0,2.0
+West Virginia,2016,Apr,20,0.0,0.0,0.0,5.0
+American Samoa,2016,Apr,20,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Apr,20,474.0,0.0,0.0,2.0
+US Virgin Islands,2016,Apr,20,12.0,0.0,0.0,1.0
+Alabama,2016,Apr,27,0.0,0.0,0.0,2.0
+Arizona,2016,Apr,27,0.0,0.0,0.0,1.0
+Arkansas,2016,Apr,27,0.0,0.0,0.0,2.0
+California,2016,Apr,27,0.0,0.0,0.0,29.0
+Colorado,2016,Apr,27,0.0,0.0,0.0,2.0
+Connecticut,2016,Apr,27,0.0,0.0,0.0,1.0
+Delaware,2016,Apr,27,0.0,0.0,0.0,3.0
+District of Columbia,2016,Apr,27,0.0,0.0,0.0,3.0
+Florida,2016,Apr,27,0.0,0.0,0.0,90.0
+Georgia,2016,Apr,27,0.0,0.0,0.0,13.0
+Hawaii,2016,Apr,27,0.0,0.0,0.0,7.0
+Illinois,2016,Apr,27,0.0,0.0,0.0,12.0
+Indiana,2016,Apr,27,0.0,0.0,0.0,6.0
+Iowa,2016,Apr,27,0.0,0.0,0.0,4.0
+Kansas,2016,Apr,27,0.0,0.0,0.0,1.0
+Kentucky,2016,Apr,27,0.0,0.0,0.0,5.0
+Louisiana,2016,Apr,27,0.0,0.0,0.0,4.0
+Maine,2016,Apr,27,0.0,0.0,0.0,2.0
+Maryland,2016,Apr,27,0.0,0.0,0.0,11.0
+Massachusetts,2016,Apr,27,0.0,0.0,0.0,7.0
+Michigan,2016,Apr,27,0.0,0.0,0.0,3.0
+Minnesota,2016,Apr,27,0.0,0.0,0.0,14.0
+Mississippi,2016,Apr,27,0.0,0.0,0.0,3.0
+Missouri,2016,Apr,27,0.0,0.0,0.0,3.0
+Montana,2016,Apr,27,0.0,0.0,0.0,1.0
+Nebraska,2016,Apr,27,0.0,0.0,0.0,2.0
+Nevada,2016,Apr,27,0.0,0.0,0.0,2.0
+New Hampshire,2016,Apr,27,0.0,0.0,0.0,3.0
+New Jersey,2016,Apr,27,0.0,0.0,0.0,9.0
+New Mexico,2016,Apr,27,0.0,0.0,0.0,1.0
+New York,2016,Apr,27,0.0,0.0,0.0,77.0
+North Carolina,2016,Apr,27,0.0,0.0,0.0,10.0
+Ohio,2016,Apr,27,0.0,0.0,0.0,12.0
+Oklahoma,2016,Apr,27,0.0,0.0,0.0,4.0
+Oregon,2016,Apr,27,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Apr,27,0.0,0.0,0.0,16.0
+Tennessee,2016,Apr,27,0.0,0.0,0.0,2.0
+Texas,2016,Apr,27,0.0,0.0,0.0,30.0
+Utah,2016,Apr,27,0.0,0.0,0.0,2.0
+Vermont,2016,Apr,27,0.0,0.0,0.0,1.0
+Virginia,2016,Apr,27,0.0,0.0,0.0,12.0
+Washington,2016,Apr,27,0.0,0.0,0.0,2.0
+West Virginia,2016,Apr,27,0.0,0.0,0.0,6.0
+American Samoa,2016,Apr,27,14.0,0.0,0.0,0.0
+Puerto Rico,2016,Apr,27,570.0,0.0,0.0,2.0
+US Virgin Islands,2016,Apr,27,12.0,0.0,0.0,1.0
+Alabama,2016,May,4,0.0,0.0,0.0,2.0
+Arizona,2016,May,4,0.0,0.0,0.0,1.0
+Arkansas,2016,May,4,0.0,0.0,0.0,2.0
+California,2016,May,4,0.0,0.0,0.0,40.0
+Colorado,2016,May,4,0.0,0.0,0.0,2.0
+Connecticut,2016,May,4,0.0,0.0,0.0,1.0
+Delaware,2016,May,4,0.0,0.0,0.0,3.0
+District of Columbia,2016,May,4,0.0,0.0,0.0,3.0
+Florida,2016,May,4,0.0,0.0,0.0,95.0
+Georgia,2016,May,4,0.0,0.0,0.0,13.0
+Hawaii,2016,May,4,0.0,0.0,0.0,7.0
+Illinois,2016,May,4,0.0,0.0,0.0,13.0
+Indiana,2016,May,4,0.0,0.0,0.0,6.0
+Iowa,2016,May,4,0.0,0.0,0.0,5.0
+Kansas,2016,May,4,0.0,0.0,0.0,1.0
+Kentucky,2016,May,4,0.0,0.0,0.0,5.0
+Louisiana,2016,May,4,0.0,0.0,0.0,4.0
+Maine,2016,May,4,0.0,0.0,0.0,2.0
+Maryland,2016,May,4,0.0,0.0,0.0,17.0
+Massachusetts,2016,May,4,0.0,0.0,0.0,10.0
+Michigan,2016,May,4,0.0,0.0,0.0,3.0
+Minnesota,2016,May,4,0.0,0.0,0.0,17.0
+Mississippi,2016,May,4,0.0,0.0,0.0,3.0
+Missouri,2016,May,4,0.0,0.0,0.0,3.0
+Montana,2016,May,4,0.0,0.0,0.0,1.0
+Nebraska,2016,May,4,0.0,0.0,0.0,2.0
+Nevada,2016,May,4,0.0,0.0,0.0,2.0
+New Hampshire,2016,May,4,0.0,0.0,0.0,3.0
+New Jersey,2016,May,4,0.0,0.0,0.0,9.0
+New Mexico,2016,May,4,0.0,0.0,0.0,1.0
+New York,2016,May,4,0.0,0.0,0.0,89.0
+North Carolina,2016,May,4,0.0,0.0,0.0,11.0
+Ohio,2016,May,4,0.0,0.0,0.0,12.0
+Oklahoma,2016,May,4,0.0,0.0,0.0,4.0
+Oregon,2016,May,4,0.0,0.0,0.0,6.0
+Pennsylvania,2016,May,4,0.0,0.0,0.0,17.0
+South Carolina,2016,May,4,0.0,0.0,0.0,1.0
+Tennessee,2016,May,4,0.0,0.0,0.0,2.0
+Texas,2016,May,4,0.0,0.0,0.0,30.0
+Utah,2016,May,4,0.0,0.0,0.0,2.0
+Vermont,2016,May,4,0.0,0.0,0.0,1.0
+Virginia,2016,May,4,0.0,0.0,0.0,13.0
+Washington,2016,May,4,0.0,0.0,0.0,2.0
+West Virginia,2016,May,4,0.0,0.0,0.0,6.0
+American Samoa,2016,May,4,14.0,0.0,0.0,0.0
+Puerto Rico,2016,May,4,629.0,0.0,0.0,2.0
+US Virgin Islands,2016,May,4,15.0,0.0,0.0,1.0
+Alabama,2016,May,11,0.0,0.0,0.0,2.0
+Arizona,2016,May,11,0.0,0.0,0.0,1.0
+Arkansas,2016,May,11,0.0,0.0,0.0,2.0
+California,2016,May,11,0.0,0.0,0.0,40.0
+Colorado,2016,May,11,0.0,0.0,0.0,2.0
+Connecticut,2016,May,11,0.0,0.0,0.0,1.0
+Delaware,2016,May,11,0.0,0.0,0.0,3.0
+District of Columbia,2016,May,11,0.0,0.0,0.0,4.0
+Florida,2016,May,11,0.0,0.0,0.0,103.0
+Georgia,2016,May,11,0.0,0.0,0.0,13.0
+Hawaii,2016,May,11,0.0,0.0,0.0,7.0
+Illinois,2016,May,11,0.0,0.0,0.0,16.0
+Indiana,2016,May,11,0.0,0.0,0.0,6.0
+Iowa,2016,May,11,0.0,0.0,0.0,5.0
+Kansas,2016,May,11,0.0,0.0,0.0,1.0
+Kentucky,2016,May,11,0.0,0.0,0.0,5.0
+Louisiana,2016,May,11,0.0,0.0,0.0,4.0
+Maine,2016,May,11,0.0,0.0,0.0,3.0
+Maryland,2016,May,11,0.0,0.0,0.0,16.0
+Massachusetts,2016,May,11,0.0,0.0,0.0,10.0
+Michigan,2016,May,11,0.0,0.0,0.0,3.0
+Minnesota,2016,May,11,0.0,0.0,0.0,17.0
+Mississippi,2016,May,11,0.0,0.0,0.0,3.0
+Missouri,2016,May,11,0.0,0.0,0.0,3.0
+Montana,2016,May,11,0.0,0.0,0.0,1.0
+Nebraska,2016,May,11,0.0,0.0,0.0,2.0
+Nevada,2016,May,11,0.0,0.0,0.0,2.0
+New Hampshire,2016,May,11,0.0,0.0,0.0,3.0
+New Jersey,2016,May,11,0.0,0.0,0.0,12.0
+New Mexico,2016,May,11,0.0,0.0,0.0,1.0
+New York,2016,May,11,0.0,0.0,0.0,98.0
+North Carolina,2016,May,11,0.0,0.0,0.0,11.0
+Ohio,2016,May,11,0.0,0.0,0.0,12.0
+Oklahoma,2016,May,11,0.0,0.0,0.0,4.0
+Oregon,2016,May,11,0.0,0.0,0.0,6.0
+Pennsylvania,2016,May,11,0.0,0.0,0.0,18.0
+Rhode Island,2016,May,11,0.0,0.0,0.0,2.0
+South Carolina,2016,May,11,0.0,0.0,0.0,1.0
+Tennessee,2016,May,11,0.0,0.0,0.0,2.0
+Texas,2016,May,11,0.0,0.0,0.0,32.0
+Utah,2016,May,11,0.0,0.0,0.0,2.0
+Vermont,2016,May,11,0.0,0.0,0.0,1.0
+Virginia,2016,May,11,0.0,0.0,0.0,15.0
+Washington,2016,May,11,0.0,0.0,0.0,2.0
+West Virginia,2016,May,11,0.0,0.0,0.0,6.0
+American Samoa,2016,May,11,14.0,0.0,0.0,0.0
+Puerto Rico,2016,May,11,669.0,0.0,0.0,2.0
+US Virgin Islands,2016,May,11,15.0,0.0,0.0,1.0
+Alabama,2016,May,18,0.0,0.0,0.0,2.0
+Arizona,2016,May,18,0.0,0.0,0.0,1.0
+Arkansas,2016,May,18,0.0,0.0,0.0,2.0
+California,2016,May,18,0.0,0.0,0.0,44.0
+Colorado,2016,May,18,0.0,0.0,0.0,2.0
+Connecticut,2016,May,18,0.0,0.0,0.0,1.0
+Delaware,2016,May,18,0.0,0.0,0.0,3.0
+District of Columbia,2016,May,18,0.0,0.0,0.0,4.0
+Florida,2016,May,18,0.0,0.0,0.0,109.0
+Georgia,2016,May,18,0.0,0.0,0.0,14.0
+Hawaii,2016,May,18,0.0,0.0,0.0,9.0
+Illinois,2016,May,18,0.0,0.0,0.0,16.0
+Indiana,2016,May,18,0.0,0.0,0.0,6.0
+Iowa,2016,May,18,0.0,0.0,0.0,5.0
+Kansas,2016,May,18,0.0,0.0,0.0,1.0
+Kentucky,2016,May,18,0.0,0.0,0.0,5.0
+Louisiana,2016,May,18,0.0,0.0,0.0,4.0
+Maine,2016,May,18,0.0,0.0,0.0,3.0
+Maryland,2016,May,18,0.0,0.0,0.0,17.0
+Massachusetts,2016,May,18,0.0,0.0,0.0,11.0
+Michigan,2016,May,18,0.0,0.0,0.0,4.0
+Minnesota,2016,May,18,0.0,0.0,0.0,17.0
+Mississippi,2016,May,18,0.0,0.0,0.0,3.0
+Missouri,2016,May,18,0.0,0.0,0.0,3.0
+Montana,2016,May,18,0.0,0.0,0.0,1.0
+Nebraska,2016,May,18,0.0,0.0,0.0,2.0
+Nevada,2016,May,18,0.0,0.0,0.0,6.0
+New Hampshire,2016,May,18,0.0,0.0,0.0,3.0
+New Jersey,2016,May,18,0.0,0.0,0.0,12.0
+New Mexico,2016,May,18,0.0,0.0,0.0,1.0
+New York,2016,May,18,0.0,0.0,0.0,114.0
+North Carolina,2016,May,18,0.0,0.0,0.0,11.0
+Ohio,2016,May,18,0.0,0.0,0.0,12.0
+Oklahoma,2016,May,18,0.0,0.0,0.0,4.0
+Oregon,2016,May,18,0.0,0.0,0.0,6.0
+Pennsylvania,2016,May,18,0.0,0.0,0.0,19.0
+Rhode Island,2016,May,18,0.0,0.0,0.0,3.0
+South Carolina,2016,May,18,0.0,0.0,0.0,1.0
+Tennessee,2016,May,18,0.0,0.0,0.0,2.0
+Texas,2016,May,18,0.0,0.0,0.0,35.0
+Utah,2016,May,18,0.0,0.0,0.0,2.0
+Vermont,2016,May,18,0.0,0.0,0.0,1.0
+Virginia,2016,May,18,0.0,0.0,0.0,15.0
+Washington,2016,May,18,0.0,0.0,0.0,2.0
+West Virginia,2016,May,18,0.0,0.0,0.0,6.0
+American Samoa,2016,May,18,14.0,0.0,0.0,0.0
+Puerto Rico,2016,May,18,803.0,0.0,0.0,3.0
+US Virgin Islands,2016,May,18,15.0,0.0,0.0,1.0
+Alabama,2016,May,25,0.0,0.0,0.0,2.0
+Arizona,2016,May,25,0.0,0.0,0.0,3.0
+Arkansas,2016,May,25,0.0,0.0,0.0,3.0
+California,2016,May,25,0.0,0.0,0.0,44.0
+Colorado,2016,May,25,0.0,0.0,0.0,2.0
+Connecticut,2016,May,25,0.0,0.0,0.0,1.0
+Delaware,2016,May,25,0.0,0.0,0.0,3.0
+District of Columbia,2016,May,25,0.0,0.0,0.0,4.0
+Florida,2016,May,25,0.0,0.0,0.0,121.0
+Georgia,2016,May,25,0.0,0.0,0.0,15.0
+Hawaii,2016,May,25,0.0,0.0,0.0,9.0
+Illinois,2016,May,25,0.0,0.0,0.0,16.0
+Indiana,2016,May,25,0.0,0.0,0.0,6.0
+Iowa,2016,May,25,0.0,0.0,0.0,6.0
+Kansas,2016,May,25,0.0,0.0,0.0,2.0
+Kentucky,2016,May,25,0.0,0.0,0.0,5.0
+Louisiana,2016,May,25,0.0,0.0,0.0,4.0
+Maine,2016,May,25,0.0,0.0,0.0,5.0
+Maryland,2016,May,25,0.0,0.0,0.0,17.0
+Massachusetts,2016,May,25,0.0,0.0,0.0,16.0
+Michigan,2016,May,25,0.0,0.0,0.0,4.0
+Minnesota,2016,May,25,0.0,0.0,0.0,17.0
+Mississippi,2016,May,25,0.0,0.0,0.0,3.0
+Missouri,2016,May,25,0.0,0.0,0.0,3.0
+Montana,2016,May,25,0.0,0.0,0.0,1.0
+Nebraska,2016,May,25,0.0,0.0,0.0,2.0
+Nevada,2016,May,25,0.0,0.0,0.0,6.0
+New Hampshire,2016,May,25,0.0,0.0,0.0,3.0
+New Jersey,2016,May,25,0.0,0.0,0.0,14.0
+New Mexico,2016,May,25,0.0,0.0,0.0,1.0
+New York,2016,May,25,0.0,0.0,0.0,127.0
+North Carolina,2016,May,25,0.0,0.0,0.0,12.0
+Ohio,2016,May,25,0.0,0.0,0.0,12.0
+Oklahoma,2016,May,25,0.0,0.0,0.0,4.0
+Oregon,2016,May,25,0.0,0.0,0.0,6.0
+Pennsylvania,2016,May,25,0.0,0.0,0.0,19.0
+Rhode Island,2016,May,25,0.0,0.0,0.0,4.0
+South Carolina,2016,May,25,0.0,0.0,0.0,1.0
+Tennessee,2016,May,25,0.0,0.0,0.0,3.0
+Texas,2016,May,25,0.0,0.0,0.0,36.0
+Utah,2016,May,25,0.0,0.0,0.0,2.0
+Vermont,2016,May,25,0.0,0.0,0.0,1.0
+Virginia,2016,May,25,0.0,0.0,0.0,15.0
+Washington,2016,May,25,0.0,0.0,0.0,3.0
+Wisconsin,2016,May,25,0.0,0.0,0.0,2.0
+West Virginia,2016,May,25,0.0,0.0,0.0,6.0
+American Samoa,2016,May,25,17.0,0.0,0.0,0.0
+Puerto Rico,2016,May,25,903.0,0.0,0.0,3.0
+US Virgin Islands,2016,May,25,15.0,0.0,0.0,1.0
+Alabama,2016,Jun,1,0.0,0.0,0.0,2.0
+Arizona,2016,Jun,1,0.0,0.0,0.0,3.0
+Arkansas,2016,Jun,1,0.0,0.0,0.0,4.0
+California,2016,Jun,1,0.0,0.0,0.0,44.0
+Colorado,2016,Jun,1,0.0,0.0,0.0,2.0
+Connecticut,2016,Jun,1,0.0,0.0,0.0,1.0
+Delaware,2016,Jun,1,0.0,0.0,0.0,3.0
+District of Columbia,2016,Jun,1,0.0,0.0,0.0,6.0
+Florida,2016,Jun,1,0.0,0.0,0.0,128.0
+Georgia,2016,Jun,1,0.0,0.0,0.0,17.0
+Hawaii,2016,Jun,1,0.0,0.0,0.0,8.0
+Illinois,2016,Jun,1,0.0,0.0,0.0,16.0
+Indiana,2016,Jun,1,0.0,0.0,0.0,7.0
+Iowa,2016,Jun,1,0.0,0.0,0.0,6.0
+Kansas,2016,Jun,1,0.0,0.0,0.0,2.0
+Kentucky,2016,Jun,1,0.0,0.0,0.0,5.0
+Louisiana,2016,Jun,1,0.0,0.0,0.0,4.0
+Maine,2016,Jun,1,0.0,0.0,0.0,5.0
+Maryland,2016,Jun,1,0.0,0.0,0.0,19.0
+Massachusetts,2016,Jun,1,0.0,0.0,0.0,17.0
+Michigan,2016,Jun,1,0.0,0.0,0.0,6.0
+Minnesota,2016,Jun,1,0.0,0.0,0.0,17.0
+Mississippi,2016,Jun,1,0.0,0.0,0.0,3.0
+Missouri,2016,Jun,1,0.0,0.0,0.0,4.0
+Montana,2016,Jun,1,0.0,0.0,0.0,1.0
+Nebraska,2016,Jun,1,0.0,0.0,0.0,2.0
+Nevada,2016,Jun,1,0.0,0.0,0.0,6.0
+New Hampshire,2016,Jun,1,0.0,0.0,0.0,4.0
+New Jersey,2016,Jun,1,0.0,0.0,0.0,14.0
+New Mexico,2016,Jun,1,0.0,0.0,0.0,1.0
+New York,2016,Jun,1,0.0,0.0,0.0,130.0
+North Carolina,2016,Jun,1,0.0,0.0,0.0,12.0
+Ohio,2016,Jun,1,0.0,0.0,0.0,12.0
+Oklahoma,2016,Jun,1,0.0,0.0,0.0,4.0
+Oregon,2016,Jun,1,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Jun,1,0.0,0.0,0.0,19.0
+Rhode Island,2016,Jun,1,0.0,0.0,0.0,4.0
+South Carolina,2016,Jun,1,0.0,0.0,0.0,1.0
+Tennessee,2016,Jun,1,0.0,0.0,0.0,4.0
+Texas,2016,Jun,1,0.0,0.0,0.0,36.0
+Utah,2016,Jun,1,0.0,0.0,0.0,2.0
+Vermont,2016,Jun,1,0.0,0.0,0.0,1.0
+Virginia,2016,Jun,1,0.0,0.0,0.0,18.0
+Washington,2016,Jun,1,0.0,0.0,0.0,4.0
+West Virginia,2016,Jun,1,0.0,0.0,0.0,6.0
+Wisconsin,2016,Jun,1,0.0,0.0,0.0,2.0
+American Samoa,2016,Jun,1,17.0,0.0,0.0,0.0
+Puerto Rico,2016,Jun,1,1072.0,0.0,0.0,3.0
+US Virgin Islands,2016,Jun,1,21.0,0.0,0.0,1.0
+Alabama,2016,Jun,8,0.0,0.0,0.0,2.0
+Arizona,2016,Jun,8,0.0,0.0,0.0,2.0
+Arkansas,2016,Jun,8,0.0,0.0,0.0,5.0
+California,2016,Jun,8,0.0,0.0,0.0,48.0
+Colorado,2016,Jun,8,0.0,0.0,0.0,4.0
+Connecticut,2016,Jun,8,0.0,0.0,0.0,1.0
+Delaware,2016,Jun,8,0.0,0.0,0.0,4.0
+District of Columbia,2016,Jun,8,0.0,0.0,0.0,6.0
+Florida,2016,Jun,8,0.0,0.0,0.0,132.0
+Georgia,2016,Jun,8,0.0,0.0,0.0,17.0
+Hawaii,2016,Jun,8,0.0,0.0,0.0,10.0
+Illinois,2016,Jun,8,0.0,0.0,0.0,16.0
+Indiana,2016,Jun,8,0.0,0.0,0.0,7.0
+Iowa,2016,Jun,8,0.0,0.0,0.0,7.0
+Kansas,2016,Jun,8,0.0,0.0,0.0,2.0
+Kentucky,2016,Jun,8,0.0,0.0,0.0,6.0
+Louisiana,2016,Jun,8,0.0,0.0,0.0,4.0
+Maine,2016,Jun,8,0.0,0.0,0.0,6.0
+Maryland,2016,Jun,8,0.0,0.0,0.0,21.0
+Massachusetts,2016,Jun,8,0.0,0.0,0.0,20.0
+Michigan,2016,Jun,8,0.0,0.0,0.0,7.0
+Minnesota,2016,Jun,8,0.0,0.0,0.0,17.0
+Mississippi,2016,Jun,8,0.0,0.0,0.0,3.0
+Missouri,2016,Jun,8,0.0,0.0,0.0,4.0
+Montana,2016,Jun,8,0.0,0.0,0.0,1.0
+Nebraska,2016,Jun,8,0.0,0.0,0.0,2.0
+Nevada,2016,Jun,8,0.0,0.0,0.0,6.0
+New Hampshire,2016,Jun,8,0.0,0.0,0.0,4.0
+New Jersey,2016,Jun,8,0.0,0.0,0.0,17.0
+New Mexico,2016,Jun,8,0.0,0.0,0.0,3.0
+New York,2016,Jun,8,0.0,0.0,0.0,164.0
+North Carolina,2016,Jun,8,0.0,0.0,0.0,11.0
+Ohio,2016,Jun,8,0.0,0.0,0.0,14.0
+Oklahoma,2016,Jun,8,0.0,0.0,0.0,5.0
+Oregon,2016,Jun,8,0.0,0.0,0.0,6.0
+Pennsylvania,2016,Jun,8,0.0,0.0,0.0,23.0
+Rhode Island,2016,Jun,8,0.0,0.0,0.0,4.0
+South Carolina,2016,Jun,8,0.0,0.0,0.0,1.0
+Tennessee,2016,Jun,8,0.0,0.0,0.0,4.0
+Texas,2016,Jun,8,0.0,0.0,0.0,40.0
+Utah,2016,Jun,8,0.0,0.0,0.0,2.0
+Vermont,2016,Jun,8,0.0,0.0,0.0,1.0
+Virginia,2016,Jun,8,0.0,0.0,0.0,20.0
+Washington,2016,Jun,8,0.0,0.0,0.0,4.0
+West Virginia,2016,Jun,8,0.0,0.0,0.0,6.0
+Wisconsin,2016,Jun,8,0.0,0.0,0.0,2.0
+American Samoa,2016,Jun,8,21.0,0.0,0.0,0.0
+Puerto Rico,2016,Jun,8,1259.0,0.0,0.0,3.0
+US Virgin Islands,2016,Jun,8,21.0,0.0,0.0,1.0
+Alabama,2016,Jun,15,0.0,0.0,0.0,2.0
+Arizona,2016,Jun,15,0.0,0.0,0.0,2.0
+Arkansas,2016,Jun,15,0.0,0.0,0.0,5.0
+California,2016,Jun,15,0.0,0.0,0.0,48.0
+Colorado,2016,Jun,15,0.0,0.0,0.0,5.0
+Connecticut,2016,Jun,15,0.0,0.0,0.0,1.0
+Delaware,2016,Jun,15,0.0,0.0,0.0,4.0
+District of Columbia,2016,Jun,15,0.0,0.0,0.0,6.0
+Florida,2016,Jun,15,0.0,0.0,0.0,141.0
+Georgia,2016,Jun,15,0.0,0.0,0.0,20.0
+Hawaii,2016,Jun,15,0.0,0.0,0.0,10.0
+Illinois,2016,Jun,15,0.0,0.0,0.0,19.0
+Indiana,2016,Jun,15,0.0,0.0,0.0,10.0
+Iowa,2016,Jun,15,0.0,0.0,0.0,7.0
+Kansas,2016,Jun,15,0.0,0.0,0.0,2.0
+Kentucky,2016,Jun,15,0.0,0.0,0.0,6.0
+Louisiana,2016,Jun,15,0.0,0.0,0.0,6.0
+Maine,2016,Jun,15,0.0,0.0,0.0,6.0
+Maryland,2016,Jun,15,0.0,0.0,0.0,25.0
+Massachusetts,2016,Jun,15,0.0,0.0,0.0,27.0
+Michigan,2016,Jun,15,0.0,0.0,0.0,7.0
+Minnesota,2016,Jun,15,0.0,0.0,0.0,19.0
+Mississippi,2016,Jun,15,0.0,0.0,0.0,3.0
+Missouri,2016,Jun,15,0.0,0.0,0.0,4.0
+Montana,2016,Jun,15,0.0,0.0,0.0,1.0
+Nebraska,2016,Jun,15,0.0,0.0,0.0,2.0
+Nevada,2016,Jun,15,0.0,0.0,0.0,7.0
+New Hampshire,2016,Jun,15,0.0,0.0,0.0,4.0
+New Jersey,2016,Jun,15,0.0,0.0,0.0,17.0
+New Mexico,2016,Jun,15,0.0,0.0,0.0,3.0
+New York,2016,Jun,15,0.0,0.0,0.0,174.0
+North Carolina,2016,Jun,15,0.0,0.0,0.0,15.0
+Ohio,2016,Jun,15,0.0,0.0,0.0,14.0
+Oklahoma,2016,Jun,15,0.0,0.0,0.0,6.0
+Oregon,2016,Jun,15,0.0,0.0,0.0,7.0
+Pennsylvania††,2016,Jun,15,0.0,0.0,0.0,23.0
+Rhode Island,2016,Jun,15,0.0,0.0,0.0,8.0
+South Carolina,2016,Jun,15,0.0,0.0,0.0,1.0
+Tennessee,2016,Jun,15,0.0,0.0,0.0,4.0
+Texas,2016,Jun,15,0.0,0.0,0.0,42.0
+Utah,2016,Jun,15,0.0,0.0,0.0,2.0
+Vermont,2016,Jun,15,0.0,0.0,0.0,1.0
+Virginia,2016,Jun,15,0.0,0.0,0.0,26.0
+Washington,2016,Jun,15,0.0,0.0,0.0,5.0
+West Virginia,2016,Jun,15,0.0,0.0,0.0,6.0
+Wisconsin,2016,Jun,15,0.0,0.0,0.0,2.0
+American Samoa,2016,Jun,15,29.0,0.0,0.0,0.0
+Puerto Rico,2016,Jun,15,1386.0,0.0,0.0,3.0
+US Virgin Islands,2016,Jun,15,21.0,0.0,0.0,1.0
+Alabama,2016,Jun,29,0.0,0.0,0.0,2.0
+Arizona,2016,Jun,29,0.0,0.0,0.0,6.0
+Arkansas,2016,Jun,29,0.0,0.0,0.0,5.0
+California,2016,Jun,29,0.0,0.0,0.0,55.0
+Colorado,2016,Jun,29,0.0,0.0,0.0,8.0
+Connecticut,2016,Jun,29,0.0,0.0,0.0,1.0
+Delaware,2016,Jun,29,0.0,0.0,0.0,5.0
+District of Columbia,2016,Jun,29,0.0,0.0,0.0,6.0
+Florida,2016,Jun,29,0.0,0.0,0.0,182.0
+Georgia,2016,Jun,29,0.0,0.0,0.0,26.0
+Hawaii,2016,Jun,29,0.0,0.0,0.0,10.0
+Illinois,2016,Jun,29,0.0,0.0,0.0,16.0
+Indiana,2016,Jun,29,0.0,0.0,0.0,10.0
+Iowa,2016,Jun,29,0.0,0.0,0.0,7.0
+Kansas,2016,Jun,29,0.0,0.0,0.0,5.0
+Kentucky,2016,Jun,29,0.0,0.0,0.0,6.0
+Louisiana,2016,Jun,29,0.0,0.0,0.0,6.0
+Maine,2016,Jun,29,0.0,0.0,0.0,6.0
+Maryland,2016,Jun,29,0.0,0.0,0.0,31.0
+Massachusetts,2016,Jun,29,0.0,0.0,0.0,32.0
+Michigan,2016,Jun,29,0.0,0.0,0.0,10.0
+Minnesota,2016,Jun,29,0.0,0.0,0.0,19.0
+Mississippi,2016,Jun,29,0.0,0.0,0.0,3.0
+Missouri,2016,Jun,29,0.0,0.0,0.0,5.0
+Montana,2016,Jun,29,0.0,0.0,0.0,1.0
+Nebraska,2016,Jun,29,0.0,0.0,0.0,2.0
+Nevada,2016,Jun,29,0.0,0.0,0.0,7.0
+New Hampshire,2016,Jun,29,0.0,0.0,0.0,4.0
+New Jersey,2016,Jun,29,0.0,0.0,0.0,21.0
+New Mexico,2016,Jun,29,0.0,0.0,0.0,3.0
+New York,2016,Jun,29,0.0,0.0,0.0,236.0
+North Carolina,2016,Jun,29,0.0,0.0,0.0,16.0
+Ohio,2016,Jun,29,0.0,0.0,0.0,16.0
+Oklahoma,2016,Jun,29,0.0,0.0,0.0,6.0
+Oregon,2016,Jun,29,0.0,0.0,0.0,7.0
+Pennsylvania††,2016,Jun,29,0.0,0.0,0.0,31.0
+Rhode Island,2016,Jun,29,0.0,0.0,0.0,15.0
+South Carolina,2016,Jun,29,0.0,0.0,0.0,6.0
+Tennessee,2016,Jun,29,0.0,0.0,0.0,8.0
+Texas,2016,Jun,29,0.0,0.0,0.0,49.0
+Utah,2016,Jun,29,0.0,0.0,0.0,2.0
+Vermont,2016,Jun,29,0.0,0.0,0.0,2.0
+Virginia,2016,Jun,29,0.0,0.0,0.0,27.0
+Washington,2016,Jun,29,0.0,0.0,0.0,6.0
+West Virginia,2016,Jun,29,0.0,0.0,0.0,6.0
+Wisconsin,2016,Jun,29,0.0,0.0,0.0,2.0
+American Samoa,2016,Jun,29,29.0,0.0,0.0,0.0
+Puerto Rico,2016,Jun,29,1970.0,0.0,0.0,5.0
+US Virgin Islands,2016,Jun,29,21.0,0.0,0.0,1.0
+Alabama,2016,Jul,6,0.0,0.0,0.0,2.0
+Arizona,2016,Jul,6,0.0,0.0,0.0,6.0
+Arkansas,2016,Jul,6,0.0,0.0,0.0,5.0
+California,2016,Jul,6,0.0,0.0,0.0,69.0
+Colorado,2016,Jul,6,0.0,0.0,0.0,10.0
+Connecticut,2016,Jul,6,0.0,0.0,0.0,27.0
+Delaware,2016,Jul,6,0.0,0.0,0.0,5.0
+District of Columbia,2016,Jul,6,0.0,0.0,0.0,7.0
+Florida,2016,Jul,6,0.0,0.0,0.0,206.0
+Georgia,2016,Jul,6,0.0,0.0,0.0,29.0
+Hawaii,2016,Jul,6,0.0,0.0,0.0,10.0
+Illinois,2016,Jul,6,0.0,0.0,0.0,23.0
+Indiana,2016,Jul,6,0.0,0.0,0.0,10.0
+Iowa,2016,Jul,6,0.0,0.0,0.0,9.0
+Kansas,2016,Jul,6,0.0,0.0,0.0,5.0
+Kentucky,2016,Jul,6,0.0,0.0,0.0,7.0
+Louisiana,2016,Jul,6,0.0,0.0,0.0,6.0
+Maine,2016,Jul,6,0.0,0.0,0.0,6.0
+Maryland,2016,Jul,6,0.0,0.0,0.0,31.0
+Massachusetts,2016,Jul,6,0.0,0.0,0.0,39.0
+Michigan,2016,Jul,6,0.0,0.0,0.0,10.0
+Minnesota,2016,Jul,6,0.0,0.0,0.0,21.0
+Mississippi,2016,Jul,6,0.0,0.0,0.0,5.0
+Missouri,2016,Jul,6,0.0,0.0,0.0,6.0
+Montana,2016,Jul,6,0.0,0.0,0.0,1.0
+Nebraska,2016,Jul,6,0.0,0.0,0.0,2.0
+Nevada,2016,Jul,6,0.0,0.0,0.0,7.0
+New Hampshire,2016,Jul,6,0.0,0.0,0.0,4.0
+New Jersey,2016,Jul,6,0.0,0.0,0.0,45.0
+New Mexico,2016,Jul,6,0.0,0.0,0.0,3.0
+New York,2016,Jul,6,0.0,0.0,0.0,285.0
+North Carolina,2016,Jul,6,0.0,0.0,0.0,17.0
+Ohio,2016,Jul,6,0.0,0.0,0.0,21.0
+Oklahoma,2016,Jul,6,0.0,0.0,0.0,12.0
+Oregon,2016,Jul,6,0.0,0.0,0.0,7.0
+Pennsylvania††,2016,Jul,6,0.0,0.0,0.0,35.0
+Rhode Island,2016,Jul,6,0.0,0.0,0.0,16.0
+South Carolina,2016,Jul,6,0.0,0.0,0.0,6.0
+Tennessee,2016,Jul,6,0.0,0.0,0.0,10.0
+Texas,2016,Jul,6,0.0,0.0,0.0,53.0
+Utah,2016,Jul,6,0.0,0.0,0.0,3.0
+Vermont,2016,Jul,6,0.0,0.0,0.0,2.0
+Virginia,2016,Jul,6,0.0,0.0,0.0,33.0
+Washington,2016,Jul,6,0.0,0.0,0.0,9.0
+West Virginia,2016,Jul,6,0.0,0.0,0.0,6.0
+Wisconsin,2016,Jul,6,0.0,0.0,0.0,2.0
+American Samoa,2016,Jul,6,31.0,0.0,0.0,0.0
+Puerto Rico,2016,Jul,6,2474.0,0.0,0.0,7.0
+US Virgin Islands,2016,Jul,6,21.0,0.0,0.0,1.0
+Alabama,2016,Jul,13,0.0,0.0,0.0,2.0
+Arizona,2016,Jul,13,0.0,0.0,0.0,7.0
+Arkansas,2016,Jul,13,0.0,0.0,0.0,5.0
+California,2016,Jul,13,0.0,0.0,0.0,69.0
+Colorado,2016,Jul,13,0.0,0.0,0.0,12.0
+Connecticut,2016,Jul,13,0.0,0.0,0.0,30.0
+Delaware,2016,Jul,13,0.0,0.0,0.0,8.0
+District of Columbia,2016,Jul,13,0.0,0.0,0.0,9.0
+Florida,2016,Jul,13,0.0,0.0,0.0,229.0
+Georgia,2016,Jul,13,0.0,0.0,0.0,33.0
+Hawaii,2016,Jul,13,0.0,0.0,0.0,10.0
+Illinois,2016,Jul,13,0.0,0.0,0.0,23.0
+Indiana,2016,Jul,13,0.0,0.0,0.0,12.0
+Iowa,2016,Jul,13,0.0,0.0,0.0,9.0
+Kansas,2016,Jul,13,0.0,0.0,0.0,5.0
+Kentucky,2016,Jul,13,0.0,0.0,0.0,7.0
+Louisiana,2016,Jul,13,0.0,0.0,0.0,7.0
+Maine,2016,Jul,13,0.0,0.0,0.0,7.0
+Maryland,2016,Jul,13,0.0,0.0,0.0,35.0
+Massachusetts,2016,Jul,13,0.0,0.0,0.0,49.0
+Michigan,2016,Jul,13,0.0,0.0,0.0,13.0
+Minnesota,2016,Jul,13,0.0,0.0,0.0,21.0
+Mississippi,2016,Jul,13,0.0,0.0,0.0,8.0
+Missouri,2016,Jul,13,0.0,0.0,0.0,8.0
+Montana,2016,Jul,13,0.0,0.0,0.0,1.0
+Nebraska,2016,Jul,13,0.0,0.0,0.0,3.0
+Nevada,2016,Jul,13,0.0,0.0,0.0,9.0
+New Hampshire,2016,Jul,13,0.0,0.0,0.0,4.0
+New Jersey,2016,Jul,13,0.0,0.0,0.0,50.0
+New Mexico,2016,Jul,13,0.0,0.0,0.0,3.0
+New York,2016,Jul,13,0.0,0.0,0.0,339.0
+North Carolina,2016,Jul,13,0.0,0.0,0.0,18.0
+Ohio,2016,Jul,13,0.0,0.0,0.0,25.0
+Oklahoma,2016,Jul,13,0.0,0.0,0.0,12.0
+Oregon,2016,Jul,13,0.0,0.0,0.0,12.0
+Pennsylvania††,2016,Jul,13,0.0,0.0,0.0,39.0
+Rhode Island,2016,Jul,13,0.0,0.0,0.0,16.0
+South Carolina,2016,Jul,13,0.0,0.0,0.0,13.0
+Tennessee,2016,Jul,13,0.0,0.0,0.0,14.0
+Texas,2016,Jul,13,0.0,0.0,0.0,57.0
+Utah,2016,Jul,13,0.0,0.0,0.0,5.0
+Vermont,2016,Jul,13,0.0,0.0,0.0,3.0
+Virginia,2016,Jul,13,0.0,0.0,0.0,38.0
+Washington,2016,Jul,13,0.0,0.0,0.0,11.0
+West Virginia,2016,Jul,13,0.0,0.0,0.0,7.0
+Wisconsin,2016,Jul,13,0.0,0.0,0.0,9.0
+American Samoa,2016,Jul,13,41.0,0.0,0.0,2.0
+Puerto Rico,2016,Jul,13,2843.0,0.0,0.0,8.0
+US Virgin Islands,2016,Jul,13,21.0,0.0,0.0,1.0
+Alabama,2016,Jul,20,0.0,0.0,0.0,8.0
+Arizona,2016,Jul,20,0.0,0.0,0.0,7.0
+Arkansas,2016,Jul,20,0.0,0.0,0.0,5.0
+California,2016,Jul,20,0.0,0.0,0.0,69.0
+Colorado,2016,Jul,20,0.0,0.0,0.0,17.0
+Connecticut,2016,Jul,20,0.0,0.0,0.0,30.0
+Delaware,2016,Jul,20,0.0,0.0,0.0,10.0
+District of Columbia,2016,Jul,20,0.0,0.0,0.0,9.0
+Florida,2016,Jul,20,0.0,0.0,0.0,270.0
+Georgia,2016,Jul,20,0.0,0.0,0.0,39.0
+Hawaii,2016,Jul,20,0.0,0.0,0.0,10.0
+Illinois,2016,Jul,20,0.0,0.0,0.0,23.0
+Indiana,2016,Jul,20,0.0,0.0,0.0,13.0
+Iowa,2016,Jul,20,0.0,0.0,0.0,9.0
+Kansas,2016,Jul,20,0.0,0.0,0.0,5.0
+Kentucky,2016,Jul,20,0.0,0.0,0.0,9.0
+Louisiana,2016,Jul,20,0.0,0.0,0.0,8.0
+Maine,2016,Jul,20,0.0,0.0,0.0,7.0
+Maryland,2016,Jul,20,0.0,0.0,0.0,36.0
+Massachusetts,2016,Jul,20,0.0,0.0,0.0,49.0
+Michigan,2016,Jul,20,0.0,0.0,0.0,13.0
+Minnesota,2016,Jul,20,0.0,0.0,0.0,21.0
+Mississippi,2016,Jul,20,0.0,0.0,0.0,9.0
+Missouri,2016,Jul,20,0.0,0.0,0.0,8.0
+Montana,2016,Jul,20,0.0,0.0,0.0,1.0
+Nebraska,2016,Jul,20,0.0,0.0,0.0,3.0
+Nevada,2016,Jul,20,0.0,0.0,0.0,9.0
+New Hampshire,2016,Jul,20,0.0,0.0,0.0,5.0
+New Jersey,2016,Jul,20,0.0,0.0,0.0,50.0
+New Mexico,2016,Jul,20,0.0,0.0,0.0,3.0
+New York,2016,Jul,20,0.0,0.0,0.0,345.0
+North Carolina,2016,Jul,20,0.0,0.0,0.0,18.0
+North Dakota,2016,Jul,20,0.0,0.0,0.0,1.0
+Ohio,2016,Jul,20,0.0,0.0,0.0,26.0
+Oklahoma,2016,Jul,20,0.0,0.0,0.0,12.0
+Oregon,2016,Jul,20,0.0,0.0,0.0,12.0
+Pennsylvania††,2016,Jul,20,0.0,0.0,0.0,42.0
+Rhode Island,2016,Jul,20,0.0,0.0,0.0,17.0
+South Carolina,2016,Jul,20,0.0,0.0,0.0,13.0
+Tennessee,2016,Jul,20,0.0,0.0,0.0,14.0
+Texas,2016,Jul,20,0.0,0.0,0.0,69.0
+Utah,2016,Jul,20,0.0,0.0,0.0,6.0
+Vermont,2016,Jul,20,0.0,0.0,0.0,3.0
+Virginia,2016,Jul,20,0.0,0.0,0.0,40.0
+Washington,2016,Jul,20,0.0,0.0,0.0,13.0
+West Virginia,2016,Jul,20,0.0,0.0,0.0,7.0
+Wisconsin,2016,Jul,20,0.0,0.0,0.0,11.0
+American Samoa,2016,Jul,20,42.0,0.0,0.0,2.0
+Puerto Rico,2016,Jul,20,3752.0,0.0,0.0,9.0
+US Virgin Islands,2016,Jul,20,21.0,0.0,0.0,1.0
+Alabama,2016,Jul,27,0.0,0.0,0.0,9.0
+Arizona,2016,Jul,27,0.0,0.0,0.0,10.0
+Arkansas,2016,Jul,27,0.0,0.0,0.0,5.0
+California,2016,Jul,27,0.0,0.0,0.0,87.0
+Colorado,2016,Jul,27,0.0,0.0,0.0,18.0
+Connecticut,2016,Jul,27,0.0,0.0,0.0,38.0
+Delaware,2016,Jul,27,0.0,0.0,0.0,10.0
+District of Columbia,2016,Jul,27,0.0,0.0,0.0,10.0
+Florida,2016,Jul,27,0.0,0.0,0.0,307.0
+Georgia,2016,Jul,27,0.0,0.0,0.0,41.0
+Hawaii,2016,Jul,27,0.0,0.0,0.0,10.0
+Illinois,2016,Jul,27,0.0,0.0,0.0,29.0
+Indiana,2016,Jul,27,0.0,0.0,0.0,15.0
+Iowa,2016,Jul,27,0.0,0.0,0.0,9.0
+Kansas,2016,Jul,27,0.0,0.0,0.0,6.0
+Kentucky,2016,Jul,27,0.0,0.0,0.0,10.0
+Louisiana,2016,Jul,27,0.0,0.0,0.0,9.0
+Maine,2016,Jul,27,0.0,0.0,0.0,7.0
+Maryland,2016,Jul,27,0.0,0.0,0.0,48.0
+Massachusetts,2016,Jul,27,0.0,0.0,0.0,52.0
+Michigan,2016,Jul,27,0.0,0.0,0.0,14.0
+Minnesota,2016,Jul,27,0.0,0.0,0.0,21.0
+Mississippi,2016,Jul,27,0.0,0.0,0.0,11.0
+Missouri,2016,Jul,27,0.0,0.0,0.0,8.0
+Montana,2016,Jul,27,0.0,0.0,0.0,1.0
+Nebraska,2016,Jul,27,0.0,0.0,0.0,4.0
+Nevada,2016,Jul,27,0.0,0.0,0.0,11.0
+New Hampshire,2016,Jul,27,0.0,0.0,0.0,7.0
+New Jersey,2016,Jul,27,0.0,0.0,0.0,50.0
+New Mexico,2016,Jul,27,0.0,0.0,0.0,3.0
+New York,2016,Jul,27,0.0,0.0,0.0,449.0
+North Carolina,2016,Jul,27,0.0,0.0,0.0,21.0
+North Dakota,2016,Jul,27,0.0,0.0,0.0,1.0
+Ohio,2016,Jul,27,0.0,0.0,0.0,26.0
+Oklahoma,2016,Jul,27,0.0,0.0,0.0,13.0
+Oregon,2016,Jul,27,0.0,0.0,0.0,12.0
+Pennsylvania††,2016,Jul,27,0.0,0.0,0.0,48.0
+Rhode Island,2016,Jul,27,0.0,0.0,0.0,16.0
+South Carolina,2016,Jul,27,0.0,0.0,0.0,26.0
+Tennessee,2016,Jul,27,0.0,0.0,0.0,16.0
+Texas,2016,Jul,27,0.0,0.0,0.0,76.0
+Utah,2016,Jul,27,0.0,0.0,0.0,6.0
+Vermont,2016,Jul,27,0.0,0.0,0.0,6.0
+Virginia,2016,Jul,27,0.0,0.0,0.0,48.0
+Washington,2016,Jul,27,0.0,0.0,0.0,14.0
+West Virginia,2016,Jul,27,0.0,0.0,0.0,9.0
+Wisconsin,2016,Jul,27,0.0,0.0,0.0,11.0
+American Samoa,2016,Jul,27,42.0,0.0,0.0,2.0
+Puerto Rico,2016,Jul,27,4666.0,0.0,0.0,18.0
+US Virgin Islands,2016,Jul,27,21.0,0.0,0.0,1.0
+Alabama,2016,Aug,3,0.0,0.0,0.0,11.0
+Arizona,2016,Aug,3,0.0,0.0,0.0,10.0
+Arkansas,2016,Aug,3,0.0,0.0,0.0,5.0
+California,2016,Aug,3,0.0,0.0,0.0,87.0
+Colorado,2016,Aug,3,0.0,0.0,0.0,19.0
+Connecticut,2016,Aug,3,0.0,0.0,0.0,39.0
+Delaware,2016,Aug,3,0.0,0.0,0.0,10.0
+District of Columbia,2016,Aug,3,0.0,0.0,0.0,10.0
+Florida,2016,Aug,3,6.0,0.0,0.0,322.0
+Georgia,2016,Aug,3,0.0,0.0,0.0,42.0
+Hawaii,2016,Aug,3,0.0,0.0,0.0,10.0
+Illinois,2016,Aug,3,0.0,0.0,0.0,33.0
+Indiana,2016,Aug,3,0.0,0.0,0.0,20.0
+Iowa,2016,Aug,3,0.0,0.0,0.0,9.0
+Kansas,2016,Aug,3,0.0,0.0,0.0,8.0
+Kentucky,2016,Aug,3,0.0,0.0,0.0,10.0
+Louisiana,2016,Aug,3,0.0,0.0,0.0,9.0
+Maine,2016,Aug,3,0.0,0.0,0.0,9.0
+Maryland,2016,Aug,3,0.0,0.0,0.0,54.0
+Massachusetts,2016,Aug,3,0.0,0.0,0.0,54.0
+Michigan,2016,Aug,3,0.0,0.0,0.0,17.0
+Minnesota,2016,Aug,3,0.0,0.0,0.0,29.0
+Mississippi,2016,Aug,3,0.0,0.0,0.0,14.0
+Missouri,2016,Aug,3,0.0,0.0,0.0,10.0
+Montana,2016,Aug,3,0.0,0.0,0.0,1.0
+Nebraska,2016,Aug,3,0.0,0.0,0.0,4.0
+Nevada,2016,Aug,3,0.0,0.0,0.0,11.0
+New Hampshire,2016,Aug,3,0.0,0.0,0.0,8.0
+New Jersey,2016,Aug,3,0.0,0.0,0.0,50.0
+New Mexico,2016,Aug,3,0.0,0.0,0.0,3.0
+New York,2016,Aug,3,0.0,0.0,0.0,491.0
+North Carolina,2016,Aug,3,0.0,0.0,0.0,30.0
+North Dakota,2016,Aug,3,0.0,0.0,0.0,1.0
+Ohio,2016,Aug,3,0.0,0.0,0.0,26.0
+Oklahoma,2016,Aug,3,0.0,0.0,0.0,13.0
+Oregon,2016,Aug,3,0.0,0.0,0.0,14.0
+Pennsylvania††,2016,Aug,3,0.0,0.0,0.0,58.0
+Rhode Island,2016,Aug,3,0.0,0.0,0.0,18.0
+South Carolina,2016,Aug,3,0.0,0.0,0.0,28.0
+Tennessee,2016,Aug,3,0.0,0.0,0.0,22.0
+Texas,2016,Aug,3,0.0,0.0,0.0,89.0
+Utah,2016,Aug,3,0.0,0.0,0.0,6.0
+Vermont,2016,Aug,3,0.0,0.0,0.0,6.0
+Virginia,2016,Aug,3,0.0,0.0,0.0,57.0
+Washington,2016,Aug,3,0.0,0.0,0.0,16.0
+West Virginia,2016,Aug,3,0.0,0.0,0.0,9.0
+Wisconsin,2016,Aug,3,0.0,0.0,0.0,17.0
+American Samoa,2016,Aug,3,44.0,0.0,0.0,0.0
+Puerto Rico,2016,Aug,3,5460.0,0.0,0.0,22.0
+US Virgin Islands,2016,Aug,3,21.0,0.0,0.0,1.0
+Alabama,2016,Aug,10,0.0,0.0,0.0,11.0
+Arizona,2016,Aug,10,0.0,0.0,0.0,10.0
+Arkansas,2016,Aug,10,0.0,0.0,0.0,5.0
+California,2016,Aug,10,0.0,0.0,0.0,87.0
+Colorado,2016,Aug,10,0.0,0.0,0.0,20.0
+Connecticut,2016,Aug,10,0.0,0.0,0.0,49.0
+Delaware,2016,Aug,10,0.0,0.0,0.0,10.0
+District of Columbia,2016,Aug,10,0.0,0.0,0.0,11.0
+Florida,2016,Aug,10,6.0,0.0,0.0,322.0
+Georgia,2016,Aug,10,0.0,0.0,0.0,46.0
+Hawaii,2016,Aug,10,0.0,0.0,0.0,10.0
+Idaho,2016,Aug,10,0.0,0.0,0.0,1.0
+Illinois,2016,Aug,10,0.0,0.0,0.0,44.0
+Indiana,2016,Aug,10,0.0,0.0,0.0,22.0
+Iowa,2016,Aug,10,0.0,0.0,0.0,9.0
+Kansas,2016,Aug,10,0.0,0.0,0.0,8.0
+Kentucky,2016,Aug,10,0.0,0.0,0.0,10.0
+Louisiana,2016,Aug,10,0.0,0.0,0.0,22.0
+Maine,2016,Aug,10,0.0,0.0,0.0,9.0
+Maryland,2016,Aug,10,0.0,0.0,0.0,57.0
+Massachusetts,2016,Aug,10,0.0,0.0,0.0,58.0
+Michigan,2016,Aug,10,0.0,0.0,0.0,20.0
+Minnesota,2016,Aug,10,0.0,0.0,0.0,29.0
+Mississippi,2016,Aug,10,0.0,0.0,0.0,14.0
+Missouri,2016,Aug,10,0.0,0.0,0.0,14.0
+Montana,2016,Aug,10,0.0,0.0,0.0,4.0
+Nebraska,2016,Aug,10,0.0,0.0,0.0,6.0
+Nevada,2016,Aug,10,0.0,0.0,0.0,12.0
+New Hampshire,2016,Aug,10,0.0,0.0,0.0,8.0
+New Jersey,2016,Aug,10,0.0,0.0,0.0,54.0
+New Mexico,2016,Aug,10,0.0,0.0,0.0,3.0
+New York,2016,Aug,10,0.0,0.0,0.0,530.0
+North Carolina,2016,Aug,10,0.0,0.0,0.0,33.0
+North Dakota,2016,Aug,10,0.0,0.0,0.0,1.0
+Ohio,2016,Aug,10,0.0,0.0,0.0,26.0
+Oklahoma,2016,Aug,10,0.0,0.0,0.0,17.0
+Oregon,2016,Aug,10,0.0,0.0,0.0,14.0
+Pennsylvania††,2016,Aug,10,0.0,0.0,0.0,63.0
+Rhode Island,2016,Aug,10,0.0,0.0,0.0,18.0
+South Carolina,2016,Aug,10,0.0,0.0,0.0,31.0
+Tennessee,2016,Aug,10,0.0,0.0,0.0,27.0
+Texas,2016,Aug,10,0.0,0.0,0.0,99.0
+Utah,2016,Aug,10,0.0,0.0,0.0,6.0
+Vermont,2016,Aug,10,0.0,0.0,0.0,6.0
+Virginia,2016,Aug,10,0.0,0.0,0.0,58.0
+Washington,2016,Aug,10,0.0,0.0,0.0,16.0
+West Virginia,2016,Aug,10,0.0,0.0,0.0,9.0
+Wisconsin,2016,Aug,10,0.0,0.0,0.0,17.0
+American Samoa,2016,Aug,10,44.0,0.0,0.0,0.0
+Puerto Rico,2016,Aug,10,6475.0,0.0,0.0,30.0
+US Virgin Islands,2016,Aug,10,68.0,0.0,0.0,1.0
+Alabama,2016,Aug,17,0.0,0.0,0.0,11.0
+Arizona,2016,Aug,17,0.0,0.0,0.0,17.0
+Arkansas,2016,Aug,17,0.0,0.0,0.0,9.0
+California,2016,Aug,17,0.0,0.0,0.0,137.0
+Colorado,2016,Aug,17,0.0,0.0,0.0,21.0
+Connecticut,2016,Aug,17,0.0,0.0,0.0,49.0
+Delaware,2016,Aug,17,0.0,0.0,0.0,10.0
+District of Columbia,2016,Aug,17,0.0,0.0,0.0,11.0
+Florida,2016,Aug,17,14.0,0.0,0.0,405.0
+Georgia,2016,Aug,17,0.0,0.0,0.0,48.0
+Hawaii,2016,Aug,17,0.0,0.0,0.0,10.0
+Idaho,2016,Aug,17,0.0,0.0,0.0,1.0
+Illinois,2016,Aug,17,0.0,0.0,0.0,45.0
+Indiana,2016,Aug,17,0.0,0.0,0.0,24.0
+Iowa,2016,Aug,17,0.0,0.0,0.0,13.0
+Kansas,2016,Aug,17,0.0,0.0,0.0,9.0
+Kentucky,2016,Aug,17,0.0,0.0,0.0,10.0
+Louisiana,2016,Aug,17,0.0,0.0,0.0,23.0
+Maine,2016,Aug,17,0.0,0.0,0.0,9.0
+Maryland,2016,Aug,17,0.0,0.0,0.0,64.0
+Massachusetts,2016,Aug,17,0.0,0.0,0.0,59.0
+Michigan,2016,Aug,17,0.0,0.0,0.0,25.0
+Minnesota,2016,Aug,17,0.0,0.0,0.0,31.0
+Mississippi,2016,Aug,17,0.0,0.0,0.0,17.0
+Missouri,2016,Aug,17,0.0,0.0,0.0,18.0
+Montana,2016,Aug,17,0.0,0.0,0.0,4.0
+Nebraska,2016,Aug,17,0.0,0.0,0.0,6.0
+Nevada,2016,Aug,17,0.0,0.0,0.0,13.0
+New Hampshire,2016,Aug,17,0.0,0.0,0.0,8.0
+New Jersey,2016,Aug,17,0.0,0.0,0.0,66.0
+New Mexico,2016,Aug,17,0.0,0.0,0.0,3.0
+New York,2016,Aug,17,0.0,0.0,0.0,579.0
+North Carolina,2016,Aug,17,0.0,0.0,0.0,35.0
+North Dakota,2016,Aug,17,0.0,0.0,0.0,1.0
+Ohio,2016,Aug,17,0.0,0.0,0.0,33.0
+Oklahoma,2016,Aug,17,0.0,0.0,0.0,19.0
+Oregon,2016,Aug,17,0.0,0.0,0.0,14.0
+Pennsylvania††,2016,Aug,17,0.0,0.0,0.0,69.0
+Rhode Island,2016,Aug,17,0.0,0.0,0.0,25.0
+South Carolina,2016,Aug,17,0.0,0.0,0.0,31.0
+Tennessee,2016,Aug,17,0.0,0.0,0.0,33.0
+Texas,2016,Aug,17,0.0,0.0,0.0,108.0
+Utah,2016,Aug,17,0.0,0.0,0.0,6.0
+Vermont,2016,Aug,17,0.0,0.0,0.0,6.0
+Virginia,2016,Aug,17,0.0,0.0,0.0,62.0
+Washington,2016,Aug,17,0.0,0.0,0.0,19.0
+West Virginia,2016,Aug,17,0.0,0.0,0.0,10.0
+Wisconsin,2016,Aug,17,0.0,0.0,0.0,20.0
+American Samoa,2016,Aug,17,44.0,0.0,0.0,0.0
+Puerto Rico,2016,Aug,17,7855.0,0.0,0.0,34.0
+US Virgin Islands,2016,Aug,17,101.0,0.0,0.0,1.0
+Alabama,2016,Aug,24,0.0,0.0,0.0,15.0
+Arizona,2016,Aug,24,0.0,0.0,0.0,20.0
+Arkansas,2016,Aug,24,0.0,0.0,0.0,9.0
+California,2016,Aug,24,0.0,0.0,0.0,152.0
+Colorado,2016,Aug,24,0.0,0.0,0.0,24.0
+Connecticut,2016,Aug,24,0.0,0.0,0.0,50.0
+Delaware,2016,Aug,24,0.0,0.0,0.0,11.0
+District of Columbia,2016,Aug,24,0.0,0.0,0.0,11.0
+Florida,2016,Aug,24,29.0,0.0,0.0,471.0
+Georgia,2016,Aug,24,0.0,0.0,0.0,54.0
+Hawaii,2016,Aug,24,0.0,0.0,0.0,11.0
+Idaho,2016,Aug,24,0.0,0.0,0.0,1.0
+Illinois,2016,Aug,24,0.0,0.0,0.0,49.0
+Indiana,2016,Aug,24,0.0,0.0,0.0,28.0
+Iowa,2016,Aug,24,0.0,0.0,0.0,13.0
+Kansas,2016,Aug,24,0.0,0.0,0.0,11.0
+Kentucky,2016,Aug,24,0.0,0.0,0.0,19.0
+Louisiana,2016,Aug,24,0.0,0.0,0.0,25.0
+Maine,2016,Aug,24,0.0,0.0,0.0,10.0
+Maryland,2016,Aug,24,0.0,0.0,0.0,77.0
+Massachusetts,2016,Aug,24,0.0,0.0,0.0,63.0
+Michigan,2016,Aug,24,0.0,0.0,0.0,31.0
+Minnesota,2016,Aug,24,0.0,0.0,0.0,31.0
+Mississippi,2016,Aug,24,0.0,0.0,0.0,17.0
+Missouri,2016,Aug,24,0.0,0.0,0.0,20.0
+Montana,2016,Aug,24,0.0,0.0,0.0,4.0
+Nebraska,2016,Aug,24,0.0,0.0,0.0,7.0
+Nevada,2016,Aug,24,0.0,0.0,0.0,13.0
+New Hampshire,2016,Aug,24,0.0,0.0,0.0,8.0
+New Jersey,2016,Aug,24,0.0,0.0,0.0,91.0
+New Mexico,2016,Aug,24,0.0,0.0,0.0,3.0
+New York,2016,Aug,24,0.0,0.0,0.0,601.0
+North Carolina,2016,Aug,24,0.0,0.0,0.0,35.0
+North Dakota,2016,Aug,24,0.0,0.0,0.0,1.0
+Ohio,2016,Aug,24,0.0,0.0,0.0,33.0
+Oklahoma,2016,Aug,24,0.0,0.0,0.0,20.0
+Oregon,2016,Aug,24,0.0,0.0,0.0,19.0
+Pennsylvania††,2016,Aug,24,0.0,0.0,0.0,77.0
+Rhode Island,2016,Aug,24,0.0,0.0,0.0,28.0
+South Carolina,2016,Aug,24,0.0,0.0,0.0,31.0
+South Dakota,2016,Aug,24,0.0,0.0,0.0,1.0
+Tennessee,2016,Aug,24,0.0,0.0,0.0,35.0
+Texas,2016,Aug,24,0.0,0.0,0.0,125.0
+Utah,2016,Aug,24,0.0,0.0,0.0,7.0
+Vermont,2016,Aug,24,0.0,0.0,0.0,7.0
+Virginia,2016,Aug,24,0.0,0.0,0.0,66.0
+Washington,2016,Aug,24,0.0,0.0,0.0,21.0
+West Virginia,2016,Aug,24,0.0,0.0,0.0,11.0
+Wisconsin,2016,Aug,24,0.0,0.0,0.0,21.0
+American Samoa,2016,Aug,24,46.0,0.0,0.0,0.0
+Puerto Rico,2016,Aug,24,8746.0,0.0,0.0,42.0
+US Virgin Islands,2016,Aug,24,176.0,0.0,0.0,1.0
+Alabama,2016,Aug,31,0.0,0.0,0.0,24.0
+Arizona,2016,Aug,31,0.0,0.0,0.0,20.0
+Arkansas,2016,Aug,31,0.0,0.0,0.0,9.0
+California,2016,Aug,31,0.0,0.0,0.0,152.0
+Colorado,2016,Aug,31,0.0,0.0,0.0,27.0
+Connecticut,2016,Aug,31,0.0,0.0,0.0,52.0
+Delaware,2016,Aug,31,0.0,0.0,0.0,11.0
+District of Columbia,2016,Aug,31,0.0,0.0,0.0,11.0
+Florida,2016,Aug,31,35.0,0.0,0.0,507.0
+Georgia,2016,Aug,31,0.0,0.0,0.0,69.0
+Hawaii,2016,Aug,31,0.0,0.0,0.0,11.0
+Idaho,2016,Aug,31,0.0,0.0,0.0,2.0
+Illinois,2016,Aug,31,0.0,0.0,0.0,51.0
+Indiana,2016,Aug,31,0.0,0.0,0.0,31.0
+Iowa,2016,Aug,31,0.0,0.0,0.0,14.0
+Kansas,2016,Aug,31,0.0,0.0,0.0,13.0
+Kentucky,2016,Aug,31,0.0,0.0,0.0,20.0
+Louisiana,2016,Aug,31,0.0,0.0,0.0,26.0
+Maine,2016,Aug,31,0.0,0.0,0.0,11.0
+Maryland,2016,Aug,31,0.0,0.0,0.0,85.0
+Massachusetts,2016,Aug,31,0.0,0.0,0.0,65.0
+Michigan,2016,Aug,31,0.0,0.0,0.0,43.0
+Minnesota,2016,Aug,31,0.0,0.0,0.0,40.0
+Mississippi,2016,Aug,31,0.0,0.0,0.0,18.0
+Missouri,2016,Aug,31,0.0,0.0,0.0,23.0
+Montana,2016,Aug,31,0.0,0.0,0.0,7.0
+Nebraska,2016,Aug,31,0.0,0.0,0.0,8.0
+Nevada,2016,Aug,31,0.0,0.0,0.0,13.0
+New Hampshire,2016,Aug,31,0.0,0.0,0.0,8.0
+New Jersey,2016,Aug,31,0.0,0.0,0.0,91.0
+New Mexico,2016,Aug,31,0.0,0.0,0.0,3.0
+New York,2016,Aug,31,0.0,0.0,0.0,625.0
+North Carolina,2016,Aug,31,0.0,0.0,0.0,48.0
+North Dakota,2016,Aug,31,0.0,0.0,0.0,1.0
+Ohio,2016,Aug,31,0.0,0.0,0.0,33.0
+Oklahoma,2016,Aug,31,0.0,0.0,0.0,20.0
+Oregon,2016,Aug,31,0.0,0.0,0.0,19.0
+Pennsylvania††,2016,Aug,31,0.0,0.0,0.0,90.0
+Rhode Island,2016,Aug,31,0.0,0.0,0.0,28.0
+South Carolina,2016,Aug,31,0.0,0.0,0.0,31.0
+South Dakota,2016,Aug,31,0.0,0.0,0.0,1.0
+Tennessee,2016,Aug,31,0.0,0.0,0.0,37.0
+Texas,2016,Aug,31,0.0,0.0,0.0,136.0
+Utah,2016,Aug,31,0.0,0.0,0.0,10.0
+Vermont,2016,Aug,31,0.0,0.0,0.0,7.0
+Virginia,2016,Aug,31,0.0,0.0,0.0,75.0
+Washington,2016,Aug,31,0.0,0.0,0.0,26.0
+West Virginia,2016,Aug,31,0.0,0.0,0.0,11.0
+Wisconsin,2016,Aug,31,0.0,0.0,0.0,24.0
+American Samoa,2016,Aug,31,47.0,0.0,0.0,0.0
+Puerto Rico,2016,Aug,31,13791.0,0.0,0.0,50.0
+US Virgin Islands,2016,Aug,31,221.0,0.0,0.0,1.0
+Alabama,2016,Sep,7,0.0,0.0,0.0,24.0
+Arizona,2016,Sep,7,0.0,0.0,0.0,22.0
+Arkansas,2016,Sep,7,0.0,0.0,0.0,9.0
+California,2016,Sep,7,0.0,0.0,0.0,210.0
+Colorado,2016,Sep,7,0.0,0.0,0.0,27.0
+Connecticut,2016,Sep,7,0.0,0.0,0.0,58.0
+Delaware,2016,Sep,7,0.0,0.0,0.0,11.0
+District of Columbia,2016,Sep,7,0.0,0.0,0.0,11.0
+Florida,2016,Sep,7,43.0,0.0,0.0,571.0
+Georgia,2016,Sep,7,0.0,0.0,0.0,75.0
+Hawaii,2016,Sep,7,0.0,0.0,0.0,11.0
+Idaho,2016,Sep,7,0.0,0.0,0.0,2.0
+Illinois,2016,Sep,7,0.0,0.0,0.0,51.0
+Indiana,2016,Sep,7,0.0,0.0,0.0,32.0
+Iowa,2016,Sep,7,0.0,0.0,0.0,15.0
+Kansas,2016,Sep,7,0.0,0.0,0.0,13.0
+Kentucky,2016,Sep,7,0.0,0.0,0.0,20.0
+Louisiana,2016,Sep,7,0.0,0.0,0.0,26.0
+Maine,2016,Sep,7,0.0,0.0,0.0,11.0
+Maryland,2016,Sep,7,0.0,0.0,0.0,89.0
+Massachusetts,2016,Sep,7,0.0,0.0,0.0,67.0
+Michigan,2016,Sep,7,0.0,0.0,0.0,45.0
+Minnesota,2016,Sep,7,0.0,0.0,0.0,39.0
+Mississippi,2016,Sep,7,0.0,0.0,0.0,20.0
+Missouri,2016,Sep,7,0.0,0.0,0.0,26.0
+Montana,2016,Sep,7,0.0,0.0,0.0,7.0
+Nebraska,2016,Sep,7,0.0,0.0,0.0,8.0
+Nevada,2016,Sep,7,0.0,0.0,0.0,14.0
+New Hampshire,2016,Sep,7,0.0,0.0,0.0,8.0
+New Jersey,2016,Sep,7,0.0,0.0,0.0,91.0
+New Mexico,2016,Sep,7,0.0,0.0,0.0,4.0
+New York,2016,Sep,7,0.0,0.0,0.0,661.0
+North Carolina,2016,Sep,7,0.0,0.0,0.0,52.0
+North Dakota,2016,Sep,7,0.0,0.0,0.0,1.0
+Ohio,2016,Sep,7,0.0,0.0,0.0,36.0
+Oklahoma,2016,Sep,7,0.0,0.0,0.0,20.0
+Oregon,2016,Sep,7,0.0,0.0,0.0,19.0
+Pennsylvania††,2016,Sep,7,0.0,0.0,0.0,95.0
+Rhode Island,2016,Sep,7,0.0,0.0,0.0,29.0
+South Carolina,2016,Sep,7,0.0,0.0,0.0,31.0
+South Dakota,2016,Sep,7,0.0,0.0,0.0,1.0
+Tennessee,2016,Sep,7,0.0,0.0,0.0,38.0
+Texas,2016,Sep,7,0.0,0.0,0.0,161.0
+Utah,2016,Sep,7,0.0,0.0,0.0,12.0
+Vermont,2016,Sep,7,0.0,0.0,0.0,7.0
+Virginia,2016,Sep,7,0.0,0.0,0.0,78.0
+Washington,2016,Sep,7,0.0,0.0,0.0,28.0
+West Virginia,2016,Sep,7,0.0,0.0,0.0,11.0
+Wisconsin,2016,Sep,7,0.0,0.0,0.0,24.0
+American Samoa,2016,Sep,7,47.0,0.0,0.0,0.0
+Puerto Rico,2016,Sep,7,15541.0,0.0,0.0,59.0
+US Virgin Islands,2016,Sep,7,221.0,0.0,0.0,1.0
+Alabama,2016,Sep,14,0.0,0.0,0.0,24.0
+Arizona,2016,Sep,14,0.0,0.0,0.0,29.0
+Arkansas,2016,Sep,14,0.0,0.0,0.0,10.0
+California,2016,Sep,14,0.0,0.0,0.0,224.0
+Colorado,2016,Sep,14,0.0,0.0,0.0,32.0
+Connecticut,2016,Sep,14,0.0,0.0,0.0,58.0
+Delaware,2016,Sep,14,0.0,0.0,0.0,11.0
+District of Columbia,2016,Sep,14,0.0,0.0,0.0,17.0
+Florida,2016,Sep,14,43.0,0.0,0.0,596.0
+Georgia,2016,Sep,14,0.0,0.0,0.0,78.0
+Hawaii,2016,Sep,14,0.0,0.0,0.0,12.0
+Idaho,2016,Sep,14,0.0,0.0,0.0,3.0
+Illinois,2016,Sep,14,0.0,0.0,0.0,58.0
+Indiana,2016,Sep,14,0.0,0.0,0.0,32.0
+Iowa,2016,Sep,14,0.0,0.0,0.0,16.0
+Kansas,2016,Sep,14,0.0,0.0,0.0,13.0
+Kentucky,2016,Sep,14,0.0,0.0,0.0,23.0
+Louisiana,2016,Sep,14,0.0,0.0,0.0,29.0
+Maine,2016,Sep,14,0.0,0.0,0.0,11.0
+Maryland,2016,Sep,14,0.0,0.0,0.0,95.0
+Massachusetts,2016,Sep,14,0.0,0.0,0.0,67.0
+Michigan,2016,Sep,14,0.0,0.0,0.0,52.0
+Minnesota,2016,Sep,14,0.0,0.0,0.0,47.0
+Mississippi,2016,Sep,14,0.0,0.0,0.0,21.0
+Missouri,2016,Sep,14,0.0,0.0,0.0,26.0
+Montana,2016,Sep,14,0.0,0.0,0.0,7.0
+Nebraska,2016,Sep,14,0.0,0.0,0.0,8.0
+Nevada,2016,Sep,14,0.0,0.0,0.0,14.0
+New Hampshire,2016,Sep,14,0.0,0.0,0.0,8.0
+New Jersey,2016,Sep,14,0.0,0.0,0.0,116.0
+New Mexico,2016,Sep,14,0.0,0.0,0.0,6.0
+New York,2016,Sep,14,0.0,0.0,0.0,685.0
+North Carolina,2016,Sep,14,0.0,0.0,0.0,61.0
+North Dakota,2016,Sep,14,0.0,0.0,0.0,1.0
+Ohio,2016,Sep,14,0.0,0.0,0.0,36.0
+Oklahoma,2016,Sep,14,0.0,0.0,0.0,26.0
+Oregon,2016,Sep,14,0.0,0.0,0.0,23.0
+Pennsylvania††,2016,Sep,14,0.0,0.0,0.0,102.0
+Rhode Island,2016,Sep,14,0.0,0.0,0.0,29.0
+South Carolina,2016,Sep,14,0.0,0.0,0.0,31.0
+South Dakota,2016,Sep,14,0.0,0.0,0.0,1.0
+Tennessee,2016,Sep,14,0.0,0.0,0.0,39.0
+Texas,2016,Sep,14,0.0,0.0,0.0,181.0
+Utah,2016,Sep,14,0.0,0.0,0.0,11.0
+Vermont,2016,Sep,14,0.0,0.0,0.0,7.0
+Virginia,2016,Sep,14,0.0,0.0,0.0,81.0
+Washington,2016,Sep,14,0.0,0.0,0.0,34.0
+West Virginia,2016,Sep,14,0.0,0.0,0.0,11.0
+Wisconsin,2016,Sep,14,0.0,0.0,0.0,29.0
+Wyoming,2016,Sep,14,0.0,0.0,0.0,2.0
+American Samoa,2016,Sep,14,47.0,0.0,0.0,0.0
+Puerto Rico,2016,Sep,14,17315.0,0.0,0.0,64.0
+US Virgin Islands,2016,Sep,14,265.0,0.0,0.0,1.0
+Alabama,2016,Sep,21,0.0,0.0,0.0,27.0
+Arizona,2016,Sep,21,0.0,0.0,0.0,29.0
+Arkansas,2016,Sep,21,0.0,0.0,0.0,10.0
+California,2016,Sep,21,0.0,0.0,0.0,243.0
+Colorado,2016,Sep,21,0.0,0.0,0.0,35.0
+Connecticut,2016,Sep,21,0.0,0.0,0.0,58.0
+Delaware,2016,Sep,21,0.0,0.0,0.0,13.0
+District of Columbia,2016,Sep,21,0.0,0.0,0.0,23.0
+Florida,2016,Sep,21,43.0,0.0,0.0,652.0
+Georgia,2016,Sep,21,0.0,0.0,0.0,79.0
+Hawaii,2016,Sep,21,0.0,0.0,0.0,12.0
+Idaho,2016,Sep,21,0.0,0.0,0.0,3.0
+Illinois,2016,Sep,21,0.0,0.0,0.0,67.0
+Indiana,2016,Sep,21,0.0,0.0,0.0,33.0
+Iowa,2016,Sep,21,0.0,0.0,0.0,16.0
+Kansas,2016,Sep,21,0.0,0.0,0.0,14.0
+Kentucky,2016,Sep,21,0.0,0.0,0.0,24.0
+Louisiana,2016,Sep,21,0.0,0.0,0.0,29.0
+Maine,2016,Sep,21,0.0,0.0,0.0,11.0
+Maryland,2016,Sep,21,0.0,0.0,0.0,99.0
+Massachusetts,2016,Sep,21,0.0,0.0,0.0,67.0
+Michigan,2016,Sep,21,0.0,0.0,0.0,56.0
+Minnesota,2016,Sep,21,0.0,0.0,0.0,47.0
+Mississippi,2016,Sep,21,0.0,0.0,0.0,21.0
+Missouri,2016,Sep,21,0.0,0.0,0.0,27.0
+Montana,2016,Sep,21,0.0,0.0,0.0,7.0
+Nebraska,2016,Sep,21,0.0,0.0,0.0,8.0
+Nevada,2016,Sep,21,0.0,0.0,0.0,14.0
+New Hampshire,2016,Sep,21,0.0,0.0,0.0,8.0
+New Jersey,2016,Sep,21,0.0,0.0,0.0,117.0
+New Mexico,2016,Sep,21,0.0,0.0,0.0,6.0
+New York,2016,Sep,21,0.0,0.0,0.0,715.0
+North Carolina,2016,Sep,21,0.0,0.0,0.0,61.0
+North Dakota,2016,Sep,21,0.0,0.0,0.0,1.0
+Ohio,2016,Sep,21,0.0,0.0,0.0,41.0
+Oklahoma,2016,Sep,21,0.0,0.0,0.0,26.0
+Oregon,2016,Sep,21,0.0,0.0,0.0,27.0
+Pennsylvania††,2016,Sep,21,0.0,0.0,0.0,106.0
+Rhode Island,2016,Sep,21,0.0,0.0,0.0,29.0
+South Carolina,2016,Sep,21,0.0,0.0,0.0,31.0
+South Dakota,2016,Sep,21,0.0,0.0,0.0,1.0
+Tennessee,2016,Sep,21,0.0,0.0,0.0,49.0
+Texas,2016,Sep,21,0.0,0.0,0.0,195.0
+Utah,2016,Sep,21,0.0,0.0,0.0,12.0
+Vermont,2016,Sep,21,0.0,0.0,0.0,7.0
+Virginia,2016,Sep,21,0.0,0.0,0.0,81.0
+Washington,2016,Sep,21,0.0,0.0,0.0,34.0
+West Virginia,2016,Sep,21,0.0,0.0,0.0,11.0
+Wisconsin,2016,Sep,21,0.0,0.0,0.0,31.0
+Wyoming,2016,Sep,21,0.0,0.0,0.0,2.0
+American Samoa,2016,Sep,21,46.0,0.0,0.0,0.0
+Puerto Rico,2016,Sep,21,19395.0,0.0,0.0,70.0
+US Virgin Islands,2016,Sep,21,265.0,0.0,0.0,1.0
+Alabama,2016,Sep,28,0.0,0.0,0.0,27.0
+Arizona,2016,Sep,28,0.0,0.0,0.0,31.0
+Arkansas,2016,Sep,28,0.0,0.0,0.0,10.0
+California,2016,Sep,28,0.0,0.0,0.0,267.0
+Colorado,2016,Sep,28,0.0,0.0,0.0,36.0
+Connecticut,2016,Sep,28,0.0,0.0,0.0,58.0
+Delaware,2016,Sep,28,0.0,0.0,0.0,13.0
+District of Columbia,2016,Sep,28,0.0,0.0,0.0,23.0
+Florida,2016,Sep,28,59.0,0.0,0.0,672.0
+Georgia,2016,Sep,28,0.0,0.0,0.0,81.0
+Hawaii,2016,Sep,28,0.0,0.0,0.0,12.0
+Idaho,2016,Sep,28,0.0,0.0,0.0,3.0
+Illinois,2016,Sep,28,0.0,0.0,0.0,70.0
+Indiana,2016,Sep,28,0.0,0.0,0.0,34.0
+Iowa,2016,Sep,28,0.0,0.0,0.0,16.0
+Kansas,2016,Sep,28,0.0,0.0,0.0,15.0
+Kentucky,2016,Sep,28,0.0,0.0,0.0,24.0
+Louisiana,2016,Sep,28,0.0,0.0,0.0,31.0
+Maine,2016,Sep,28,0.0,0.0,0.0,11.0
+Maryland,2016,Sep,28,0.0,0.0,0.0,101.0
+Massachusetts,2016,Sep,28,0.0,0.0,0.0,76.0
+Michigan,2016,Sep,28,0.0,0.0,0.0,57.0
+Minnesota,2016,Sep,28,0.0,0.0,0.0,47.0
+Mississippi,2016,Sep,28,0.0,0.0,0.0,23.0
+Missouri,2016,Sep,28,0.0,0.0,0.0,27.0
+Montana,2016,Sep,28,0.0,0.0,0.0,7.0
+Nebraska,2016,Sep,28,0.0,0.0,0.0,11.0
+Nevada,2016,Sep,28,0.0,0.0,0.0,14.0
+New Hampshire,2016,Sep,28,0.0,0.0,0.0,9.0
+New Jersey,2016,Sep,28,0.0,0.0,0.0,133.0
+New Mexico,2016,Sep,28,0.0,0.0,0.0,6.0
+New York,2016,Sep,28,0.0,0.0,0.0,811.0
+North Carolina,2016,Sep,28,0.0,0.0,0.0,66.0
+North Dakota,2016,Sep,28,0.0,0.0,0.0,1.0
+Ohio,2016,Sep,28,0.0,0.0,0.0,52.0
+Oklahoma,2016,Sep,28,0.0,0.0,0.0,26.0
+Oregon,2016,Sep,28,0.0,0.0,0.0,27.0
+Pennsylvania††,2016,Sep,28,0.0,0.0,0.0,129.0
+Rhode Island,2016,Sep,28,0.0,0.0,0.0,32.0
+South Carolina,2016,Sep,28,0.0,0.0,0.0,31.0
+South Dakota,2016,Sep,28,0.0,0.0,0.0,1.0
+Tennessee,2016,Sep,28,0.0,0.0,0.0,51.0
+Texas,2016,Sep,28,0.0,0.0,0.0,204.0
+Utah,2016,Sep,28,0.0,0.0,0.0,13.0
+Vermont,2016,Sep,28,0.0,0.0,0.0,7.0
+Virginia,2016,Sep,28,0.0,0.0,0.0,85.0
+Washington,2016,Sep,28,0.0,0.0,0.0,34.0
+West Virginia,2016,Sep,28,0.0,0.0,0.0,11.0
+Wisconsin,2016,Sep,28,0.0,0.0,0.0,38.0
+Wyoming,2016,Sep,28,0.0,0.0,0.0,2.0
+American Samoa,2016,Sep,28,47.0,0.0,0.0,6.0
+Puerto Rico,2016,Sep,28,21535.0,0.0,0.0,74.0
+US Virgin Islands,2016,Sep,28,406.0,0.0,0.0,1.0
+Alabama,2016,Oct,5,0.0,0.0,0.0,27.0
+Arizona,2016,Oct,5,0.0,0.0,0.0,36.0
+Arkansas,2016,Oct,5,0.0,0.0,0.0,10.0
+California,2016,Oct,5,0.0,0.0,0.0,277.0
+Colorado,2016,Oct,5,0.0,0.0,0.0,36.0
+Connecticut,2016,Oct,5,0.0,0.0,0.0,58.0
+Delaware,2016,Oct,5,0.0,0.0,0.0,15.0
+District of Columbia,2016,Oct,5,0.0,0.0,0.0,25.0
+Florida,2016,Oct,5,105.0,0.0,0.0,707.0
+Georgia,2016,Oct,5,0.0,0.0,0.0,86.0
+Hawaii,2016,Oct,5,0.0,0.0,0.0,14.0
+Idaho,2016,Oct,5,0.0,0.0,0.0,3.0
+Illinois,2016,Oct,5,0.0,0.0,0.0,75.0
+Indiana,2016,Oct,5,0.0,0.0,0.0,38.0
+Iowa,2016,Oct,5,0.0,0.0,0.0,16.0
+Kansas,2016,Oct,5,0.0,0.0,0.0,15.0
+Kentucky,2016,Oct,5,0.0,0.0,0.0,24.0
+Louisiana,2016,Oct,5,0.0,0.0,0.0,32.0
+Maine,2016,Oct,5,0.0,0.0,0.0,11.0
+Maryland,2016,Oct,5,0.0,0.0,0.0,102.0
+Massachusetts,2016,Oct,5,0.0,0.0,0.0,93.0
+Michigan,2016,Oct,5,0.0,0.0,0.0,60.0
+Minnesota,2016,Oct,5,0.0,0.0,0.0,47.0
+Mississippi,2016,Oct,5,0.0,0.0,0.0,23.0
+Missouri,2016,Oct,5,0.0,0.0,0.0,27.0
+Montana,2016,Oct,5,0.0,0.0,0.0,7.0
+Nebraska,2016,Oct,5,0.0,0.0,0.0,11.0
+Nevada,2016,Oct,5,0.0,0.0,0.0,14.0
+New Hampshire,2016,Oct,5,0.0,0.0,0.0,10.0
+New Jersey,2016,Oct,5,0.0,0.0,0.0,133.0
+New Mexico,2016,Oct,5,0.0,0.0,0.0,7.0
+New York,2016,Oct,5,0.0,0.0,0.0,837.0
+North Carolina,2016,Oct,5,0.0,0.0,0.0,66.0
+North Dakota,2016,Oct,5,0.0,0.0,0.0,2.0
+Ohio,2016,Oct,5,0.0,0.0,0.0,53.0
+Oklahoma,2016,Oct,5,0.0,0.0,0.0,27.0
+Oregon,2016,Oct,5,0.0,0.0,0.0,27.0
+Pennsylvania††,2016,Oct,5,0.0,0.0,0.0,132.0
+Rhode Island,2016,Oct,5,0.0,0.0,0.0,32.0
+South Carolina,2016,Oct,5,0.0,0.0,0.0,31.0
+South Dakota,2016,Oct,5,0.0,0.0,0.0,2.0
+Tennessee,2016,Oct,5,0.0,0.0,0.0,52.0
+Texas,2016,Oct,5,0.0,0.0,0.0,218.0
+Utah,2016,Oct,5,0.0,0.0,0.0,15.0
+Vermont,2016,Oct,5,0.0,0.0,0.0,7.0
+Virginia,2016,Oct,5,0.0,0.0,0.0,86.0
+Washington,2016,Oct,5,0.0,0.0,0.0,34.0
+West Virginia,2016,Oct,5,0.0,0.0,0.0,11.0
+Wisconsin,2016,Oct,5,0.0,0.0,0.0,40.0
+Wyoming,2016,Oct,5,0.0,0.0,0.0,2.0
+American Samoa,2016,Oct,5,47.0,0.0,0.0,7.0
+Puerto Rico,2016,Oct,5,23665.0,0.0,0.0,75.0
+US Virgin Islands,2016,Oct,5,406.0,0.0,0.0,1.0
+Alabama,2016,Oct,12,0.0,0.0,0.0,28.0
+Arizona,2016,Oct,12,0.0,0.0,0.0,36.0
+Arkansas,2016,Oct,12,0.0,0.0,0.0,11.0
+California,2016,Oct,12,0.0,0.0,0.0,296.0
+Colorado,2016,Oct,12,0.0,0.0,0.0,41.0
+Connecticut,2016,Oct,12,0.0,0.0,0.0,58.0
+Delaware,2016,Oct,12,0.0,0.0,0.0,15.0
+District of Columbia,2016,Oct,12,0.0,0.0,0.0,25.0
+Florida,2016,Oct,12,128.0,0.0,0.0,708.0
+Georgia,2016,Oct,12,0.0,0.0,0.0,88.0
+Hawaii,2016,Oct,12,0.0,0.0,0.0,14.0
+Idaho,2016,Oct,12,0.0,0.0,0.0,3.0
+Illinois,2016,Oct,12,0.0,0.0,0.0,75.0
+Indiana,2016,Oct,12,0.0,0.0,0.0,39.0
+Iowa,2016,Oct,12,0.0,0.0,0.0,16.0
+Kansas,2016,Oct,12,0.0,0.0,0.0,15.0
+Kentucky,2016,Oct,12,0.0,0.0,0.0,24.0
+Louisiana,2016,Oct,12,0.0,0.0,0.0,32.0
+Maine,2016,Oct,12,0.0,0.0,0.0,11.0
+Maryland,2016,Oct,12,0.0,0.0,0.0,103.0
+Massachusetts,2016,Oct,12,0.0,0.0,0.0,99.0
+Michigan,2016,Oct,12,0.0,0.0,0.0,60.0
+Minnesota,2016,Oct,12,0.0,0.0,0.0,47.0
+Mississippi,2016,Oct,12,0.0,0.0,0.0,23.0
+Missouri,2016,Oct,12,0.0,0.0,0.0,27.0
+Montana,2016,Oct,12,0.0,0.0,0.0,7.0
+Nebraska,2016,Oct,12,0.0,0.0,0.0,11.0
+Nevada,2016,Oct,12,0.0,0.0,0.0,14.0
+New Hampshire,2016,Oct,12,0.0,0.0,0.0,10.0
+New Jersey,2016,Oct,12,0.0,0.0,0.0,134.0
+New Mexico,2016,Oct,12,0.0,0.0,0.0,7.0
+New York,2016,Oct,12,0.0,0.0,0.0,858.0
+North Carolina,2016,Oct,12,0.0,0.0,0.0,66.0
+North Dakota,2016,Oct,12,0.0,0.0,0.0,2.0
+Ohio,2016,Oct,12,0.0,0.0,0.0,53.0
+Oklahoma,2016,Oct,12,0.0,0.0,0.0,27.0
+Oregon,2016,Oct,12,0.0,0.0,0.0,29.0
+Pennsylvania††,2016,Oct,12,0.0,0.0,0.0,135.0
+Rhode Island,2016,Oct,12,0.0,0.0,0.0,32.0
+South Carolina,2016,Oct,12,0.0,0.0,0.0,48.0
+South Dakota,2016,Oct,12,0.0,0.0,0.0,2.0
+Tennessee,2016,Oct,12,0.0,0.0,0.0,53.0
+Texas,2016,Oct,12,0.0,0.0,0.0,228.0
+Utah,2016,Oct,12,0.0,0.0,0.0,15.0
+Vermont,2016,Oct,12,0.0,0.0,0.0,7.0
+Virginia,2016,Oct,12,0.0,0.0,0.0,86.0
+Washington,2016,Oct,12,0.0,0.0,0.0,34.0
+West Virginia,2016,Oct,12,0.0,0.0,0.0,11.0
+Wisconsin,2016,Oct,12,0.0,0.0,0.0,43.0
+Wyoming,2016,Oct,12,0.0,0.0,0.0,2.0
+American Samoa,2016,Oct,12,47.0,0.0,0.0,7.0
+Puerto Rico,2016,Oct,12,25355.0,0.0,0.0,75.0
+US Virgin Islands,2016,Oct,12,469.0,0.0,0.0,2.0
+Alabama,2016,Oct,19,0.0,0.0,0.0,28.0
+Arizona,2016,Oct,19,0.0,0.0,0.0,36.0
+Arkansas,2016,Oct,19,0.0,0.0,0.0,11.0
+California,2016,Oct,19,0.0,0.0,0.0,296.0
+Colorado,2016,Oct,19,0.0,0.0,0.0,43.0
+Connecticut,2016,Oct,19,0.0,0.0,0.0,58.0
+Delaware,2016,Oct,19,0.0,0.0,0.0,15.0
+District of Columbia,2016,Oct,19,0.0,0.0,0.0,25.0
+Florida,2016,Oct,19,137.0,0.0,0.0,708.0
+Georgia,2016,Oct,19,0.0,0.0,0.0,90.0
+Hawaii,2016,Oct,19,0.0,0.0,0.0,14.0
+Idaho,2016,Oct,19,0.0,0.0,0.0,4.0
+Illinois,2016,Oct,19,0.0,0.0,0.0,76.0
+Indiana,2016,Oct,19,0.0,0.0,0.0,39.0
+Iowa,2016,Oct,19,0.0,0.0,0.0,16.0
+Kansas,2016,Oct,19,0.0,0.0,0.0,15.0
+Kentucky,2016,Oct,19,0.0,0.0,0.0,24.0
+Louisiana,2016,Oct,19,0.0,0.0,0.0,34.0
+Maine,2016,Oct,19,0.0,0.0,0.0,12.0
+Maryland,2016,Oct,19,0.0,0.0,0.0,104.0
+Massachusetts,2016,Oct,19,0.0,0.0,0.0,100.0
+Michigan,2016,Oct,19,0.0,0.0,0.0,62.0
+Minnesota,2016,Oct,19,0.0,0.0,0.0,47.0
+Mississippi,2016,Oct,19,0.0,0.0,0.0,23.0
+Missouri,2016,Oct,19,0.0,0.0,0.0,27.0
+Montana,2016,Oct,19,0.0,0.0,0.0,7.0
+Nebraska,2016,Oct,19,0.0,0.0,0.0,12.0
+Nevada,2016,Oct,19,0.0,0.0,0.0,14.0
+New Hampshire,2016,Oct,19,0.0,0.0,0.0,10.0
+New Jersey,2016,Oct,19,0.0,0.0,0.0,134.0
+New Mexico,2016,Oct,19,0.0,0.0,0.0,9.0
+New York,2016,Oct,19,0.0,0.0,0.0,884.0
+North Carolina,2016,Oct,19,0.0,0.0,0.0,72.0
+North Dakota,2016,Oct,19,0.0,0.0,0.0,2.0
+Ohio,2016,Oct,19,0.0,0.0,0.0,53.0
+Oklahoma,2016,Oct,19,0.0,0.0,0.0,27.0
+Oregon,2016,Oct,19,0.0,0.0,0.0,29.0
+Pennsylvania††,2016,Oct,19,0.0,0.0,0.0,141.0
+Rhode Island,2016,Oct,19,0.0,0.0,0.0,32.0
+South Carolina,2016,Oct,19,0.0,0.0,0.0,51.0
+South Dakota,2016,Oct,19,0.0,0.0,0.0,2.0
+Tennessee,2016,Oct,19,0.0,0.0,0.0,53.0
+Texas,2016,Oct,19,0.0,0.0,0.0,231.0
+Utah,2016,Oct,19,0.0,0.0,0.0,14.0
+Vermont,2016,Oct,19,0.0,0.0,0.0,7.0
+Virginia,2016,Oct,19,0.0,0.0,0.0,87.0
+Washington,2016,Oct,19,0.0,0.0,0.0,45.0
+West Virginia,2016,Oct,19,0.0,0.0,0.0,11.0
+Wisconsin,2016,Oct,19,0.0,0.0,0.0,43.0
+Wyoming,2016,Oct,19,0.0,0.0,0.0,2.0
+American Samoa,2016,Oct,19,47.0,0.0,0.0,7.0
+Puerto Rico,2016,Oct,19,26798.0,0.0,0.0,79.0
+US Virgin Islands,2016,Oct,19,469.0,0.0,0.0,2.0
+Alabama,2016,Oct,26,0.0,0.0,0.0,28.0
+Arizona,2016,Oct,26,0.0,0.0,0.0,40.0
+Arkansas,2016,Oct,26,0.0,0.0,0.0,13.0
+California,2016,Oct,26,0.0,0.0,0.0,309.0
+Colorado,2016,Oct,26,0.0,0.0,0.0,46.0
+Connecticut,2016,Oct,26,0.0,0.0,0.0,58.0
+Delaware,2016,Oct,26,0.0,0.0,0.0,16.0
+District of Columbia,2016,Oct,26,0.0,0.0,0.0,25.0
+Florida,2016,Oct,26,139.0,0.0,0.0,708.0
+Georgia,2016,Oct,26,0.0,0.0,0.0,93.0
+Hawaii,2016,Oct,26,0.0,0.0,0.0,14.0
+Idaho,2016,Oct,26,0.0,0.0,0.0,4.0
+Illinois,2016,Oct,26,0.0,0.0,0.0,76.0
+Indiana,2016,Oct,26,0.0,0.0,0.0,40.0
+Iowa,2016,Oct,26,0.0,0.0,0.0,17.0
+Kansas,2016,Oct,26,0.0,0.0,0.0,16.0
+Kentucky,2016,Oct,26,0.0,0.0,0.0,24.0
+Louisiana,2016,Oct,26,0.0,0.0,0.0,34.0
+Maine,2016,Oct,26,0.0,0.0,0.0,12.0
+Maryland,2016,Oct,26,0.0,0.0,0.0,105.0
+Massachusetts,2016,Oct,26,0.0,0.0,0.0,101.0
+Michigan,2016,Oct,26,0.0,0.0,0.0,62.0
+Minnesota,2016,Oct,26,0.0,0.0,0.0,47.0
+Mississippi,2016,Oct,26,0.0,0.0,0.0,23.0
+Missouri,2016,Oct,26,0.0,0.0,0.0,32.0
+Montana,2016,Oct,26,0.0,0.0,0.0,7.0
+Nebraska,2016,Oct,26,0.0,0.0,0.0,12.0
+Nevada,2016,Oct,26,0.0,0.0,0.0,15.0
+New Hampshire,2016,Oct,26,0.0,0.0,0.0,10.0
+New Jersey,2016,Oct,26,0.0,0.0,0.0,134.0
+New Mexico,2016,Oct,26,0.0,0.0,0.0,9.0
+New York,2016,Oct,26,0.0,0.0,0.0,886.0
+North Carolina,2016,Oct,26,0.0,0.0,0.0,72.0
+North Dakota,2016,Oct,26,0.0,0.0,0.0,2.0
+Ohio,2016,Oct,26,0.0,0.0,0.0,67.0
+Oklahoma,2016,Oct,26,0.0,0.0,0.0,27.0
+Oregon,2016,Oct,26,0.0,0.0,0.0,31.0
+Pennsylvania††,2016,Oct,26,0.0,0.0,0.0,147.0
+Rhode Island,2016,Oct,26,0.0,0.0,0.0,32.0
+South Carolina,2016,Oct,26,0.0,0.0,0.0,53.0
+South Dakota,2016,Oct,26,0.0,0.0,0.0,2.0
+Tennessee,2016,Oct,26,0.0,0.0,0.0,53.0
+Texas,2016,Oct,26,0.0,0.0,0.0,232.0
+Utah,2016,Oct,26,0.0,0.0,0.0,14.0
+Vermont,2016,Oct,26,0.0,0.0,0.0,9.0
+Virginia,2016,Oct,26,0.0,0.0,0.0,88.0
+Washington,2016,Oct,26,0.0,0.0,0.0,51.0
+West Virginia,2016,Oct,26,0.0,0.0,0.0,11.0
+Wisconsin,2016,Oct,26,0.0,0.0,0.0,43.0
+Wyoming,2016,Oct,26,0.0,0.0,0.0,2.0
+American Samoa,2016,Oct,26,47.0,0.0,0.0,7.0
+Puerto Rico,2016,Oct,26,28111.0,0.0,0.0,87.0
+US Virgin Islands,2016,Oct,26,469.0,0.0,0.0,2.0
+Alabama,2016,Nov,2,0.0,0.0,0.0,28.0
+Arizona,2016,Nov,2,0.0,0.0,0.0,42.0
+Arkansas,2016,Nov,2,0.0,0.0,0.0,13.0
+California,2016,Nov,2,0.0,0.0,0.0,312.0
+Colorado,2016,Nov,2,0.0,0.0,0.0,46.0
+Connecticut,2016,Nov,2,0.0,0.0,0.0,58.0
+Delaware,2016,Nov,2,0.0,0.0,0.0,16.0
+District of Columbia,2016,Nov,2,0.0,0.0,0.0,25.0
+Florida,2016,Nov,2,139.0,0.0,0.0,708.0
+Georgia,2016,Nov,2,0.0,0.0,0.0,96.0
+Hawaii,2016,Nov,2,0.0,0.0,0.0,14.0
+Idaho,2016,Nov,2,0.0,0.0,0.0,4.0
+Illinois,2016,Nov,2,0.0,0.0,0.0,76.0
+Indiana,2016,Nov,2,0.0,0.0,0.0,45.0
+Iowa,2016,Nov,2,0.0,0.0,0.0,17.0
+Kansas,2016,Nov,2,0.0,0.0,0.0,17.0
+Kentucky,2016,Nov,2,0.0,0.0,0.0,24.0
+Louisiana,2016,Nov,2,0.0,0.0,0.0,34.0
+Maine,2016,Nov,2,0.0,0.0,0.0,11.0
+Maryland,2016,Nov,2,0.0,0.0,0.0,107.0
+Massachusetts,2016,Nov,2,0.0,0.0,0.0,97.0
+Michigan,2016,Nov,2,0.0,0.0,0.0,62.0
+Minnesota,2016,Nov,2,0.0,0.0,0.0,53.0
+Mississippi,2016,Nov,2,0.0,0.0,0.0,23.0
+Missouri,2016,Nov,2,0.0,0.0,0.0,34.0
+Montana,2016,Nov,2,0.0,0.0,0.0,7.0
+Nebraska,2016,Nov,2,0.0,0.0,0.0,12.0
+Nevada,2016,Nov,2,0.0,0.0,0.0,15.0
+New Hampshire,2016,Nov,2,0.0,0.0,0.0,11.0
+New Jersey,2016,Nov,2,0.0,0.0,0.0,134.0
+New Mexico,2016,Nov,2,0.0,0.0,0.0,9.0
+New York,2016,Nov,2,0.0,0.0,0.0,883.0
+North Carolina,2016,Nov,2,0.0,0.0,0.0,73.0
+North Dakota,2016,Nov,2,0.0,0.0,0.0,2.0
+Ohio,2016,Nov,2,0.0,0.0,0.0,69.0
+Oklahoma,2016,Nov,2,0.0,0.0,0.0,29.0
+Oregon,2016,Nov,2,0.0,0.0,0.0,33.0
+Pennsylvania††,2016,Nov,2,0.0,0.0,0.0,147.0
+Rhode Island,2016,Nov,2,0.0,0.0,0.0,33.0
+South Carolina,2016,Nov,2,0.0,0.0,0.0,53.0
+South Dakota,2016,Nov,2,0.0,0.0,0.0,2.0
+Tennessee,2016,Nov,2,0.0,0.0,0.0,54.0
+Texas,2016,Nov,2,0.0,0.0,0.0,237.0
+Utah,2016,Nov,2,0.0,0.0,0.0,15.0
+Vermont,2016,Nov,2,0.0,0.0,0.0,10.0
+Virginia,2016,Nov,2,0.0,0.0,0.0,90.0
+Washington,2016,Nov,2,0.0,0.0,0.0,53.0
+West Virginia,2016,Nov,2,0.0,0.0,0.0,11.0
+Wisconsin,2016,Nov,2,0.0,0.0,0.0,43.0
+Wyoming,2016,Nov,2,0.0,0.0,0.0,2.0
+American Samoa,2016,Nov,2,47.0,0.0,0.0,7.0
+Puerto Rico,2016,Nov,2,29462.0,0.0,0.0,95.0
+US Virgin Islands,2016,Nov,2,565.0,0.0,0.0,2.0
+Alabama,2016,Nov,9,0.0,0.0,0.0,30.0
+Arizona,2016,Nov,9,0.0,0.0,0.0,42.0
+Arkansas,2016,Nov,9,0.0,0.0,0.0,13.0
+California,2016,Nov,9,0.0,0.0,0.0,325.0
+Colorado,2016,Nov,9,0.0,0.0,0.0,46.0
+Connecticut,2016,Nov,9,0.0,0.0,0.0,58.0
+Delaware,2016,Nov,9,0.0,0.0,0.0,16.0
+District of Columbia,2016,Nov,9,0.0,0.0,0.0,25.0
+Florida,2016,Nov,9,139.0,0.0,0.0,708.0
+Georgia,2016,Nov,9,0.0,0.0,0.0,101.0
+Hawaii,2016,Nov,9,0.0,0.0,0.0,14.0
+Idaho,2016,Nov,9,0.0,0.0,0.0,4.0
+Illinois,2016,Nov,9,0.0,0.0,0.0,81.0
+Indiana,2016,Nov,9,0.0,0.0,0.0,46.0
+Iowa,2016,Nov,9,0.0,0.0,0.0,17.0
+Kansas,2016,Nov,9,0.0,0.0,0.0,17.0
+Kentucky,2016,Nov,9,0.0,0.0,0.0,24.0
+Louisiana,2016,Nov,9,0.0,0.0,0.0,32.0
+Maine,2016,Nov,9,0.0,0.0,0.0,11.0
+Maryland,2016,Nov,9,0.0,0.0,0.0,107.0
+Massachusetts,2016,Nov,9,0.0,0.0,0.0,98.0
+Michigan,2016,Nov,9,0.0,0.0,0.0,62.0
+Minnesota,2016,Nov,9,0.0,0.0,0.0,53.0
+Mississippi,2016,Nov,9,0.0,0.0,0.0,23.0
+Missouri,2016,Nov,9,0.0,0.0,0.0,34.0
+Montana,2016,Nov,9,0.0,0.0,0.0,7.0
+Nebraska,2016,Nov,9,0.0,0.0,0.0,12.0
+Nevada,2016,Nov,9,0.0,0.0,0.0,15.0
+New Hampshire,2016,Nov,9,0.0,0.0,0.0,11.0
+New Jersey,2016,Nov,9,0.0,0.0,0.0,157.0
+New Mexico,2016,Nov,9,0.0,0.0,0.0,9.0
+New York,2016,Nov,9,0.0,0.0,0.0,870.0
+North Carolina,2016,Nov,9,0.0,0.0,0.0,73.0
+North Dakota,2016,Nov,9,0.0,0.0,0.0,2.0
+Ohio,2016,Nov,9,0.0,0.0,0.0,71.0
+Oklahoma,2016,Nov,9,0.0,0.0,0.0,29.0
+Oregon,2016,Nov,9,0.0,0.0,0.0,34.0
+Pennsylvania††,2016,Nov,9,0.0,0.0,0.0,149.0
+Rhode Island,2016,Nov,9,0.0,0.0,0.0,33.0
+South Carolina,2016,Nov,9,0.0,0.0,0.0,53.0
+South Dakota,2016,Nov,9,0.0,0.0,0.0,2.0
+Tennessee,2016,Nov,9,0.0,0.0,0.0,55.0
+Texas,2016,Nov,9,0.0,0.0,0.0,237.0
+Utah,2016,Nov,9,0.0,0.0,0.0,15.0
+Vermont,2016,Nov,9,0.0,0.0,0.0,10.0
+Virginia,2016,Nov,9,0.0,0.0,0.0,92.0
+Washington,2016,Nov,9,0.0,0.0,0.0,55.0
+West Virginia,2016,Nov,9,0.0,0.0,0.0,11.0
+Wisconsin,2016,Nov,9,0.0,0.0,0.0,45.0
+Wyoming,2016,Nov,9,0.0,0.0,0.0,2.0
+American Samoa,2016,Nov,9,54.0,0.0,0.0,0.0
+Puerto Rico,2016,Nov,9,30439.0,0.0,0.0,103.0
+US Virgin Islands,2016,Nov,9,600.0,0.0,0.0,2.0
+Alabama,2016,Nov,16,0.0,0.0,0.0,30.0
+Arizona,2016,Nov,16,0.0,0.0,0.0,47.0
+Arkansas,2016,Nov,16,0.0,0.0,0.0,13.0
+California,2016,Nov,16,0.0,0.0,0.0,340.0
+Colorado,2016,Nov,16,0.0,0.0,0.0,48.0
+Connecticut,2016,Nov,16,0.0,0.0,0.0,58.0
+Delaware,2016,Nov,16,0.0,0.0,0.0,16.0
+District of Columbia,2016,Nov,16,0.0,0.0,0.0,25.0
+Florida,2016,Nov,16,139.0,0.0,0.0,708.0
+Georgia,2016,Nov,16,0.0,0.0,0.0,101.0
+Hawaii,2016,Nov,16,0.0,0.0,0.0,14.0
+Idaho,2016,Nov,16,0.0,0.0,0.0,4.0
+Illinois,2016,Nov,16,0.0,0.0,0.0,82.0
+Indiana,2016,Nov,16,0.0,0.0,0.0,46.0
+Iowa,2016,Nov,16,0.0,0.0,0.0,17.0
+Kansas,2016,Nov,16,0.0,0.0,0.0,17.0
+Kentucky,2016,Nov,16,0.0,0.0,0.0,24.0
+Louisiana,2016,Nov,16,0.0,0.0,0.0,33.0
+Maine,2016,Nov,16,0.0,0.0,0.0,12.0
+Maryland,2016,Nov,16,0.0,0.0,0.0,108.0
+Massachusetts,2016,Nov,16,0.0,0.0,0.0,101.0
+Michigan,2016,Nov,16,0.0,0.0,0.0,63.0
+Minnesota,2016,Nov,16,0.0,0.0,0.0,53.0
+Mississippi,2016,Nov,16,0.0,0.0,0.0,23.0
+Missouri,2016,Nov,16,0.0,0.0,0.0,35.0
+Montana,2016,Nov,16,0.0,0.0,0.0,7.0
+Nebraska,2016,Nov,16,0.0,0.0,0.0,12.0
+Nevada,2016,Nov,16,0.0,0.0,0.0,15.0
+New Hampshire,2016,Nov,16,0.0,0.0,0.0,11.0
+New Jersey,2016,Nov,16,0.0,0.0,0.0,157.0
+New Mexico,2016,Nov,16,0.0,0.0,0.0,9.0
+New York,2016,Nov,16,0.0,0.0,0.0,905.0
+North Carolina,2016,Nov,16,0.0,0.0,0.0,78.0
+North Dakota,2016,Nov,16,0.0,0.0,0.0,2.0
+Ohio,2016,Nov,16,0.0,0.0,0.0,71.0
+Oklahoma,2016,Nov,16,0.0,0.0,0.0,29.0
+Oregon,2016,Nov,16,0.0,0.0,0.0,35.0
+Pennsylvania††,2016,Nov,16,0.0,0.0,0.0,154.0
+Rhode Island,2016,Nov,16,0.0,0.0,0.0,34.0
+South Carolina,2016,Nov,16,0.0,0.0,0.0,53.0
+South Dakota,2016,Nov,16,0.0,0.0,0.0,2.0
+Tennessee,2016,Nov,16,0.0,0.0,0.0,56.0
+Texas,2016,Nov,16,0.0,0.0,0.0,237.0
+Utah,2016,Nov,16,0.0,0.0,0.0,15.0
+Vermont,2016,Nov,16,0.0,0.0,0.0,10.0
+Virginia,2016,Nov,16,0.0,0.0,0.0,93.0
+Washington,2016,Nov,16,0.0,0.0,0.0,55.0
+West Virginia,2016,Nov,16,0.0,0.0,0.0,11.0
+Wisconsin,2016,Nov,16,0.0,0.0,0.0,45.0
+Wyoming,2016,Nov,16,0.0,0.0,0.0,2.0
+American Samoa,2016,Nov,16,54.0,0.0,0.0,0.0
+Puerto Rico,2016,Nov,16,31294.0,0.0,0.0,115.0
+US Virgin Islands,2016,Nov,16,603.0,0.0,0.0,2.0
+Alabama,2016,Nov,23,0.0,0.0,0.0,30.0
+Arizona,2016,Nov,23,0.0,0.0,0.0,49.0
+Arkansas,2016,Nov,23,0.0,0.0,0.0,13.0
+California,2016,Nov,23,0.0,0.0,0.0,354.0
+Colorado,2016,Nov,23,0.0,0.0,0.0,49.0
+Connecticut,2016,Nov,23,0.0,0.0,0.0,58.0
+Delaware,2016,Nov,23,0.0,0.0,0.0,17.0
+District of Columbia,2016,Nov,23,0.0,0.0,0.0,27.0
+Florida,2016,Nov,23,182.0,0.0,0.0,785.0
+Georgia,2016,Nov,23,0.0,0.0,0.0,102.0
+Hawaii,2016,Nov,23,0.0,0.0,0.0,14.0
+Idaho,2016,Nov,23,0.0,0.0,0.0,4.0
+Illinois,2016,Nov,23,0.0,0.0,0.0,83.0
+Indiana,2016,Nov,23,0.0,0.0,0.0,47.0
+Iowa,2016,Nov,23,0.0,0.0,0.0,17.0
+Kansas,2016,Nov,23,0.0,0.0,0.0,17.0
+Kentucky,2016,Nov,23,0.0,0.0,0.0,24.0
+Louisiana,2016,Nov,23,0.0,0.0,0.0,35.0
+Maine,2016,Nov,23,0.0,0.0,0.0,12.0
+Maryland,2016,Nov,23,0.0,0.0,0.0,109.0
+Massachusetts,2016,Nov,23,0.0,0.0,0.0,101.0
+Michigan,2016,Nov,23,0.0,0.0,0.0,63.0
+Minnesota,2016,Nov,23,0.0,0.0,0.0,53.0
+Mississippi,2016,Nov,23,0.0,0.0,0.0,23.0
+Missouri,2016,Nov,23,0.0,0.0,0.0,35.0
+Montana,2016,Nov,23,0.0,0.0,0.0,7.0
+Nebraska,2016,Nov,23,0.0,0.0,0.0,13.0
+Nevada,2016,Nov,23,0.0,0.0,0.0,16.0
+New Hampshire,2016,Nov,23,0.0,0.0,0.0,11.0
+New Jersey,2016,Nov,23,0.0,0.0,0.0,157.0
+New Mexico,2016,Nov,23,0.0,0.0,0.0,9.0
+New York,2016,Nov,23,0.0,0.0,0.0,917.0
+North Carolina,2016,Nov,23,0.0,0.0,0.0,78.0
+North Dakota,2016,Nov,23,0.0,0.0,0.0,2.0
+Ohio,2016,Nov,23,0.0,0.0,0.0,73.0
+Oklahoma,2016,Nov,23,0.0,0.0,0.0,29.0
+Oregon,2016,Nov,23,0.0,0.0,0.0,37.0
+Pennsylvania††,2016,Nov,23,0.0,0.0,0.0,157.0
+Rhode Island,2016,Nov,23,0.0,0.0,0.0,35.0
+South Carolina,2016,Nov,23,0.0,0.0,0.0,53.0
+South Dakota,2016,Nov,23,0.0,0.0,0.0,2.0
+Tennessee,2016,Nov,23,0.0,0.0,0.0,58.0
+Texas,2016,Nov,23,0.0,0.0,0.0,253.0
+Utah,2016,Nov,23,0.0,0.0,0.0,16.0
+Vermont,2016,Nov,23,0.0,0.0,0.0,10.0
+Virginia,2016,Nov,23,0.0,0.0,0.0,93.0
+Washington,2016,Nov,23,0.0,0.0,0.0,57.0
+West Virginia,2016,Nov,23,0.0,0.0,0.0,11.0
+Wisconsin,2016,Nov,23,0.0,0.0,0.0,45.0
+Wyoming,2016,Nov,23,0.0,0.0,0.0,2.0
+American Samoa,2016,Nov,23,54.0,0.0,0.0,0.0
+Puerto Rico,2016,Nov,23,31944.0,0.0,0.0,121.0
+US Virgin Islands,2016,Nov,23,603.0,0.0,0.0,2.0
+Alabama,2016,Nov,30,0.0,0.0,0.0,30.0
+Arizona,2016,Nov,30,0.0,0.0,0.0,49.0
+Arkansas,2016,Nov,30,0.0,0.0,0.0,13.0
+California,2016,Nov,30,0.0,0.0,0.0,368.0
+Colorado,2016,Nov,30,0.0,0.0,0.0,50.0
+Connecticut,2016,Nov,30,0.0,0.0,0.0,58.0
+Delaware,2016,Nov,30,0.0,0.0,0.0,17.0
+District of Columbia,2016,Nov,30,0.0,0.0,0.0,27.0
+Florida,2016,Nov,30,184.0,0.0,0.0,785.0
+Georgia,2016,Nov,30,0.0,0.0,0.0,102.0
+Hawaii,2016,Nov,30,0.0,0.0,0.0,14.0
+Idaho,2016,Nov,30,0.0,0.0,0.0,4.0
+Illinois,2016,Nov,30,0.0,0.0,0.0,83.0
+Indiana,2016,Nov,30,0.0,0.0,0.0,47.0
+Iowa,2016,Nov,30,0.0,0.0,0.0,17.0
+Kansas,2016,Nov,30,0.0,0.0,0.0,17.0
+Kentucky,2016,Nov,30,0.0,0.0,0.0,24.0
+Louisiana,2016,Nov,30,0.0,0.0,0.0,35.0
+Maine,2016,Nov,30,0.0,0.0,0.0,12.0
+Maryland,2016,Nov,30,0.0,0.0,0.0,110.0
+Massachusetts,2016,Nov,30,0.0,0.0,0.0,105.0
+Michigan,2016,Nov,30,0.0,0.0,0.0,63.0
+Minnesota,2016,Nov,30,0.0,0.0,0.0,55.0
+Mississippi,2016,Nov,30,0.0,0.0,0.0,23.0
+Missouri,2016,Nov,30,0.0,0.0,0.0,36.0
+Montana,2016,Nov,30,0.0,0.0,0.0,7.0
+Nebraska,2016,Nov,30,0.0,0.0,0.0,13.0
+Nevada,2016,Nov,30,0.0,0.0,0.0,18.0
+New Hampshire,2016,Nov,30,0.0,0.0,0.0,12.0
+New Jersey,2016,Nov,30,0.0,0.0,0.0,164.0
+New Mexico,2016,Nov,30,0.0,0.0,0.0,9.0
+New York,2016,Nov,30,0.0,0.0,0.0,921.0
+North Carolina,2016,Nov,30,0.0,0.0,0.0,81.0
+North Dakota,2016,Nov,30,0.0,0.0,0.0,2.0
+Ohio,2016,Nov,30,0.0,0.0,0.0,74.0
+Oklahoma,2016,Nov,30,0.0,0.0,0.0,29.0
+Oregon,2016,Nov,30,0.0,0.0,0.0,37.0
+Pennsylvania††,2016,Nov,30,0.0,0.0,0.0,157.0
+Rhode Island,2016,Nov,30,0.0,0.0,0.0,35.0
+South Carolina,2016,Nov,30,0.0,0.0,0.0,53.0
+South Dakota,2016,Nov,30,0.0,0.0,0.0,2.0
+Tennessee,2016,Nov,30,0.0,0.0,0.0,58.0
+Texas,2016,Nov,30,1.0,0.0,0.0,258.0
+Utah,2016,Nov,30,0.0,0.0,0.0,16.0
+Vermont,2016,Nov,30,0.0,0.0,0.0,10.0
+Virginia,2016,Nov,30,0.0,0.0,0.0,94.0
+Washington,2016,Nov,30,0.0,0.0,0.0,58.0
+West Virginia,2016,Nov,30,0.0,0.0,0.0,11.0
+Wisconsin,2016,Nov,30,0.0,0.0,0.0,46.0
+Wyoming,2016,Nov,30,0.0,0.0,0.0,2.0
+American Samoa,2016,Nov,30,54.0,0.0,0.0,0.0
+Puerto Rico,2016,Nov,30,32473.0,0.0,0.0,123.0
+US Virgin Islands,2016,Nov,30,603.0,0.0,0.0,2.0
+Alabama,2016,Dec,7,0.0,0.0,0.0,30.0
+Arizona,2016,Dec,7,0.0,0.0,0.0,51.0
+Arkansas,2016,Dec,7,0.0,0.0,0.0,13.0
+California,2016,Dec,7,0.0,0.0,0.0,375.0
+Colorado,2016,Dec,7,0.0,0.0,0.0,50.0
+Connecticut,2016,Dec,7,0.0,0.0,0.0,58.0
+Delaware,2016,Dec,7,0.0,0.0,0.0,17.0
+District of Columbia,2016,Dec,7,0.0,0.0,0.0,27.0
+Florida,2016,Dec,7,184.0,0.0,0.0,785.0
+Georgia,2016,Dec,7,0.0,0.0,0.0,104.0
+Hawaii,2016,Dec,7,0.0,0.0,0.0,14.0
+Idaho,2016,Dec,7,0.0,0.0,0.0,4.0
+Illinois,2016,Dec,7,0.0,0.0,0.0,85.0
+Indiana,2016,Dec,7,0.0,0.0,0.0,47.0
+Iowa,2016,Dec,7,0.0,0.0,0.0,19.0
+Kansas,2016,Dec,7,0.0,0.0,0.0,17.0
+Kentucky,2016,Dec,7,0.0,0.0,0.0,24.0
+Louisiana,2016,Dec,7,0.0,0.0,0.0,35.0
+Maine,2016,Dec,7,0.0,0.0,0.0,13.0
+Maryland,2016,Dec,7,0.0,0.0,0.0,125.0
+Massachusetts,2016,Dec,7,0.0,0.0,0.0,106.0
+Michigan,2016,Dec,7,0.0,0.0,0.0,63.0
+Minnesota,2016,Dec,7,0.0,0.0,0.0,55.0
+Mississippi,2016,Dec,7,0.0,0.0,0.0,23.0
+Missouri,2016,Dec,7,0.0,0.0,0.0,36.0
+Montana,2016,Dec,7,0.0,0.0,0.0,7.0
+Nebraska,2016,Dec,7,0.0,0.0,0.0,13.0
+Nevada,2016,Dec,7,0.0,0.0,0.0,18.0
+New Hampshire,2016,Dec,7,0.0,0.0,0.0,12.0
+New Jersey,2016,Dec,7,0.0,0.0,0.0,164.0
+New Mexico,2016,Dec,7,0.0,0.0,0.0,9.0
+New York,2016,Dec,7,0.0,0.0,0.0,942.0
+North Carolina,2016,Dec,7,0.0,0.0,0.0,83.0
+North Dakota,2016,Dec,7,0.0,0.0,0.0,2.0
+Ohio,2016,Dec,7,0.0,0.0,0.0,75.0
+Oklahoma,2016,Dec,7,0.0,0.0,0.0,29.0
+Oregon,2016,Dec,7,0.0,0.0,0.0,39.0
+Pennsylvania††,2016,Dec,7,0.0,0.0,0.0,161.0
+Rhode Island,2016,Dec,7,0.0,0.0,0.0,35.0
+South Carolina,2016,Dec,7,0.0,0.0,0.0,54.0
+South Dakota,2016,Dec,7,0.0,0.0,0.0,2.0
+Tennessee,2016,Dec,7,0.0,0.0,0.0,58.0
+Texas,2016,Dec,7,1.0,0.0,0.0,268.0
+Utah,2016,Dec,7,0.0,0.0,0.0,19.0
+Vermont,2016,Dec,7,0.0,0.0,0.0,10.0
+Virginia,2016,Dec,7,0.0,0.0,0.0,95.0
+Washington,2016,Dec,7,0.0,0.0,0.0,58.0
+West Virginia,2016,Dec,7,0.0,0.0,0.0,11.0
+Wisconsin,2016,Dec,7,0.0,0.0,0.0,48.0
+Wyoming,2016,Dec,7,0.0,0.0,0.0,2.0
+American Samoa,2016,Dec,7,57.0,0.0,0.0,0.0
+Puerto Rico,2016,Dec,7,32848.0,0.0,0.0,124.0
+US Virgin Islands,2016,Dec,7,807.0,0.0,0.0,2.0
+Alabama,2016,Dec,14,0.0,0.0,0.0,30.0
+Arizona,2016,Dec,14,0.0,0.0,0.0,51.0
+Arkansas,2016,Dec,14,0.0,0.0,0.0,13.0
+California,2016,Dec,14,0.0,0.0,0.0,383.0
+Colorado,2016,Dec,14,0.0,0.0,0.0,51.0
+Connecticut,2016,Dec,14,0.0,0.0,0.0,58.0
+Delaware,2016,Dec,14,0.0,0.0,0.0,17.0
+District of Columbia,2016,Dec,14,0.0,0.0,0.0,27.0
+Florida,2016,Dec,14,184.0,0.0,0.0,785.0
+Georgia,2016,Dec,14,0.0,0.0,0.0,105.0
+Hawaii,2016,Dec,14,0.0,0.0,0.0,16.0
+Idaho,2016,Dec,14,0.0,0.0,0.0,4.0
+Illinois,2016,Dec,14,0.0,0.0,0.0,87.0
+Indiana,2016,Dec,14,0.0,0.0,0.0,47.0
+Iowa,2016,Dec,14,0.0,0.0,0.0,19.0
+Kansas,2016,Dec,14,0.0,0.0,0.0,18.0
+Kentucky,2016,Dec,14,0.0,0.0,0.0,24.0
+Louisiana,2016,Dec,14,0.0,0.0,0.0,35.0
+Maine,2016,Dec,14,0.0,0.0,0.0,13.0
+Maryland,2016,Dec,14,0.0,0.0,0.0,125.0
+Massachusetts,2016,Dec,14,0.0,0.0,0.0,106.0
+Michigan,2016,Dec,14,0.0,0.0,0.0,63.0
+Minnesota,2016,Dec,14,0.0,0.0,0.0,55.0
+Mississippi,2016,Dec,14,0.0,0.0,0.0,23.0
+Missouri,2016,Dec,14,0.0,0.0,0.0,36.0
+Montana,2016,Dec,14,0.0,0.0,0.0,7.0
+Nebraska,2016,Dec,14,0.0,0.0,0.0,13.0
+Nevada,2016,Dec,14,0.0,0.0,0.0,18.0
+New Hampshire,2016,Dec,14,0.0,0.0,0.0,12.0
+New Jersey,2016,Dec,14,0.0,0.0,0.0,164.0
+New Mexico,2016,Dec,14,0.0,0.0,0.0,9.0
+New York,2016,Dec,14,0.0,0.0,0.0,944.0
+North Carolina,2016,Dec,14,0.0,0.0,0.0,83.0
+North Dakota,2016,Dec,14,0.0,0.0,0.0,2.0
+Ohio,2016,Dec,14,0.0,0.0,0.0,76.0
+Oklahoma,2016,Dec,14,0.0,0.0,0.0,29.0
+Oregon,2016,Dec,14,0.0,0.0,0.0,40.0
+Pennsylvania††,2016,Dec,14,0.0,0.0,0.0,163.0
+Rhode Island,2016,Dec,14,0.0,0.0,0.0,42.0
+South Carolina,2016,Dec,14,0.0,0.0,0.0,54.0
+South Dakota,2016,Dec,14,0.0,0.0,0.0,2.0
+Tennessee,2016,Dec,14,0.0,0.0,0.0,58.0
+Texas,2016,Dec,14,1.0,0.0,0.0,272.0
+Utah,2016,Dec,14,0.0,0.0,0.0,19.0
+Vermont,2016,Dec,14,0.0,0.0,0.0,10.0
+Virginia,2016,Dec,14,0.0,0.0,0.0,102.0
+Washington,2016,Dec,14,0.0,0.0,0.0,61.0
+West Virginia,2016,Dec,14,0.0,0.0,0.0,11.0
+Wisconsin,2016,Dec,14,0.0,0.0,0.0,48.0
+Wyoming,2016,Dec,14,0.0,0.0,0.0,2.0
+American Samoa,2016,Dec,14,72.0,0.0,0.0,0.0
+Puerto Rico,2016,Dec,14,33260.0,0.0,0.0,127.0
+US Virgin Islands,2016,Dec,14,807.0,0.0,0.0,2.0
+Alabama,2016,Dec,21,0.0,0.0,0.0,30.0
+Arizona,2016,Dec,21,0.0,0.0,0.0,52.0
+Arkansas,2016,Dec,21,0.0,0.0,0.0,13.0
+California,2016,Dec,21,0.0,0.0,0.0,389.0
+Colorado,2016,Dec,21,0.0,0.0,0.0,53.0
+Connecticut,2016,Dec,21,0.0,0.0,0.0,58.0
+Delaware,2016,Dec,21,0.0,0.0,0.0,17.0
+District of Columbia,2016,Dec,21,0.0,0.0,0.0,28.0
+Florida,2016,Dec,21,210.0,0.0,0.0,825.0
+Georgia,2016,Dec,21,0.0,0.0,0.0,106.0
+Hawaii,2016,Dec,21,0.0,0.0,0.0,16.0
+Idaho,2016,Dec,21,0.0,0.0,0.0,4.0
+Illinois,2016,Dec,21,0.0,0.0,0.0,88.0
+Indiana,2016,Dec,21,0.0,0.0,0.0,49.0
+Iowa,2016,Dec,21,0.0,0.0,0.0,20.0
+Kansas,2016,Dec,21,0.0,0.0,0.0,18.0
+Kentucky,2016,Dec,21,0.0,0.0,0.0,24.0
+Louisiana,2016,Dec,21,0.0,0.0,0.0,35.0
+Maine,2016,Dec,21,0.0,0.0,0.0,13.0
+Maryland,2016,Dec,21,0.0,0.0,0.0,126.0
+Massachusetts,2016,Dec,21,0.0,0.0,0.0,110.0
+Michigan,2016,Dec,21,0.0,0.0,0.0,63.0
+Minnesota,2016,Dec,21,0.0,0.0,0.0,64.0
+Mississippi,2016,Dec,21,0.0,0.0,0.0,23.0
+Missouri,2016,Dec,21,0.0,0.0,0.0,36.0
+Montana,2016,Dec,21,0.0,0.0,0.0,7.0
+Nebraska,2016,Dec,21,0.0,0.0,0.0,13.0
+Nevada,2016,Dec,21,0.0,0.0,0.0,18.0
+New Hampshire,2016,Dec,21,0.0,0.0,0.0,12.0
+New Jersey,2016,Dec,21,0.0,0.0,0.0,164.0
+New Mexico,2016,Dec,21,0.0,0.0,0.0,9.0
+New York,2016,Dec,21,0.0,0.0,0.0,967.0
+North Carolina,2016,Dec,21,0.0,0.0,0.0,83.0
+North Dakota,2016,Dec,21,0.0,0.0,0.0,2.0
+Ohio,2016,Dec,21,0.0,0.0,0.0,78.0
+Oklahoma,2016,Dec,21,0.0,0.0,0.0,29.0
+Oregon,2016,Dec,21,0.0,0.0,0.0,41.0
+Pennsylvania††,2016,Dec,21,0.0,0.0,0.0,164.0
+Rhode Island,2016,Dec,21,0.0,0.0,0.0,48.0
+South Carolina,2016,Dec,21,0.0,0.0,0.0,54.0
+South Dakota,2016,Dec,21,0.0,0.0,0.0,2.0
+Tennessee,2016,Dec,21,0.0,0.0,0.0,58.0
+Texas,2016,Dec,21,5.0,0.0,0.0,277.0
+Utah,2016,Dec,21,0.0,0.0,0.0,20.0
+Vermont,2016,Dec,21,0.0,0.0,0.0,10.0
+Virginia,2016,Dec,21,0.0,0.0,0.0,103.0
+Washington,2016,Dec,21,0.0,0.0,0.0,61.0
+West Virginia,2016,Dec,21,0.0,0.0,0.0,11.0
+Wisconsin,2016,Dec,21,0.0,0.0,0.0,48.0
+Wyoming,2016,Dec,21,0.0,0.0,0.0,2.0
+American Samoa,2016,Dec,21,114.0,0.0,0.0,1.0
+Puerto Rico,2016,Dec,21,33487.0,0.0,0.0,128.0
+US Virgin Islands,2016,Dec,21,862.0,0.0,0.0,2.0
+Alabama,2016,Dec,28,0.0,0.0,0.0,30.0
+Arizona,2016,Dec,28,0.0,0.0,0.0,51.0
+Arkansas,2016,Dec,28,0.0,0.0,0.0,15.0
+California,2016,Dec,28,0.0,0.0,0.0,389.0
+Colorado,2016,Dec,28,0.0,0.0,0.0,53.0
+Connecticut,2016,Dec,28,0.0,0.0,0.0,58.0
+Delaware,2016,Dec,28,0.0,0.0,0.0,17.0
+District of Columbia,2016,Dec,28,0.0,0.0,0.0,28.0
+Florida,2016,Dec,28,210.0,0.0,0.0,825.0
+Georgia,2016,Dec,28,0.0,0.0,0.0,106.0
+Hawaii,2016,Dec,28,0.0,0.0,0.0,16.0
+Idaho,2016,Dec,28,0.0,0.0,0.0,4.0
+Illinois,2016,Dec,28,0.0,0.0,0.0,88.0
+Indiana,2016,Dec,28,0.0,0.0,0.0,49.0
+Iowa,2016,Dec,28,0.0,0.0,0.0,21.0
+Kansas,2016,Dec,28,0.0,0.0,0.0,19.0
+Kentucky,2016,Dec,28,0.0,0.0,0.0,24.0
+Louisiana,2016,Dec,28,0.0,0.0,0.0,35.0
+Maine,2016,Dec,28,0.0,0.0,0.0,13.0
+Maryland,2016,Dec,28,0.0,0.0,0.0,126.0
+Massachusetts,2016,Dec,28,0.0,0.0,0.0,114.0
+Michigan,2016,Dec,28,0.0,0.0,0.0,64.0
+Minnesota,2016,Dec,28,0.0,0.0,0.0,64.0
+Mississippi,2016,Dec,28,0.0,0.0,0.0,23.0
+Missouri,2016,Dec,28,0.0,0.0,0.0,35.0
+Montana,2016,Dec,28,0.0,0.0,0.0,7.0
+Nebraska,2016,Dec,28,0.0,0.0,0.0,13.0
+Nevada,2016,Dec,28,0.0,0.0,0.0,18.0
+New Hampshire,2016,Dec,28,0.0,0.0,0.0,12.0
+New Jersey,2016,Dec,28,0.0,0.0,0.0,177.0
+New Mexico,2016,Dec,28,0.0,0.0,0.0,9.0
+New York,2016,Dec,28,0.0,0.0,0.0,983.0
+North Carolina,2016,Dec,28,0.0,0.0,0.0,85.0
+North Dakota,2016,Dec,28,0.0,0.0,0.0,2.0
+Ohio,2016,Dec,28,0.0,0.0,0.0,80.0
+Oklahoma,2016,Dec,28,0.0,0.0,0.0,29.0
+Oregon,2016,Dec,28,0.0,0.0,0.0,42.0
+Pennsylvania††,2016,Dec,28,0.0,0.0,0.0,166.0
+Rhode Island,2016,Dec,28,0.0,0.0,0.0,50.0
+South Carolina,2016,Dec,28,0.0,0.0,0.0,54.0
+South Dakota,2016,Dec,28,0.0,0.0,0.0,2.0
+Tennessee,2016,Dec,28,0.0,0.0,0.0,59.0
+Texas,2016,Dec,28,6.0,0.0,0.0,283.0
+Utah,2016,Dec,28,0.0,0.0,0.0,20.0
+Vermont,2016,Dec,28,0.0,0.0,0.0,10.0
+Virginia,2016,Dec,28,0.0,0.0,0.0,103.0
+Washington,2016,Dec,28,0.0,0.0,0.0,61.0
+West Virginia,2016,Dec,28,0.0,0.0,0.0,11.0
+Wisconsin,2016,Dec,28,0.0,0.0,0.0,48.0
+Wyoming,2016,Dec,28,0.0,0.0,0.0,2.0
+American Samoa,2016,Dec,28,114.0,0.0,0.0,1.0
+Puerto Rico,2016,Dec,28,33865.0,0.0,0.0,129.0
+US Virgin Islands,2016,Dec,28,862.0,0.0,0.0,2.0
+Alabama,2017,Jan,4,0.0,0.0,0.0,30.0
+Arizona,2017,Jan,4,0.0,0.0,0.0,51.0
+Arkansas,2017,Jan,4,0.0,0.0,0.0,15.0
+California,2017,Jan,4,0.0,0.0,0.0,393.0
+Colorado,2017,Jan,4,0.0,0.0,0.0,49.0
+Connecticut,2017,Jan,4,0.0,0.0,0.0,58.0
+Delaware,2017,Jan,4,0.0,0.0,0.0,17.0
+District of Columbia,2017,Jan,4,0.0,0.0,0.0,30.0
+Florida,2017,Jan,4,210.0,0.0,0.0,825.0
+Georgia,2017,Jan,4,0.0,0.0,0.0,106.0
+Hawaii,2017,Jan,4,0.0,0.0,0.0,16.0
+Idaho,2017,Jan,4,0.0,0.0,0.0,4.0
+Illinois,2017,Jan,4,0.0,0.0,0.0,90.0
+Indiana,2017,Jan,4,0.0,0.0,0.0,51.0
+Iowa,2017,Jan,4,0.0,0.0,0.0,21.0
+Kansas,2017,Jan,4,0.0,0.0,0.0,19.0
+Kentucky,2017,Jan,4,0.0,0.0,0.0,29.0
+Louisiana,2017,Jan,4,0.0,0.0,0.0,35.0
+Maine,2017,Jan,4,0.0,0.0,0.0,13.0
+Maryland,2017,Jan,4,0.0,0.0,0.0,129.0
+Massachusetts,2017,Jan,4,0.0,0.0,0.0,115.0
+Michigan,2017,Jan,4,0.0,0.0,0.0,64.0
+Minnesota,2017,Jan,4,0.0,0.0,0.0,64.0
+Mississippi,2017,Jan,4,0.0,0.0,0.0,23.0
+Missouri,2017,Jan,4,0.0,0.0,0.0,35.0
+Montana,2017,Jan,4,0.0,0.0,0.0,7.0
+Nebraska,2017,Jan,4,0.0,0.0,0.0,13.0
+Nevada,2017,Jan,4,0.0,0.0,0.0,19.0
+New Hampshire,2017,Jan,4,0.0,0.0,0.0,12.0
+New Jersey,2017,Jan,4,0.0,0.0,0.0,173.0
+New Mexico,2017,Jan,4,0.0,0.0,0.0,9.0
+New York,2017,Jan,4,0.0,0.0,0.0,989.0
+North Carolina,2017,Jan,4,0.0,0.0,0.0,86.0
+North Dakota,2017,Jan,4,0.0,0.0,0.0,2.0
+Ohio,2017,Jan,4,0.0,0.0,0.0,80.0
+Oklahoma,2017,Jan,4,0.0,0.0,0.0,29.0
+Oregon,2017,Jan,4,0.0,0.0,0.0,42.0
+Pennsylvania††,2017,Jan,4,0.0,0.0,0.0,166.0
+Rhode Island,2017,Jan,4,0.0,0.0,0.0,50.0
+South Carolina,2017,Jan,4,0.0,0.0,0.0,54.0
+South Dakota,2017,Jan,4,0.0,0.0,0.0,2.0
+Tennessee,2017,Jan,4,0.0,0.0,0.0,59.0
+Texas,2017,Jan,4,6.0,0.0,0.0,287.0
+Utah,2017,Jan,4,0.0,0.0,0.0,20.0
+Vermont,2017,Jan,4,0.0,0.0,0.0,10.0
+Virginia,2017,Jan,4,0.0,0.0,0.0,106.0
+Washington,2017,Jan,4,0.0,0.0,0.0,61.0
+West Virginia,2017,Jan,4,0.0,0.0,0.0,11.0
+Wisconsin,2017,Jan,4,0.0,0.0,0.0,48.0
+Wyoming,2017,Jan,4,0.0,0.0,0.0,2.0
+American Samoa,2017,Jan,4,114.0,0.0,0.0,1.0
+Puerto Rico,2017,Jan,4,34045.0,0.0,0.0,128.0
+US Virgin Islands,2017,Jan,4,862.0,0.0,0.0,2.0
+Alabama,2017,Jan,11,0.0,0.0,0.0,30.0
+Arizona,2017,Jan,11,0.0,0.0,0.0,52.0
+Arkansas,2017,Jan,11,0.0,0.0,0.0,15.0
+California,2017,Jan,11,0.0,0.0,0.0,393.0
+Colorado,2017,Jan,11,0.0,0.0,0.0,49.0
+Connecticut,2017,Jan,11,0.0,0.0,0.0,58.0
+Delaware,2017,Jan,11,0.0,0.0,0.0,17.0
+District of Columbia,2017,Jan,11,0.0,0.0,0.0,31.0
+Florida,2017,Jan,11,210.0,0.0,0.0,833.0
+Georgia,2017,Jan,11,0.0,0.0,0.0,106.0
+Hawaii,2017,Jan,11,0.0,0.0,0.0,16.0
+Idaho,2017,Jan,11,0.0,0.0,0.0,4.0
+Illinois,2017,Jan,11,0.0,0.0,0.0,90.0
+Indiana,2017,Jan,11,0.0,0.0,0.0,50.0
+Iowa,2017,Jan,11,0.0,0.0,0.0,21.0
+Kansas,2017,Jan,11,0.0,0.0,0.0,19.0
+Kentucky,2017,Jan,11,0.0,0.0,0.0,31.0
+Louisiana,2017,Jan,11,0.0,0.0,0.0,35.0
+Maine,2017,Jan,11,0.0,0.0,0.0,13.0
+Maryland,2017,Jan,11,0.0,0.0,0.0,129.0
+Massachusetts,2017,Jan,11,0.0,0.0,0.0,117.0
+Michigan,2017,Jan,11,0.0,0.0,0.0,65.0
+Minnesota,2017,Jan,11,0.0,0.0,0.0,64.0
+Mississippi,2017,Jan,11,0.0,0.0,0.0,23.0
+Missouri,2017,Jan,11,0.0,0.0,0.0,35.0
+Montana,2017,Jan,11,0.0,0.0,0.0,7.0
+Nebraska,2017,Jan,11,0.0,0.0,0.0,13.0
+Nevada,2017,Jan,11,0.0,0.0,0.0,19.0
+New Hampshire,2017,Jan,11,0.0,0.0,0.0,12.0
+New Jersey,2017,Jan,11,0.0,0.0,0.0,173.0
+New Mexico,2017,Jan,11,0.0,0.0,0.0,9.0
+New York,2017,Jan,11,0.0,0.0,0.0,997.0
+North Carolina,2017,Jan,11,0.0,0.0,0.0,86.0
+North Dakota,2017,Jan,11,0.0,0.0,0.0,2.0
+Ohio,2017,Jan,11,0.0,0.0,0.0,82.0
+Oklahoma,2017,Jan,11,0.0,0.0,0.0,29.0
+Oregon,2017,Jan,11,0.0,0.0,0.0,42.0
+Pennsylvania††,2017,Jan,11,0.0,0.0,0.0,167.0
+Rhode Island,2017,Jan,11,0.0,0.0,0.0,50.0
+South Carolina,2017,Jan,11,0.0,0.0,0.0,54.0
+South Dakota,2017,Jan,11,0.0,0.0,0.0,2.0
+Tennessee,2017,Jan,11,0.0,0.0,0.0,59.0
+Texas,2017,Jan,11,6.0,0.0,0.0,290.0
+Utah,2017,Jan,11,0.0,0.0,0.0,20.0
+Vermont,2017,Jan,11,0.0,0.0,0.0,11.0
+Virginia,2017,Jan,11,0.0,0.0,0.0,107.0
+Washington,2017,Jan,11,0.0,0.0,0.0,62.0
+West Virginia,2017,Jan,11,0.0,0.0,0.0,11.0
+Wisconsin,2017,Jan,11,0.0,0.0,0.0,48.0
+Wyoming,2017,Jan,11,0.0,0.0,0.0,2.0
+American Samoa,2017,Jan,11,114.0,0.0,0.0,1.0
+Puerto Rico,2017,Jan,11,34249.0,0.0,0.0,132.0
+US Virgin Islands,2017,Jan,11,917.0,0.0,0.0,2.0
+Alabama,2017,Jan,18,0.0,0.0,0.0,34.0
+Arizona,2017,Jan,18,0.0,0.0,0.0,53.0
+Arkansas,2017,Jan,18,0.0,0.0,0.0,15.0
+California,2017,Jan,18,0.0,0.0,0.0,400.0
+Colorado,2017,Jan,18,0.0,0.0,0.0,50.0
+Connecticut,2017,Jan,18,0.0,0.0,0.0,58.0
+Delaware,2017,Jan,18,0.0,0.0,0.0,17.0
+District of Columbia,2017,Jan,18,0.0,0.0,0.0,31.0
+Florida,2017,Jan,18,211.0,0.0,0.0,836.0
+Georgia,2017,Jan,18,0.0,0.0,0.0,106.0
+Hawaii,2017,Jan,18,0.0,0.0,0.0,16.0
+Idaho,2017,Jan,18,0.0,0.0,0.0,5.0
+Illinois,2017,Jan,18,0.0,0.0,0.0,91.0
+Indiana,2017,Jan,18,0.0,0.0,0.0,51.0
+Iowa,2017,Jan,18,0.0,0.0,0.0,21.0
+Kansas,2017,Jan,18,0.0,0.0,0.0,19.0
+Kentucky,2017,Jan,18,0.0,0.0,0.0,31.0
+Louisiana,2017,Jan,18,0.0,0.0,0.0,37.0
+Maine,2017,Jan,18,0.0,0.0,0.0,13.0
+Maryland,2017,Jan,18,0.0,0.0,0.0,129.0
+Massachusetts,2017,Jan,18,0.0,0.0,0.0,116.0
+Michigan,2017,Jan,18,0.0,0.0,0.0,65.0
+Minnesota,2017,Jan,18,0.0,0.0,0.0,64.0
+Mississippi,2017,Jan,18,0.0,0.0,0.0,23.0
+Missouri,2017,Jan,18,0.0,0.0,0.0,35.0
+Montana,2017,Jan,18,0.0,0.0,0.0,8.0
+Nebraska,2017,Jan,18,0.0,0.0,0.0,13.0
+Nevada,2017,Jan,18,0.0,0.0,0.0,19.0
+New Hampshire,2017,Jan,18,0.0,0.0,0.0,12.0
+New Jersey,2017,Jan,18,0.0,0.0,0.0,173.0
+New Mexico,2017,Jan,18,0.0,0.0,0.0,9.0
+New York,2017,Jan,18,0.0,0.0,0.0,1001.0
+North Carolina,2017,Jan,18,0.0,0.0,0.0,86.0
+North Dakota,2017,Jan,18,0.0,0.0,0.0,2.0
+Ohio,2017,Jan,18,0.0,0.0,0.0,82.0
+Oklahoma,2017,Jan,18,0.0,0.0,0.0,29.0
+Oregon,2017,Jan,18,0.0,0.0,0.0,43.0
+Pennsylvania††,2017,Jan,18,0.0,0.0,0.0,171.0
+Rhode Island,2017,Jan,18,0.0,0.0,0.0,51.0
+South Carolina,2017,Jan,18,0.0,0.0,0.0,54.0
+South Dakota,2017,Jan,18,0.0,0.0,0.0,2.0
+Tennessee,2017,Jan,18,0.0,0.0,0.0,59.0
+Texas,2017,Jan,18,6.0,0.0,0.0,291.0
+Utah,2017,Jan,18,0.0,0.0,0.0,21.0
+Vermont,2017,Jan,18,0.0,0.0,0.0,11.0
+Virginia,2017,Jan,18,0.0,0.0,0.0,107.0
+Washington,2017,Jan,18,0.0,0.0,0.0,62.0
+West Virginia,2017,Jan,18,0.0,0.0,0.0,11.0
+Wisconsin,2017,Jan,18,0.0,0.0,0.0,48.0
+Wyoming,2017,Jan,18,0.0,0.0,0.0,2.0
+American Samoa,2017,Jan,18,117.0,0.0,0.0,1.0
+Puerto Rico,2017,Jan,18,34358.0,0.0,0.0,132.0
+US Virgin Islands,2017,Jan,18,917.0,0.0,0.0,2.0
+Alabama,2017,Jan,25,0.0,0.0,0.0,35.0
+Arizona,2017,Jan,25,0.0,0.0,0.0,53.0
+Arkansas,2017,Jan,25,0.0,0.0,0.0,15.0
+California,2017,Jan,25,0.0,0.0,0.0,411.0
+Colorado,2017,Jan,25,0.0,0.0,0.0,50.0
+Connecticut,2017,Jan,25,0.0,0.0,0.0,58.0
+Delaware,2017,Jan,25,0.0,0.0,0.0,17.0
+District of Columbia,2017,Jan,25,0.0,0.0,0.0,31.0
+Florida,2017,Jan,25,213.0,0.0,0.0,840.0
+Georgia,2017,Jan,25,0.0,0.0,0.0,106.0
+Hawaii,2017,Jan,25,0.0,0.0,0.0,16.0
+Idaho,2017,Jan,25,0.0,0.0,0.0,5.0
+Illinois,2017,Jan,25,0.0,0.0,0.0,91.0
+Indiana,2017,Jan,25,0.0,0.0,0.0,51.0
+Iowa,2017,Jan,25,0.0,0.0,0.0,21.0
+Kansas,2017,Jan,25,0.0,0.0,0.0,20.0
+Kentucky,2017,Jan,25,0.0,0.0,0.0,32.0
+Louisiana,2017,Jan,25,0.0,0.0,0.0,38.0
+Maine,2017,Jan,25,0.0,0.0,0.0,13.0
+Maryland,2017,Jan,25,0.0,0.0,0.0,129.0
+Massachusetts,2017,Jan,25,0.0,0.0,0.0,117.0
+Michigan,2017,Jan,25,0.0,0.0,0.0,65.0
+Minnesota,2017,Jan,25,0.0,0.0,0.0,64.0
+Mississippi,2017,Jan,25,0.0,0.0,0.0,23.0
+Missouri,2017,Jan,25,0.0,0.0,0.0,36.0
+Montana,2017,Jan,25,0.0,0.0,0.0,8.0
+Nebraska,2017,Jan,25,0.0,0.0,0.0,13.0
+Nevada,2017,Jan,25,0.0,0.0,0.0,19.0
+New Hampshire,2017,Jan,25,0.0,0.0,0.0,12.0
+New Jersey,2017,Jan,25,0.0,0.0,0.0,175.0
+New Mexico,2017,Jan,25,0.0,0.0,0.0,9.0
+New York,2017,Jan,25,0.0,0.0,0.0,1001.0
+North Carolina,2017,Jan,25,0.0,0.0,0.0,88.0
+North Dakota,2017,Jan,25,0.0,0.0,0.0,2.0
+Ohio,2017,Jan,25,0.0,0.0,0.0,81.0
+Oklahoma,2017,Jan,25,0.0,0.0,0.0,29.0
+Oregon,2017,Jan,25,0.0,0.0,0.0,44.0
+Pennsylvania††,2017,Jan,25,0.0,0.0,0.0,171.0
+Rhode Island,2017,Jan,25,0.0,0.0,0.0,51.0
+South Carolina,2017,Jan,25,0.0,0.0,0.0,54.0
+South Dakota,2017,Jan,25,0.0,0.0,0.0,2.0
+Tennessee,2017,Jan,25,0.0,0.0,0.0,59.0
+Texas,2017,Jan,25,6.0,0.0,0.0,294.0
+Utah,2017,Jan,25,0.0,0.0,0.0,21.0
+Vermont,2017,Jan,25,0.0,0.0,0.0,11.0
+Virginia,2017,Jan,25,0.0,0.0,0.0,107.0
+Washington,2017,Jan,25,0.0,0.0,0.0,62.0
+West Virginia,2017,Jan,25,0.0,0.0,0.0,11.0
+Wisconsin,2017,Jan,25,0.0,0.0,0.0,48.0
+Wyoming,2017,Jan,25,0.0,0.0,0.0,2.0
+American Samoa,2017,Jan,25,119.0,0.0,0.0,1.0
+Puerto Rico,2017,Jan,25,34577.0,0.0,0.0,137.0
+US Virgin Islands,2017,Jan,25,948.0,0.0,0.0,2.0
+Alabama,2017,Feb,1,0.0,0.0,0.0,36.0
+Arizona,2017,Feb,1,0.0,0.0,0.0,53.0
+Arkansas,2017,Feb,1,0.0,0.0,0.0,15.0
+California,2017,Feb,1,0.0,0.0,0.0,411.0
+Colorado,2017,Feb,1,0.0,0.0,0.0,50.0
+Connecticut,2017,Feb,1,0.0,0.0,0.0,58.0
+Delaware,2017,Feb,1,0.0,0.0,0.0,17.0
+District of Columbia,2017,Feb,1,0.0,0.0,0.0,31.0
+Florida,2017,Feb,1,214.0,0.0,0.0,855.0
+Georgia,2017,Feb,1,0.0,0.0,0.0,107.0
+Hawaii,2017,Feb,1,0.0,0.0,0.0,16.0
+Idaho,2017,Feb,1,0.0,0.0,0.0,4.0
+Illinois,2017,Feb,1,0.0,0.0,0.0,94.0
+Indiana,2017,Feb,1,0.0,0.0,0.0,51.0
+Iowa,2017,Feb,1,0.0,0.0,0.0,21.0
+Kansas,2017,Feb,1,0.0,0.0,0.0,21.0
+Kentucky,2017,Feb,1,0.0,0.0,0.0,32.0
+Louisiana,2017,Feb,1,0.0,0.0,0.0,38.0
+Maine,2017,Feb,1,0.0,0.0,0.0,13.0
+Maryland,2017,Feb,1,0.0,0.0,0.0,130.0
+Massachusetts,2017,Feb,1,0.0,0.0,0.0,119.0
+Michigan,2017,Feb,1,0.0,0.0,0.0,65.0
+Minnesota,2017,Feb,1,0.0,0.0,0.0,64.0
+Mississippi,2017,Feb,1,0.0,0.0,0.0,23.0
+Missouri,2017,Feb,1,0.0,0.0,0.0,36.0
+Montana,2017,Feb,1,0.0,0.0,0.0,8.0
+Nebraska,2017,Feb,1,0.0,0.0,0.0,13.0
+Nevada,2017,Feb,1,0.0,0.0,0.0,21.0
+New Hampshire,2017,Feb,1,0.0,0.0,0.0,12.0
+New Jersey,2017,Feb,1,0.0,0.0,0.0,175.0
+New Mexico,2017,Feb,1,0.0,0.0,0.0,9.0
+New York,2017,Feb,1,0.0,0.0,0.0,1006.0
+North Carolina,2017,Feb,1,0.0,0.0,0.0,88.0
+North Dakota,2017,Feb,1,0.0,0.0,0.0,2.0
+Ohio,2017,Feb,1,0.0,0.0,0.0,83.0
+Oklahoma,2017,Feb,1,0.0,0.0,0.0,29.0
+Oregon,2017,Feb,1,0.0,0.0,0.0,44.0
+Pennsylvania††,2017,Feb,1,0.0,0.0,0.0,173.0
+Rhode Island,2017,Feb,1,0.0,0.0,0.0,52.0
+South Carolina,2017,Feb,1,0.0,0.0,0.0,54.0
+South Dakota,2017,Feb,1,0.0,0.0,0.0,2.0
+Tennessee,2017,Feb,1,0.0,0.0,0.0,60.0
+Texas,2017,Feb,1,6.0,0.0,0.0,297.0
+Utah,2017,Feb,1,0.0,0.0,0.0,21.0
+Vermont,2017,Feb,1,0.0,0.0,0.0,11.0
+Virginia,2017,Feb,1,0.0,0.0,0.0,108.0
+Washington,2017,Feb,1,0.0,0.0,0.0,64.0
+West Virginia,2017,Feb,1,0.0,0.0,0.0,11.0
+Wisconsin,2017,Feb,1,0.0,0.0,0.0,48.0
+Wyoming,2017,Feb,1,0.0,0.0,0.0,2.0
+American Samoa,2017,Feb,1,119.0,0.0,0.0,1.0
+Puerto Rico,2017,Feb,1,35197.0,0.0,0.0,137.0
+US Virgin Islands,2017,Feb,1,958.0,0.0,0.0,2.0
+Alabama,2017,Feb,8,0.0,0.0,0.0,38.0
+Arizona,2017,Feb,8,0.0,0.0,0.0,53.0
+Arkansas,2017,Feb,8,0.0,0.0,0.0,15.0
+California,2017,Feb,8,0.0,0.0,0.0,414.0
+Colorado,2017,Feb,8,0.0,0.0,0.0,54.0
+Connecticut,2017,Feb,8,0.0,0.0,0.0,58.0
+Delaware,2017,Feb,8,0.0,0.0,0.0,17.0
+District of Columbia,2017,Feb,8,0.0,0.0,0.0,31.0
+Florida,2017,Feb,8,214.0,0.0,0.0,855.0
+Georgia,2017,Feb,8,0.0,0.0,0.0,107.0
+Hawaii,2017,Feb,8,0.0,0.0,0.0,16.0
+Idaho,2017,Feb,8,0.0,0.0,0.0,4.0
+Illinois,2017,Feb,8,0.0,0.0,0.0,94.0
+Indiana,2017,Feb,8,0.0,0.0,0.0,52.0
+Iowa,2017,Feb,8,0.0,0.0,0.0,21.0
+Kansas,2017,Feb,8,0.0,0.0,0.0,21.0
+Kentucky,2017,Feb,8,0.0,0.0,0.0,32.0
+Louisiana,2017,Feb,8,0.0,0.0,0.0,38.0
+Maine,2017,Feb,8,0.0,0.0,0.0,14.0
+Maryland,2017,Feb,8,0.0,0.0,0.0,130.0
+Massachusetts,2017,Feb,8,0.0,0.0,0.0,120.0
+Michigan,2017,Feb,8,0.0,0.0,0.0,65.0
+Minnesota,2017,Feb,8,0.0,0.0,0.0,64.0
+Mississippi,2017,Feb,8,0.0,0.0,0.0,25.0
+Missouri,2017,Feb,8,0.0,0.0,0.0,36.0
+Montana,2017,Feb,8,0.0,0.0,0.0,8.0
+Nebraska,2017,Feb,8,0.0,0.0,0.0,13.0
+Nevada,2017,Feb,8,0.0,0.0,0.0,21.0
+New Hampshire,2017,Feb,8,0.0,0.0,0.0,12.0
+New Jersey,2017,Feb,8,0.0,0.0,0.0,175.0
+New Mexico,2017,Feb,8,0.0,0.0,0.0,9.0
+New York,2017,Feb,8,0.0,0.0,0.0,1008.0
+North Carolina,2017,Feb,8,0.0,0.0,0.0,88.0
+North Dakota,2017,Feb,8,0.0,0.0,0.0,2.0
+Ohio,2017,Feb,8,0.0,0.0,0.0,83.0
+Oklahoma,2017,Feb,8,0.0,0.0,0.0,29.0
+Oregon,2017,Feb,8,0.0,0.0,0.0,46.0
+Pennsylvania††,2017,Feb,8,0.0,0.0,0.0,173.0
+Rhode Island,2017,Feb,8,0.0,0.0,0.0,53.0
+South Carolina,2017,Feb,8,0.0,0.0,0.0,54.0
+South Dakota,2017,Feb,8,0.0,0.0,0.0,2.0
+Tennessee,2017,Feb,8,0.0,0.0,0.0,61.0
+Texas,2017,Feb,8,6.0,0.0,0.0,298.0
+Utah,2017,Feb,8,0.0,0.0,0.0,21.0
+Vermont,2017,Feb,8,0.0,0.0,0.0,11.0
+Virginia,2017,Feb,8,0.0,0.0,0.0,112.0
+Washington,2017,Feb,8,0.0,0.0,0.0,67.0
+West Virginia,2017,Feb,8,0.0,0.0,0.0,11.0
+Wisconsin,2017,Feb,8,0.0,0.0,0.0,48.0
+Wyoming,2017,Feb,8,0.0,0.0,0.0,2.0
+American Samoa,2017,Feb,8,119.0,0.0,0.0,1.0
+Puerto Rico,2017,Feb,8,35421.0,0.0,0.0,137.0
+US Virgin Islands,2017,Feb,8,958.0,0.0,0.0,2.0
+Alabama,2017,Feb,15,0.0,0.0,38.0,0.0
+Arizona,2017,Feb,15,0.0,1.0,55.0,0.0
+Arkansas,2017,Feb,15,0.0,0.0,15.0,0.0
+California,2017,Feb,15,0.0,5.0,420.0,0.0
+Colorado,2017,Feb,15,0.0,0.0,54.0,0.0
+Connecticut,2017,Feb,15,0.0,0.0,58.0,0.0
+Delaware,2017,Feb,15,0.0,0.0,17.0,0.0
+District of Columbia,2017,Feb,15,0.0,0.0,31.0,0.0
+Florida‡,2017,Feb,15,0.0,24.0,1069.0,0.0
+Georgia,2017,Feb,15,0.0,0.0,108.0,0.0
+Hawaii,2017,Feb,15,0.0,0.0,16.0,0.0
+Idaho,2017,Feb,15,0.0,0.0,4.0,0.0
+Illinois,2017,Feb,15,0.0,0.0,94.0,0.0
+Indiana,2017,Feb,15,0.0,0.0,53.0,0.0
+Iowa,2017,Feb,15,0.0,0.0,21.0,0.0
+Kansas,2017,Feb,15,0.0,0.0,21.0,0.0
+Kentucky,2017,Feb,15,0.0,0.0,32.0,0.0
+Louisiana,2017,Feb,15,0.0,0.0,39.0,0.0
+Maine,2017,Feb,15,0.0,0.0,14.0,0.0
+Maryland,2017,Feb,15,0.0,0.0,130.0,0.0
+Massachusetts,2017,Feb,15,0.0,0.0,120.0,0.0
+Michigan,2017,Feb,15,0.0,0.0,66.0,0.0
+Minnesota,2017,Feb,15,0.0,0.0,64.0,0.0
+Mississippi,2017,Feb,15,0.0,0.0,25.0,0.0
+Missouri,2017,Feb,15,0.0,0.0,36.0,0.0
+Montana,2017,Feb,15,0.0,0.0,9.0,0.0
+Nebraska,2017,Feb,15,0.0,0.0,13.0,0.0
+Nevada,2017,Feb,15,0.0,1.0,22.0,0.0
+New Hampshire,2017,Feb,15,0.0,0.0,12.0,0.0
+New Jersey,2017,Feb,15,0.0,0.0,176.0,0.0
+New Mexico,2017,Feb,15,0.0,0.0,10.0,0.0
+New York,2017,Feb,15,0.0,2.0,1020.0,0.0
+North Carolina,2017,Feb,15,0.0,0.0,91.0,0.0
+North Dakota,2017,Feb,15,0.0,0.0,2.0,0.0
+Ohio,2017,Feb,15,0.0,0.0,84.0,0.0
+Oklahoma,2017,Feb,15,0.0,0.0,29.0,0.0
+Oregon,2017,Feb,15,0.0,0.0,46.0,0.0
+Pennsylvania,2017,Feb,15,0.0,0.0,173.0,0.0
+Rhode Island,2017,Feb,15,0.0,0.0,54.0,0.0
+South Carolina,2017,Feb,15,0.0,0.0,54.0,0.0
+South Dakota,2017,Feb,15,0.0,0.0,2.0,0.0
+Tennessee,2017,Feb,15,0.0,0.0,61.0,0.0
+Texas‡,2017,Feb,15,0.0,3.0,306.0,0.0
+Utah,2017,Feb,15,0.0,0.0,22.0,0.0
+Vermont,2017,Feb,15,0.0,0.0,11.0,0.0
+Virginia,2017,Feb,15,0.0,0.0,112.0,0.0
+Washington,2017,Feb,15,0.0,0.0,70.0,0.0
+West Virginia,2017,Feb,15,0.0,0.0,11.0,0.0
+Wisconsin,2017,Feb,15,0.0,0.0,48.0,0.0
+Wyoming,2017,Feb,15,0.0,0.0,2.0,0.0
+American Samoa,2017,Feb,15,0.0,0.0,120.0,0.0
+Puerto Rico,2017,Feb,15,0.0,318.0,35930.0,0.0
+US Virgin Islands,2017,Feb,15,0.0,0.0,973.0,0.0
+Alabama,2017,Feb,22,0.0,0.0,38.0,0.0
+Arizona,2017,Feb,22,0.0,1.0,55.0,0.0
+Arkansas,2017,Feb,22,0.0,0.0,15.0,0.0
+California,2017,Feb,22,0.0,5.0,421.0,0.0
+Colorado,2017,Feb,22,0.0,0.0,55.0,0.0
+Connecticut,2017,Feb,22,0.0,0.0,58.0,0.0
+Delaware,2017,Feb,22,0.0,0.0,17.0,0.0
+District of Columbia,2017,Feb,22,0.0,0.0,31.0,0.0
+Florida‡,2017,Feb,22,0.0,24.0,1073.0,0.0
+Georgia,2017,Feb,22,0.0,0.0,109.0,0.0
+Hawaii,2017,Feb,22,0.0,0.0,16.0,0.0
+Idaho,2017,Feb,22,0.0,0.0,4.0,0.0
+Illinois,2017,Feb,22,0.0,0.0,94.0,0.0
+Indiana,2017,Feb,22,0.0,0.0,53.0,0.0
+Iowa,2017,Feb,22,0.0,1.0,21.0,0.0
+Kansas,2017,Feb,22,0.0,0.0,21.0,0.0
+Kentucky,2017,Feb,22,0.0,0.0,32.0,0.0
+Louisiana,2017,Feb,22,0.0,0.0,39.0,0.0
+Maine,2017,Feb,22,0.0,0.0,14.0,0.0
+Maryland,2017,Feb,22,0.0,0.0,130.0,0.0
+Massachusetts,2017,Feb,22,0.0,0.0,121.0,0.0
+Michigan,2017,Feb,22,0.0,0.0,67.0,0.0
+Minnesota,2017,Feb,22,0.0,0.0,64.0,0.0
+Mississippi,2017,Feb,22,0.0,0.0,25.0,0.0
+Missouri,2017,Feb,22,0.0,0.0,36.0,0.0
+Montana,2017,Feb,22,0.0,0.0,9.0,0.0
+Nebraska,2017,Feb,22,0.0,0.0,13.0,0.0
+Nevada,2017,Feb,22,0.0,1.0,22.0,0.0
+New Hampshire,2017,Feb,22,0.0,0.0,12.0,0.0
+New Jersey,2017,Feb,22,0.0,0.0,180.0,0.0
+New Mexico,2017,Feb,22,0.0,0.0,10.0,0.0
+New York,2017,Feb,22,0.0,2.0,999.0,0.0
+North Carolina,2017,Feb,22,0.0,0.0,91.0,0.0
+North Dakota,2017,Feb,22,0.0,0.0,3.0,0.0
+Ohio,2017,Feb,22,0.0,0.0,85.0,0.0
+Oklahoma,2017,Feb,22,0.0,0.0,29.0,0.0
+Oregon,2017,Feb,22,0.0,0.0,47.0,0.0
+Pennsylvania,2017,Feb,22,0.0,0.0,173.0,0.0
+Rhode Island,2017,Feb,22,0.0,0.0,54.0,0.0
+South Carolina,2017,Feb,22,0.0,0.0,54.0,0.0
+South Dakota,2017,Feb,22,0.0,0.0,2.0,0.0
+Tennessee,2017,Feb,22,0.0,0.0,61.0,0.0
+Texas‡,2017,Feb,22,0.0,3.0,309.0,0.0
+Utah,2017,Feb,22,0.0,0.0,22.0,0.0
+Vermont,2017,Feb,22,0.0,0.0,11.0,0.0
+Virginia,2017,Feb,22,0.0,0.0,113.0,0.0
+Washington,2017,Feb,22,0.0,0.0,70.0,0.0
+West Virginia,2017,Feb,22,0.0,0.0,11.0,0.0
+Wisconsin,2017,Feb,22,0.0,0.0,50.0,0.0
+Wyoming,2017,Feb,22,0.0,0.0,2.0,0.0
+American Samoa,2017,Feb,22,0.0,0.0,120.0,0.0
+Puerto Rico,2017,Feb,22,0.0,318.0,36343.0,0.0
+US Virgin Islands,2017,Feb,22,0.0,0.0,984.0,0.0
+Alabama,2017,Mar,1,0.0,0.0,38.0,0.0
+Arizona,2017,Mar,1,0.0,1.0,55.0,0.0
+Arkansas,2017,Mar,1,0.0,0.0,15.0,0.0
+California,2017,Mar,1,0.0,5.0,426.0,0.0
+Colorado,2017,Mar,1,0.0,0.0,55.0,0.0
+Connecticut,2017,Mar,1,0.0,0.0,58.0,0.0
+Delaware,2017,Mar,1,0.0,0.0,17.0,0.0
+District of Columbia,2017,Mar,1,0.0,0.0,31.0,0.0
+Florida‡,2017,Mar,1,0.0,24.0,1083.0,0.0
+Georgia,2017,Mar,1,0.0,0.0,109.0,0.0
+Hawaii,2017,Mar,1,0.0,0.0,16.0,0.0
+Idaho,2017,Mar,1,0.0,0.0,5.0,0.0
+Illinois,2017,Mar,1,0.0,0.0,94.0,0.0
+Indiana,2017,Mar,1,0.0,0.0,53.0,0.0
+Iowa,2017,Mar,1,0.0,1.0,26.0,0.0
+Kansas,2017,Mar,1,0.0,0.0,22.0,0.0
+Kentucky,2017,Mar,1,0.0,0.0,32.0,0.0
+Louisiana,2017,Mar,1,0.0,0.0,39.0,0.0
+Maine,2017,Mar,1,0.0,0.0,14.0,0.0
+Maryland,2017,Mar,1,0.0,0.0,131.0,0.0
+Massachusetts,2017,Mar,1,0.0,0.0,121.0,0.0
+Michigan,2017,Mar,1,0.0,0.0,68.0,0.0
+Minnesota,2017,Mar,1,0.0,0.0,64.0,0.0
+Mississippi,2017,Mar,1,0.0,0.0,25.0,0.0
+Missouri,2017,Mar,1,0.0,0.0,36.0,0.0
+Montana,2017,Mar,1,0.0,0.0,9.0,0.0
+Nebraska,2017,Mar,1,0.0,0.0,13.0,0.0
+Nevada,2017,Mar,1,0.0,1.0,22.0,0.0
+New Hampshire,2017,Mar,1,0.0,0.0,12.0,0.0
+New Jersey,2017,Mar,1,0.0,0.0,180.0,0.0
+New Mexico,2017,Mar,1,0.0,0.0,10.0,0.0
+New York,2017,Mar,1,0.0,3.0,1004.0,0.0
+North Carolina,2017,Mar,1,0.0,0.0,91.0,0.0
+North Dakota,2017,Mar,1,0.0,0.0,3.0,0.0
+Ohio,2017,Mar,1,0.0,0.0,85.0,0.0
+Oklahoma,2017,Mar,1,0.0,0.0,29.0,0.0
+Oregon,2017,Mar,1,0.0,0.0,47.0,0.0
+Pennsylvania,2017,Mar,1,0.0,0.0,174.0,0.0
+Rhode Island,2017,Mar,1,0.0,0.0,54.0,0.0
+South Carolina,2017,Mar,1,0.0,0.0,54.0,0.0
+South Dakota,2017,Mar,1,0.0,0.0,2.0,0.0
+Tennessee,2017,Mar,1,0.0,0.0,61.0,0.0
+Texas‡,2017,Mar,1,0.0,3.0,312.0,0.0
+Utah,2017,Mar,1,0.0,0.0,22.0,0.0
+Vermont,2017,Mar,1,0.0,0.0,11.0,0.0
+Virginia,2017,Mar,1,0.0,0.0,113.0,0.0
+Washington,2017,Mar,1,0.0,0.0,70.0,0.0
+West Virginia,2017,Mar,1,0.0,0.0,11.0,0.0
+Wisconsin,2017,Mar,1,0.0,0.0,50.0,0.0
+Wyoming,2017,Mar,1,0.0,0.0,2.0,0.0
+American Samoa,2017,Mar,1,0.0,0.0,120.0,0.0
+Puerto Rico,2017,Mar,1,0.0,318.0,37197.0,0.0
+US Virgin Islands,2017,Mar,1,0.0,0.0,989.0,0.0
+Alabama,2017,Mar,8,0.0,0.0,39.0,0.0
+Arizona,2017,Mar,8,0.0,1.0,55.0,0.0
+Arkansas,2017,Mar,8,0.0,0.0,15.0,0.0
+California,2017,Mar,8,0.0,5.0,431.0,0.0
+Colorado,2017,Mar,8,0.0,0.0,55.0,0.0
+Connecticut,2017,Mar,8,0.0,0.0,58.0,0.0
+Delaware,2017,Mar,8,0.0,0.0,17.0,0.0
+District of Columbia,2017,Mar,8,0.0,0.0,31.0,0.0
+Florida‡,2017,Mar,8,0.0,24.0,1095.0,0.0
+Georgia,2017,Mar,8,0.0,0.0,109.0,0.0
+Hawaii,2017,Mar,8,0.0,0.0,16.0,0.0
+Idaho,2017,Mar,8,0.0,0.0,5.0,0.0
+Illinois,2017,Mar,8,0.0,0.0,94.0,0.0
+Indiana,2017,Mar,8,0.0,0.0,53.0,0.0
+Iowa,2017,Mar,8,0.0,1.0,27.0,0.0
+Kansas,2017,Mar,8,0.0,0.0,22.0,0.0
+Kentucky,2017,Mar,8,0.0,0.0,33.0,0.0
+Louisiana,2017,Mar,8,0.0,0.0,39.0,0.0
+Maine,2017,Mar,8,0.0,0.0,14.0,0.0
+Maryland,2017,Mar,8,0.0,0.0,133.0,0.0
+Massachusetts,2017,Mar,8,0.0,0.0,122.0,0.0
+Michigan,2017,Mar,8,0.0,0.0,69.0,0.0
+Minnesota,2017,Mar,8,0.0,0.0,64.0,0.0
+Mississippi,2017,Mar,8,0.0,0.0,25.0,0.0
+Missouri,2017,Mar,8,0.0,0.0,36.0,0.0
+Montana,2017,Mar,8,0.0,0.0,9.0,0.0
+Nebraska,2017,Mar,8,0.0,0.0,13.0,0.0
+Nevada,2017,Mar,8,0.0,2.0,22.0,0.0
+New Hampshire,2017,Mar,8,0.0,0.0,12.0,0.0
+New Jersey,2017,Mar,8,0.0,0.0,180.0,0.0
+New Mexico,2017,Mar,8,0.0,0.0,10.0,0.0
+New York,2017,Mar,8,0.0,3.0,1007.0,0.0
+North Carolina,2017,Mar,8,0.0,0.0,91.0,0.0
+North Dakota,2017,Mar,8,0.0,0.0,3.0,0.0
+Ohio,2017,Mar,8,0.0,0.0,85.0,0.0
+Oklahoma,2017,Mar,8,0.0,0.0,29.0,0.0
+Oregon,2017,Mar,8,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Mar,8,0.0,0.0,175.0,0.0
+Rhode Island,2017,Mar,8,0.0,0.0,54.0,0.0
+South Carolina,2017,Mar,8,0.0,0.0,54.0,0.0
+South Dakota,2017,Mar,8,0.0,0.0,2.0,0.0
+Tennessee,2017,Mar,8,0.0,0.0,61.0,0.0
+Texas‡,2017,Mar,8,0.0,3.0,317.0,0.0
+Utah,2017,Mar,8,0.0,0.0,22.0,0.0
+Vermont,2017,Mar,8,0.0,0.0,11.0,0.0
+Virginia,2017,Mar,8,0.0,0.0,114.0,0.0
+Washington,2017,Mar,8,0.0,0.0,70.0,0.0
+West Virginia,2017,Mar,8,0.0,0.0,11.0,0.0
+Wisconsin,2017,Mar,8,0.0,0.0,50.0,0.0
+Wyoming,2017,Mar,8,0.0,0.0,2.0,0.0
+American Samoa,2017,Mar,8,0.0,0.0,139.0,0.0
+Puerto Rico,2017,Mar,8,0.0,318.0,36967.0,0.0
+US Virgin Islands,2017,Mar,8,0.0,0.0,993.0,0.0
+Alabama,2017,Mar,15,0.0,0.0,40.0,0.0
+Arizona,2017,Mar,15,0.0,1.0,54.0,0.0
+Arkansas,2017,Mar,15,0.0,0.0,15.0,0.0
+California,2017,Mar,15,0.0,5.0,433.0,0.0
+Colorado,2017,Mar,15,0.0,0.0,56.0,0.0
+Connecticut,2017,Mar,15,0.0,0.0,58.0,0.0
+Delaware,2017,Mar,15,0.0,0.0,17.0,0.0
+District of Columbia,2017,Mar,15,0.0,0.0,31.0,0.0
+Florida‡,2017,Mar,15,0.0,24.0,1104.0,0.0
+Georgia,2017,Mar,15,0.0,0.0,109.0,0.0
+Hawaii,2017,Mar,15,0.0,0.0,16.0,0.0
+Idaho,2017,Mar,15,0.0,0.0,5.0,0.0
+Illinois,2017,Mar,15,0.0,0.0,94.0,0.0
+Indiana,2017,Mar,15,0.0,0.0,53.0,0.0
+Iowa,2017,Mar,15,0.0,1.0,27.0,0.0
+Kansas,2017,Mar,15,0.0,0.0,22.0,0.0
+Kentucky,2017,Mar,15,0.0,0.0,33.0,0.0
+Louisiana,2017,Mar,15,0.0,0.0,39.0,0.0
+Maine,2017,Mar,15,0.0,0.0,14.0,0.0
+Maryland,2017,Mar,15,0.0,0.0,134.0,0.0
+Massachusetts,2017,Mar,15,0.0,0.0,123.0,0.0
+Michigan,2017,Mar,15,0.0,0.0,69.0,0.0
+Minnesota,2017,Mar,15,0.0,0.0,64.0,0.0
+Mississippi,2017,Mar,15,0.0,0.0,25.0,0.0
+Missouri,2017,Mar,15,0.0,0.0,36.0,0.0
+Montana,2017,Mar,15,0.0,0.0,9.0,0.0
+Nebraska,2017,Mar,15,0.0,0.0,13.0,0.0
+Nevada,2017,Mar,15,0.0,2.0,22.0,0.0
+New Hampshire,2017,Mar,15,0.0,0.0,12.0,0.0
+New Jersey,2017,Mar,15,0.0,0.0,182.0,0.0
+New Mexico,2017,Mar,15,0.0,0.0,10.0,0.0
+New York,2017,Mar,15,0.0,3.0,1009.0,0.0
+North Carolina,2017,Mar,15,0.0,0.0,98.0,0.0
+North Dakota,2017,Mar,15,0.0,0.0,3.0,0.0
+Ohio,2017,Mar,15,0.0,0.0,85.0,0.0
+Oklahoma,2017,Mar,15,0.0,0.0,29.0,0.0
+Oregon,2017,Mar,15,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Mar,15,0.0,0.0,177.0,0.0
+Rhode Island,2017,Mar,15,0.0,0.0,54.0,0.0
+South Carolina,2017,Mar,15,0.0,0.0,54.0,0.0
+South Dakota,2017,Mar,15,0.0,0.0,2.0,0.0
+Tennessee,2017,Mar,15,0.0,0.0,61.0,0.0
+Texas‡,2017,Mar,15,0.0,3.0,317.0,0.0
+Utah,2017,Mar,15,0.0,0.0,22.0,0.0
+Vermont,2017,Mar,15,0.0,0.0,11.0,0.0
+Virginia,2017,Mar,15,0.0,0.0,114.0,0.0
+Washington,2017,Mar,15,0.0,0.0,71.0,0.0
+West Virginia,2017,Mar,15,0.0,0.0,11.0,0.0
+Wisconsin,2017,Mar,15,0.0,0.0,52.0,0.0
+Wyoming,2017,Mar,15,0.0,0.0,2.0,0.0
+American Samoa,2017,Mar,15,0.0,0.0,139.0,0.0
+Puerto Rico,2017,Mar,15,0.0,325.0,37056.0,0.0
+US Virgin Islands,2017,Mar,15,0.0,0.0,993.0,0.0
+Alabama,2017,Mar,22,0.0,0.0,40.0,0.0
+Arizona,2017,Mar,22,0.0,1.0,54.0,0.0
+Arkansas,2017,Mar,22,0.0,0.0,15.0,0.0
+California,2017,Mar,22,0.0,5.0,434.0,0.0
+Colorado,2017,Mar,22,0.0,0.0,57.0,0.0
+Connecticut,2017,Mar,22,0.0,0.0,58.0,0.0
+Delaware,2017,Mar,22,0.0,0.0,17.0,0.0
+District of Columbia,2017,Mar,22,0.0,0.0,34.0,0.0
+Florida‡,2017,Mar,22,0.0,26.0,1109.0,0.0
+Georgia,2017,Mar,22,0.0,0.0,110.0,0.0
+Hawaii,2017,Mar,22,0.0,0.0,16.0,0.0
+Idaho,2017,Mar,22,0.0,0.0,5.0,0.0
+Illinois,2017,Mar,22,0.0,0.0,94.0,0.0
+Indiana,2017,Mar,22,0.0,0.0,53.0,0.0
+Iowa,2017,Mar,22,0.0,1.0,27.0,0.0
+Kansas,2017,Mar,22,0.0,0.0,22.0,0.0
+Kentucky,2017,Mar,22,0.0,0.0,33.0,0.0
+Louisiana,2017,Mar,22,0.0,0.0,39.0,0.0
+Maine,2017,Mar,22,0.0,0.0,14.0,0.0
+Maryland,2017,Mar,22,0.0,0.0,134.0,0.0
+Massachusetts,2017,Mar,22,0.0,1.0,125.0,0.0
+Michigan,2017,Mar,22,0.0,0.0,69.0,0.0
+Minnesota,2017,Mar,22,0.0,0.0,64.0,0.0
+Mississippi,2017,Mar,22,0.0,0.0,25.0,0.0
+Missouri,2017,Mar,22,0.0,0.0,36.0,0.0
+Montana,2017,Mar,22,0.0,0.0,9.0,0.0
+Nebraska,2017,Mar,22,0.0,0.0,13.0,0.0
+Nevada,2017,Mar,22,0.0,2.0,22.0,0.0
+New Hampshire,2017,Mar,22,0.0,0.0,12.0,0.0
+New Jersey,2017,Mar,22,0.0,0.0,182.0,0.0
+New Mexico,2017,Mar,22,0.0,0.0,10.0,0.0
+New York,2017,Mar,22,0.0,3.0,1012.0,0.0
+North Carolina,2017,Mar,22,0.0,0.0,100.0,0.0
+North Dakota,2017,Mar,22,0.0,0.0,3.0,0.0
+Ohio,2017,Mar,22,0.0,0.0,85.0,0.0
+Oklahoma,2017,Mar,22,0.0,0.0,29.0,0.0
+Oregon,2017,Mar,22,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Mar,22,0.0,0.0,178.0,0.0
+Rhode Island,2017,Mar,22,0.0,0.0,54.0,0.0
+South Carolina,2017,Mar,22,0.0,0.0,54.0,0.0
+South Dakota,2017,Mar,22,0.0,0.0,2.0,0.0
+Tennessee,2017,Mar,22,0.0,0.0,61.0,0.0
+Texas‡,2017,Mar,22,0.0,3.0,317.0,0.0
+Utah,2017,Mar,22,0.0,0.0,22.0,0.0
+Vermont,2017,Mar,22,0.0,0.0,11.0,0.0
+Virginia,2017,Mar,22,0.0,0.0,114.0,0.0
+Washington,2017,Mar,22,0.0,0.0,71.0,0.0
+West Virginia,2017,Mar,22,0.0,1.0,11.0,0.0
+Wisconsin,2017,Mar,22,0.0,0.0,52.0,0.0
+Wyoming,2017,Mar,22,0.0,0.0,2.0,0.0
+American Samoa,2017,Mar,22,0.0,0.0,132.0,0.0
+Puerto Rico,2017,Mar,22,0.0,325.0,37083.0,0.0
+US Virgin Islands,2017,Mar,22,0.0,0.0,997.0,0.0
+Alabama,2017,Mar,29,0.0,0.0,40.0,0.0
+Arizona,2017,Mar,29,0.0,1.0,57.0,0.0
+Arkansas,2017,Mar,29,0.0,0.0,15.0,0.0
+California,2017,Mar,29,0.0,5.0,437.0,0.0
+Colorado,2017,Mar,29,0.0,0.0,57.0,0.0
+Connecticut,2017,Mar,29,0.0,0.0,58.0,0.0
+Delaware,2017,Mar,29,0.0,0.0,17.0,0.0
+District of Columbia,2017,Mar,29,0.0,0.0,32.0,0.0
+Florida‡,2017,Mar,29,0.0,26.0,1114.0,0.0
+Georgia,2017,Mar,29,0.0,0.0,110.0,0.0
+Hawaii,2017,Mar,29,0.0,0.0,16.0,0.0
+Idaho,2017,Mar,29,0.0,0.0,5.0,0.0
+Illinois,2017,Mar,29,0.0,0.0,94.0,0.0
+Indiana,2017,Mar,29,0.0,0.0,51.0,0.0
+Iowa,2017,Mar,29,0.0,1.0,27.0,0.0
+Kansas,2017,Mar,29,0.0,0.0,22.0,0.0
+Kentucky,2017,Mar,29,0.0,0.0,33.0,0.0
+Louisiana,2017,Mar,29,0.0,0.0,39.0,0.0
+Maine,2017,Mar,29,0.0,0.0,14.0,0.0
+Maryland,2017,Mar,29,0.0,0.0,135.0,0.0
+Massachusetts,2017,Mar,29,0.0,1.0,125.0,0.0
+Michigan,2017,Mar,29,0.0,0.0,72.0,0.0
+Minnesota,2017,Mar,29,0.0,0.0,64.0,0.0
+Mississippi,2017,Mar,29,0.0,0.0,25.0,0.0
+Missouri,2017,Mar,29,0.0,0.0,36.0,0.0
+Montana,2017,Mar,29,0.0,0.0,9.0,0.0
+Nebraska,2017,Mar,29,0.0,0.0,13.0,0.0
+Nevada,2017,Mar,29,0.0,2.0,22.0,0.0
+New Hampshire,2017,Mar,29,0.0,0.0,12.0,0.0
+New Jersey,2017,Mar,29,0.0,0.0,184.0,0.0
+New Mexico,2017,Mar,29,0.0,0.0,10.0,0.0
+New York,2017,Mar,29,0.0,3.0,1016.0,0.0
+North Carolina,2017,Mar,29,0.0,0.0,100.0,0.0
+North Dakota,2017,Mar,29,0.0,0.0,3.0,0.0
+Ohio,2017,Mar,29,0.0,0.0,85.0,0.0
+Oklahoma,2017,Mar,29,0.0,0.0,29.0,0.0
+Oregon,2017,Mar,29,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Mar,29,0.0,0.0,178.0,0.0
+Rhode Island,2017,Mar,29,0.0,0.0,54.0,0.0
+South Carolina,2017,Mar,29,0.0,0.0,54.0,0.0
+South Dakota,2017,Mar,29,0.0,0.0,2.0,0.0
+Tennessee,2017,Mar,29,0.0,0.0,61.0,0.0
+Texas‡,2017,Mar,29,0.0,3.0,319.0,0.0
+Utah,2017,Mar,29,0.0,0.0,22.0,0.0
+Vermont,2017,Mar,29,0.0,0.0,11.0,0.0
+Virginia,2017,Mar,29,0.0,0.0,114.0,0.0
+Washington,2017,Mar,29,0.0,0.0,72.0,0.0
+West Virginia,2017,Mar,29,0.0,1.0,11.0,0.0
+Wisconsin,2017,Mar,29,0.0,0.0,56.0,0.0
+Wyoming,2017,Mar,29,0.0,0.0,2.0,0.0
+American Samoa,2017,Mar,29,0.0,0.0,132.0,0.0
+Puerto Rico,2017,Mar,29,0.0,325.0,37174.0,0.0
+US Virgin Islands,2017,Mar,29,0.0,0.0,997.0,0.0
+Alabama,2017,Apr,5,0.0,0.0,40.0,0.0
+Arizona,2017,Apr,5,0.0,1.0,55.0,0.0
+Arkansas,2017,Apr,5,0.0,0.0,15.0,0.0
+California,2017,Apr,5,0.0,5.0,438.0,0.0
+Colorado,2017,Apr,5,0.0,0.0,58.0,0.0
+Connecticut,2017,Apr,5,0.0,0.0,58.0,0.0
+Delaware,2017,Apr,5,0.0,0.0,17.0,0.0
+District of Columbia,2017,Apr,5,0.0,0.0,32.0,0.0
+Florida‡,2017,Apr,5,0.0,26.0,1116.0,0.0
+Georgia,2017,Apr,5,0.0,0.0,110.0,0.0
+Hawaii,2017,Apr,5,0.0,0.0,16.0,0.0
+Idaho,2017,Apr,5,0.0,0.0,5.0,0.0
+Illinois,2017,Apr,5,0.0,0.0,97.0,0.0
+Indiana,2017,Apr,5,0.0,0.0,51.0,0.0
+Iowa,2017,Apr,5,0.0,1.0,27.0,0.0
+Kansas,2017,Apr,5,0.0,0.0,22.0,0.0
+Kentucky,2017,Apr,5,0.0,0.0,33.0,0.0
+Louisiana,2017,Apr,5,0.0,0.0,39.0,0.0
+Maine,2017,Apr,5,0.0,0.0,14.0,0.0
+Maryland,2017,Apr,5,0.0,0.0,135.0,0.0
+Massachusetts,2017,Apr,5,0.0,1.0,126.0,0.0
+Michigan,2017,Apr,5,0.0,0.0,72.0,0.0
+Minnesota,2017,Apr,5,0.0,0.0,64.0,0.0
+Mississippi,2017,Apr,5,0.0,0.0,25.0,0.0
+Missouri,2017,Apr,5,0.0,0.0,36.0,0.0
+Montana,2017,Apr,5,0.0,0.0,9.0,0.0
+Nebraska,2017,Apr,5,0.0,0.0,13.0,0.0
+Nevada,2017,Apr,5,0.0,1.0,22.0,0.0
+New Hampshire,2017,Apr,5,0.0,0.0,12.0,0.0
+New Jersey,2017,Apr,5,0.0,0.0,188.0,0.0
+New Mexico,2017,Apr,5,0.0,0.0,10.0,0.0
+New York,2017,Apr,5,0.0,3.0,1016.0,0.0
+North Carolina,2017,Apr,5,0.0,0.0,100.0,0.0
+North Dakota,2017,Apr,5,0.0,0.0,3.0,0.0
+Ohio,2017,Apr,5,0.0,0.0,85.0,0.0
+Oklahoma,2017,Apr,5,0.0,0.0,29.0,0.0
+Oregon,2017,Apr,5,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Apr,5,0.0,0.0,178.0,0.0
+Rhode Island,2017,Apr,5,0.0,0.0,55.0,0.0
+South Carolina,2017,Apr,5,0.0,0.0,54.0,0.0
+South Dakota,2017,Apr,5,0.0,0.0,2.0,0.0
+Tennessee,2017,Apr,5,0.0,0.0,61.0,0.0
+Texas‡,2017,Apr,5,0.0,3.0,320.0,0.0
+Utah,2017,Apr,5,0.0,0.0,22.0,0.0
+Vermont,2017,Apr,5,0.0,0.0,13.0,0.0
+Virginia,2017,Apr,5,0.0,0.0,115.0,0.0
+Washington,2017,Apr,5,0.0,0.0,72.0,0.0
+West Virginia,2017,Apr,5,0.0,1.0,11.0,0.0
+Wisconsin,2017,Apr,5,0.0,0.0,56.0,0.0
+Wyoming,2017,Apr,5,0.0,0.0,2.0,0.0
+American Samoa,2017,Apr,5,0.0,0.0,132.0,0.0
+Puerto Rico,2017,Apr,5,0.0,325.0,35375.0,0.0
+US Virgin Islands,2017,Apr,5,0.0,0.0,997.0,0.0
+Alabama,2017,Apr,12,0.0,0.0,40.0,0.0
+Arizona,2017,Apr,12,0.0,1.0,55.0,0.0
+Arkansas,2017,Apr,12,0.0,0.0,15.0,0.0
+California,2017,Apr,12,0.0,5.0,439.0,0.0
+Colorado,2017,Apr,12,0.0,0.0,58.0,0.0
+Connecticut,2017,Apr,12,0.0,0.0,58.0,0.0
+Delaware,2017,Apr,12,0.0,0.0,17.0,0.0
+District of Columbia,2017,Apr,12,0.0,0.0,40.0,0.0
+Florida‡,2017,Apr,12,0.0,26.0,1125.0,0.0
+Georgia,2017,Apr,12,0.0,0.0,110.0,0.0
+Hawaii,2017,Apr,12,0.0,0.0,16.0,0.0
+Idaho,2017,Apr,12,0.0,0.0,4.0,0.0
+Illinois,2017,Apr,12,0.0,0.0,108.0,0.0
+Indiana,2017,Apr,12,0.0,0.0,51.0,0.0
+Iowa,2017,Apr,12,0.0,1.0,27.0,0.0
+Kansas,2017,Apr,12,0.0,0.0,22.0,0.0
+Kentucky,2017,Apr,12,0.0,0.0,33.0,0.0
+Louisiana,2017,Apr,12,0.0,0.0,39.0,0.0
+Maine,2017,Apr,12,0.0,0.0,14.0,0.0
+Maryland,2017,Apr,12,0.0,0.0,134.0,0.0
+Massachusetts,2017,Apr,12,0.0,1.0,126.0,0.0
+Michigan,2017,Apr,12,0.0,0.0,72.0,0.0
+Minnesota,2017,Apr,12,0.0,0.0,64.0,0.0
+Mississippi,2017,Apr,12,0.0,0.0,25.0,0.0
+Missouri,2017,Apr,12,0.0,0.0,36.0,0.0
+Montana,2017,Apr,12,0.0,0.0,9.0,0.0
+Nebraska,2017,Apr,12,0.0,0.0,13.0,0.0
+Nevada,2017,Apr,12,0.0,1.0,22.0,0.0
+New Hampshire,2017,Apr,12,0.0,0.0,13.0,0.0
+New Jersey,2017,Apr,12,0.0,0.0,188.0,0.0
+New Mexico,2017,Apr,12,0.0,0.0,10.0,0.0
+New York,2017,Apr,12,0.0,3.0,1020.0,0.0
+North Carolina,2017,Apr,12,0.0,0.0,100.0,0.0
+North Dakota,2017,Apr,12,0.0,0.0,3.0,0.0
+Ohio,2017,Apr,12,0.0,0.0,85.0,0.0
+Oklahoma,2017,Apr,12,0.0,0.0,29.0,0.0
+Oregon,2017,Apr,12,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Apr,12,0.0,0.0,178.0,0.0
+Rhode Island,2017,Apr,12,0.0,0.0,55.0,0.0
+South Carolina,2017,Apr,12,0.0,0.0,57.0,0.0
+South Dakota,2017,Apr,12,0.0,0.0,3.0,0.0
+Tennessee,2017,Apr,12,0.0,0.0,61.0,0.0
+Texas‡,2017,Apr,12,0.0,3.0,321.0,0.0
+Utah,2017,Apr,12,0.0,0.0,22.0,0.0
+Vermont,2017,Apr,12,0.0,0.0,13.0,0.0
+Virginia,2017,Apr,12,0.0,0.0,115.0,0.0
+Washington,2017,Apr,12,0.0,0.0,72.0,0.0
+West Virginia,2017,Apr,12,0.0,1.0,11.0,0.0
+Wisconsin,2017,Apr,12,0.0,0.0,56.0,0.0
+Wyoming,2017,Apr,12,0.0,0.0,2.0,0.0
+American Samoa,2017,Apr,12,0.0,0.0,132.0,0.0
+Puerto Rico,2017,Apr,12,0.0,325.0,35397.0,0.0
+US Virgin Islands,2017,Apr,12,0.0,0.0,997.0,0.0
+Alabama,2017,Apr,19,0.0,1.0,40.0,0.0
+Arizona,2017,Apr,19,0.0,1.0,55.0,0.0
+Arkansas,2017,Apr,19,0.0,0.0,15.0,0.0
+California,2017,Apr,19,0.0,5.0,437.0,0.0
+Colorado,2017,Apr,19,0.0,0.0,58.0,0.0
+Connecticut,2017,Apr,19,0.0,0.0,58.0,0.0
+Delaware,2017,Apr,19,0.0,0.0,17.0,0.0
+District of Columbia,2017,Apr,19,0.0,0.0,40.0,0.0
+Florida‡,2017,Apr,19,0.0,26.0,1131.0,0.0
+Georgia,2017,Apr,19,0.0,0.0,110.0,0.0
+Hawaii,2017,Apr,19,0.0,0.0,16.0,0.0
+Idaho,2017,Apr,19,0.0,0.0,4.0,0.0
+Illinois,2017,Apr,19,0.0,0.0,105.0,0.0
+Indiana,2017,Apr,19,0.0,0.0,51.0,0.0
+Iowa,2017,Apr,19,0.0,1.0,27.0,0.0
+Kansas,2017,Apr,19,0.0,0.0,22.0,0.0
+Kentucky,2017,Apr,19,0.0,0.0,33.0,0.0
+Louisiana,2017,Apr,19,0.0,0.0,39.0,0.0
+Maine,2017,Apr,19,0.0,0.0,14.0,0.0
+Maryland,2017,Apr,19,0.0,0.0,134.0,0.0
+Massachusetts,2017,Apr,19,0.0,1.0,126.0,0.0
+Michigan,2017,Apr,19,0.0,0.0,72.0,0.0
+Minnesota,2017,Apr,19,0.0,0.0,64.0,0.0
+Mississippi,2017,Apr,19,0.0,0.0,25.0,0.0
+Missouri,2017,Apr,19,0.0,0.0,36.0,0.0
+Montana,2017,Apr,19,0.0,0.0,9.0,0.0
+Nebraska,2017,Apr,19,0.0,0.0,13.0,0.0
+Nevada,2017,Apr,19,0.0,1.0,22.0,0.0
+New Hampshire,2017,Apr,19,0.0,0.0,13.0,0.0
+New Jersey,2017,Apr,19,0.0,0.0,189.0,0.0
+New Mexico,2017,Apr,19,0.0,0.0,10.0,0.0
+New York,2017,Apr,19,0.0,3.0,1020.0,0.0
+North Carolina,2017,Apr,19,0.0,0.0,100.0,0.0
+North Dakota,2017,Apr,19,0.0,0.0,3.0,0.0
+Ohio,2017,Apr,19,0.0,0.0,85.0,0.0
+Oklahoma,2017,Apr,19,0.0,0.0,29.0,0.0
+Oregon,2017,Apr,19,0.0,0.0,48.0,0.0
+Pennsylvania,2017,Apr,19,0.0,0.0,179.0,0.0
+Rhode Island,2017,Apr,19,0.0,0.0,55.0,0.0
+South Carolina,2017,Apr,19,0.0,0.0,57.0,0.0
+South Dakota,2017,Apr,19,0.0,0.0,3.0,0.0
+Tennessee,2017,Apr,19,0.0,0.0,61.0,0.0
+Texas‡,2017,Apr,19,0.0,4.0,322.0,0.0
+Utah,2017,Apr,19,0.0,0.0,22.0,0.0
+Vermont,2017,Apr,19,0.0,0.0,13.0,0.0
+Virginia,2017,Apr,19,0.0,0.0,115.0,0.0
+Washington,2017,Apr,19,0.0,0.0,72.0,0.0
+West Virginia,2017,Apr,19,0.0,1.0,11.0,0.0
+Wisconsin,2017,Apr,19,0.0,0.0,56.0,0.0
+Wyoming,2017,Apr,19,0.0,0.0,2.0,0.0
+American Samoa,2017,Apr,19,0.0,0.0,132.0,0.0
+Puerto Rico,2017,Apr,19,0.0,325.0,35418.0,0.0
+US Virgin Islands,2017,Apr,19,0.0,0.0,1109.0,0.0
+Alabama,2017,Apr,26,0.0,1.0,40.0,0.0
+Arizona,2017,Apr,26,0.0,1.0,55.0,0.0
+Arkansas,2017,Apr,26,0.0,0.0,15.0,0.0
+California,2017,Apr,26,0.0,5.0,444.0,0.0
+Colorado,2017,Apr,26,0.0,0.0,59.0,0.0
+Connecticut,2017,Apr,26,0.0,0.0,58.0,0.0
+Delaware,2017,Apr,26,0.0,0.0,17.0,0.0
+District of Columbia,2017,Apr,26,0.0,0.0,43.0,0.0
+Florida‡,2017,Apr,26,0.0,26.0,1134.0,0.0
+Georgia,2017,Apr,26,0.0,0.0,110.0,0.0
+Hawaii,2017,Apr,26,0.0,0.0,16.0,0.0
+Idaho,2017,Apr,26,0.0,0.0,4.0,0.0
+Illinois,2017,Apr,26,0.0,0.0,103.0,0.0
+Indiana,2017,Apr,26,0.0,0.0,51.0,0.0
+Iowa,2017,Apr,26,0.0,1.0,27.0,0.0
+Kansas,2017,Apr,26,0.0,0.0,22.0,0.0
+Kentucky,2017,Apr,26,0.0,0.0,33.0,0.0
+Louisiana,2017,Apr,26,0.0,0.0,39.0,0.0
+Maine,2017,Apr,26,0.0,0.0,14.0,0.0
+Maryland,2017,Apr,26,0.0,0.0,134.0,0.0
+Massachusetts,2017,Apr,26,0.0,1.0,127.0,0.0
+Michigan,2017,Apr,26,0.0,0.0,73.0,0.0
+Minnesota,2017,Apr,26,0.0,0.0,64.0,0.0
+Mississippi,2017,Apr,26,0.0,0.0,25.0,0.0
+Missouri,2017,Apr,26,0.0,0.0,38.0,0.0
+Montana,2017,Apr,26,0.0,0.0,9.0,0.0
+Nebraska,2017,Apr,26,0.0,0.0,13.0,0.0
+Nevada,2017,Apr,26,0.0,1.0,22.0,0.0
+New Hampshire,2017,Apr,26,0.0,0.0,13.0,0.0
+New Jersey,2017,Apr,26,0.0,0.0,189.0,0.0
+New Mexico,2017,Apr,26,0.0,0.0,10.0,0.0
+New York,2017,Apr,26,0.0,3.0,1021.0,0.0
+North Carolina,2017,Apr,26,0.0,0.0,100.0,0.0
+North Dakota,2017,Apr,26,0.0,0.0,3.0,0.0
+Ohio,2017,Apr,26,0.0,0.0,85.0,0.0
+Oklahoma,2017,Apr,26,0.0,0.0,29.0,0.0
+Oregon,2017,Apr,26,0.0,0.0,49.0,0.0
+Pennsylvania,2017,Apr,26,0.0,0.0,179.0,0.0
+Rhode Island,2017,Apr,26,0.0,0.0,57.0,0.0
+South Carolina,2017,Apr,26,0.0,0.0,59.0,0.0
+South Dakota,2017,Apr,26,0.0,0.0,3.0,0.0
+Tennessee,2017,Apr,26,0.0,0.0,61.0,0.0
+Texas‡,2017,Apr,26,0.0,5.0,326.0,0.0
+Utah,2017,Apr,26,0.0,0.0,22.0,0.0
+Vermont,2017,Apr,26,0.0,0.0,13.0,0.0
+Virginia,2017,Apr,26,0.0,0.0,115.0,0.0
+Washington,2017,Apr,26,0.0,0.0,72.0,0.0
+West Virginia,2017,Apr,26,0.0,1.0,11.0,0.0
+Wisconsin,2017,Apr,26,0.0,0.0,56.0,0.0
+Wyoming,2017,Apr,26,0.0,0.0,2.0,0.0
+American Samoa,2017,Apr,26,0.0,0.0,132.0,0.0
+Puerto Rico,2017,Apr,26,0.0,325.0,35423.0,0.0
+US Virgin Islands,2017,Apr,26,0.0,0.0,1020.0,0.0
+Alabama,2017,May,3,0.0,1.0,40.0,0.0
+Arizona,2017,May,3,0.0,1.0,55.0,0.0
+Arkansas,2017,May,3,0.0,0.0,15.0,0.0
+California,2017,May,3,0.0,5.0,447.0,0.0
+Colorado,2017,May,3,0.0,0.0,59.0,0.0
+Connecticut,2017,May,3,0.0,0.0,58.0,0.0
+Delaware,2017,May,3,0.0,0.0,17.0,0.0
+District of Columbia,2017,May,3,0.0,0.0,43.0,0.0
+Florida‡,2017,May,3,0.0,26.0,1134.0,0.0
+Georgia,2017,May,3,0.0,6.0,110.0,0.0
+Hawaii,2017,May,3,0.0,0.0,16.0,0.0
+Idaho,2017,May,3,0.0,0.0,4.0,0.0
+Illinois,2017,May,3,0.0,0.0,105.0,0.0
+Indiana,2017,May,3,0.0,0.0,51.0,0.0
+Iowa,2017,May,3,0.0,1.0,27.0,0.0
+Kansas,2017,May,3,0.0,0.0,22.0,0.0
+Kentucky,2017,May,3,0.0,0.0,34.0,0.0
+Louisiana,2017,May,3,0.0,0.0,39.0,0.0
+Maine,2017,May,3,0.0,0.0,14.0,0.0
+Maryland,2017,May,3,0.0,0.0,134.0,0.0
+Massachusetts,2017,May,3,0.0,1.0,128.0,0.0
+Michigan,2017,May,3,0.0,0.0,73.0,0.0
+Minnesota,2017,May,3,0.0,0.0,64.0,0.0
+Mississippi,2017,May,3,0.0,0.0,25.0,0.0
+Missouri,2017,May,3,0.0,0.0,38.0,0.0
+Montana,2017,May,3,0.0,0.0,9.0,0.0
+Nebraska,2017,May,3,0.0,0.0,13.0,0.0
+Nevada,2017,May,3,0.0,1.0,22.0,0.0
+New Hampshire,2017,May,3,0.0,0.0,13.0,0.0
+New Jersey,2017,May,3,0.0,0.0,189.0,0.0
+New Mexico,2017,May,3,0.0,0.0,10.0,0.0
+New York,2017,May,3,0.0,3.0,1021.0,0.0
+North Carolina,2017,May,3,0.0,0.0,100.0,0.0
+North Dakota,2017,May,3,0.0,0.0,3.0,0.0
+Ohio,2017,May,3,0.0,0.0,85.0,0.0
+Oklahoma,2017,May,3,0.0,0.0,29.0,0.0
+Oregon,2017,May,3,0.0,0.0,49.0,0.0
+Pennsylvania,2017,May,3,0.0,0.0,179.0,0.0
+Rhode Island,2017,May,3,0.0,0.0,57.0,0.0
+South Carolina,2017,May,3,0.0,0.0,59.0,0.0
+South Dakota,2017,May,3,0.0,0.0,3.0,0.0
+Tennessee,2017,May,3,0.0,0.0,61.0,0.0
+Texas‡,2017,May,3,0.0,5.0,326.0,0.0
+Utah,2017,May,3,0.0,0.0,22.0,0.0
+Vermont,2017,May,3,0.0,0.0,13.0,0.0
+Virginia,2017,May,3,0.0,0.0,116.0,0.0
+Washington,2017,May,3,0.0,0.0,72.0,0.0
+West Virginia,2017,May,3,0.0,1.0,11.0,0.0
+Wisconsin,2017,May,3,0.0,0.0,58.0,0.0
+Wyoming,2017,May,3,0.0,0.0,2.0,0.0
+American Samoa,2017,May,3,0.0,0.0,132.0,0.0
+Puerto Rico,2017,May,3,0.0,325.0,35422.0,0.0
+US Virgin Islands,2017,May,3,0.0,0.0,1020.0,0.0
+Alabama,2017,May,10,0.0,0.0,3.0,0.0
+Alaska,2017,May,10,0.0,0.0,1.0,0.0
+Arizona,2017,May,10,0.0,0.0,1.0,0.0
+Arkansas,2017,May,10,0.0,0.0,0.0,0.0
+California,2017,May,10,0.0,1.0,12.0,0.0
+Colorado,2017,May,10,0.0,0.0,3.0,0.0
+Connecticut,2017,May,10,0.0,0.0,0.0,0.0
+Delaware,2017,May,10,0.0,0.0,0.0,0.0
+District of Columbia,2017,May,10,0.0,0.0,0.0,0.0
+Florida,2017,May,10,0.0,3.0,12.0,0.0
+Georgia,2017,May,10,0.0,0.0,1.0,0.0
+Hawaii,2017,May,10,0.0,0.0,0.0,0.0
+Idaho,2017,May,10,0.0,0.0,0.0,0.0
+Illinois,2017,May,10,0.0,0.0,2.0,0.0
+Indiana,2017,May,10,0.0,0.0,1.0,0.0
+Iowa,2017,May,10,0.0,0.0,1.0,0.0
+Kansas,2017,May,10,0.0,0.0,2.0,0.0
+Kentucky,2017,May,10,0.0,0.0,1.0,0.0
+Louisiana,2017,May,10,0.0,0.0,1.0,0.0
+Maine,2017,May,10,0.0,0.0,1.0,0.0
+Maryland,2017,May,10,0.0,0.0,3.0,0.0
+Massachusetts,2017,May,10,0.0,0.0,5.0,0.0
+Michigan,2017,May,10,0.0,0.0,6.0,0.0
+Minnesota,2017,May,10,0.0,0.0,0.0,0.0
+Mississippi,2017,May,10,0.0,0.0,2.0,0.0
+Missouri,2017,May,10,0.0,0.0,1.0,0.0
+Montana,2017,May,10,0.0,0.0,0.0,0.0
+Nebraska,2017,May,10,0.0,0.0,0.0,0.0
+Nevada,2017,May,10,0.0,0.0,0.0,0.0
+New Hampshire,2017,May,10,0.0,0.0,0.0,0.0
+New Jersey,2017,May,10,0.0,0.0,2.0,0.0
+New Mexico,2017,May,10,0.0,0.0,0.0,0.0
+New York,2017,May,10,0.0,1.0,18.0,0.0
+North Carolina,2017,May,10,0.0,0.0,3.0,0.0
+North Dakota,2017,May,10,0.0,0.0,0.0,0.0
+Ohio,2017,May,10,0.0,0.0,3.0,0.0
+Oklahoma,2017,May,10,0.0,0.0,0.0,0.0
+Oregon,2017,May,10,0.0,0.0,1.0,0.0
+Pennsylvania,2017,May,10,0.0,0.0,3.0,0.0
+Rhode Island,2017,May,10,0.0,0.0,2.0,0.0
+South Carolina,2017,May,10,0.0,0.0,0.0,0.0
+South Dakota,2017,May,10,0.0,0.0,0.0,0.0
+Tennessee,2017,May,10,0.0,0.0,0.0,0.0
+Texas,2017,May,10,0.0,1.0,10.0,0.0
+Utah,2017,May,10,0.0,0.0,0.0,0.0
+Vermont,2017,May,10,0.0,0.0,2.0,0.0
+Virginia,2017,May,10,0.0,0.0,3.0,0.0
+Washington,2017,May,10,0.0,0.0,2.0,0.0
+West Virginia,2017,May,10,0.0,1.0,0.0,0.0
+Wisconsin,2017,May,10,0.0,0.0,2.0,0.0
+Wyoming,2017,May,10,0.0,0.0,0.0,0.0
+American Samoa,2017,May,10,0.0,0.0,3.0,0.0
+Puerto Rico,2017,May,10,0.0,3.0,456.0,0.0
+U.S. Virgin Islands,2017,May,10,0.0,0.0,34.0,0.0
+Alabama,2017,May,17,0.0,0.0,3.0,0.0
+Alaska,2017,May,17,0.0,0.0,1.0,0.0
+Arizona,2017,May,17,0.0,0.0,1.0,0.0
+Arkansas,2017,May,17,0.0,0.0,0.0,0.0
+California,2017,May,17,0.0,1.0,13.0,0.0
+Colorado,2017,May,17,0.0,0.0,3.0,0.0
+Connecticut,2017,May,17,0.0,0.0,0.0,0.0
+Delaware,2017,May,17,0.0,0.0,0.0,0.0
+District of Columbia,2017,May,17,0.0,0.0,0.0,0.0
+Florida,2017,May,17,0.0,3.0,13.0,0.0
+Georgia,2017,May,17,0.0,0.0,1.0,0.0
+Hawaii,2017,May,17,0.0,0.0,0.0,0.0
+Idaho,2017,May,17,0.0,0.0,0.0,0.0
+Illinois,2017,May,17,0.0,0.0,4.0,0.0
+Indiana,2017,May,17,0.0,0.0,1.0,0.0
+Iowa,2017,May,17,0.0,0.0,1.0,0.0
+Kansas,2017,May,17,0.0,0.0,2.0,0.0
+Kentucky,2017,May,17,0.0,0.0,1.0,0.0
+Louisiana,2017,May,17,0.0,0.0,1.0,0.0
+Maine,2017,May,17,0.0,0.0,1.0,0.0
+Maryland,2017,May,17,0.0,0.0,3.0,0.0
+Massachusetts,2017,May,17,0.0,0.0,5.0,0.0
+Michigan,2017,May,17,0.0,0.0,6.0,0.0
+Minnesota,2017,May,17,0.0,0.0,0.0,0.0
+Mississippi,2017,May,17,0.0,0.0,2.0,0.0
+Missouri,2017,May,17,0.0,0.0,1.0,0.0
+Montana,2017,May,17,0.0,0.0,0.0,0.0
+Nebraska,2017,May,17,0.0,0.0,0.0,0.0
+Nevada,2017,May,17,0.0,0.0,0.0,0.0
+New Hampshire,2017,May,17,0.0,0.0,0.0,0.0
+New Jersey,2017,May,17,0.0,0.0,2.0,0.0
+New Mexico,2017,May,17,0.0,0.0,0.0,0.0
+New York,2017,May,17,0.0,1.0,23.0,0.0
+North Carolina,2017,May,17,0.0,0.0,3.0,0.0
+North Dakota,2017,May,17,0.0,0.0,0.0,0.0
+Ohio,2017,May,17,0.0,0.0,3.0,0.0
+Oklahoma,2017,May,17,0.0,0.0,0.0,0.0
+Oregon,2017,May,17,0.0,0.0,1.0,0.0
+Pennsylvania,2017,May,17,0.0,0.0,3.0,0.0
+Rhode Island,2017,May,17,0.0,0.0,2.0,0.0
+South Carolina,2017,May,17,0.0,0.0,0.0,0.0
+South Dakota,2017,May,17,0.0,0.0,0.0,0.0
+Tennessee,2017,May,17,0.0,0.0,0.0,0.0
+Texas,2017,May,17,0.0,1.0,10.0,0.0
+Utah,2017,May,17,0.0,0.0,0.0,0.0
+Vermont,2017,May,17,0.0,0.0,2.0,0.0
+Virginia,2017,May,17,0.0,0.0,3.0,0.0
+Washington,2017,May,17,0.0,0.0,2.0,0.0
+West Virginia,2017,May,17,0.0,1.0,0.0,0.0
+Wisconsin,2017,May,17,0.0,0.0,2.0,0.0
+Wyoming,2017,May,17,0.0,0.0,0.0,0.0
+American Samoa,2017,May,17,0.0,0.0,3.0,0.0
+Puerto Rico,2017,May,17,0.0,3.0,458.0,0.0
+U.S. Virgin Islands,2017,May,17,0.0,0.0,34.0,0.0
+Alabama,2017,May,24,0.0,0.0,3.0,0.0
+Alaska,2017,May,24,0.0,0.0,1.0,0.0
+Arizona,2017,May,24,0.0,0.0,1.0,0.0
+Arkansas,2017,May,24,0.0,0.0,0.0,0.0
+California,2017,May,24,0.0,1.0,13.0,0.0
+Colorado,2017,May,24,0.0,0.0,3.0,0.0
+Connecticut,2017,May,24,0.0,0.0,0.0,0.0
+Delaware,2017,May,24,0.0,0.0,0.0,0.0
+District of Columbia,2017,May,24,0.0,0.0,0.0,0.0
+Florida,2017,May,24,0.0,3.0,14.0,0.0
+Georgia,2017,May,24,0.0,0.0,1.0,0.0
+Hawaii,2017,May,24,0.0,0.0,0.0,0.0
+Idaho,2017,May,24,0.0,0.0,0.0,0.0
+Illinois,2017,May,24,0.0,0.0,4.0,0.0
+Indiana,2017,May,24,0.0,0.0,1.0,0.0
+Iowa,2017,May,24,0.0,0.0,1.0,0.0
+Kansas,2017,May,24,0.0,0.0,2.0,0.0
+Kentucky,2017,May,24,0.0,0.0,1.0,0.0
+Louisiana,2017,May,24,0.0,0.0,1.0,0.0
+Maine,2017,May,24,0.0,0.0,1.0,0.0
+Maryland,2017,May,24,0.0,0.0,3.0,0.0
+Massachusetts,2017,May,24,0.0,0.0,5.0,0.0
+Michigan,2017,May,24,0.0,0.0,6.0,0.0
+Minnesota,2017,May,24,0.0,0.0,0.0,0.0
+Mississippi,2017,May,24,0.0,0.0,2.0,0.0
+Missouri,2017,May,24,0.0,0.0,1.0,0.0
+Montana,2017,May,24,0.0,0.0,0.0,0.0
+Nebraska,2017,May,24,0.0,0.0,0.0,0.0
+Nevada,2017,May,24,0.0,0.0,0.0,0.0
+New Hampshire,2017,May,24,0.0,0.0,0.0,0.0
+New Jersey,2017,May,24,0.0,0.0,2.0,0.0
+New Mexico,2017,May,24,0.0,0.0,0.0,0.0
+New York,2017,May,24,0.0,1.0,24.0,0.0
+North Carolina,2017,May,24,0.0,0.0,3.0,0.0
+North Dakota,2017,May,24,0.0,0.0,0.0,0.0
+Ohio,2017,May,24,0.0,0.0,3.0,0.0
+Oklahoma,2017,May,24,0.0,0.0,0.0,0.0
+Oregon,2017,May,24,0.0,0.0,1.0,0.0
+Pennsylvania,2017,May,24,0.0,0.0,3.0,0.0
+Rhode Island,2017,May,24,0.0,0.0,2.0,0.0
+South Carolina,2017,May,24,0.0,0.0,0.0,0.0
+South Dakota,2017,May,24,0.0,0.0,0.0,0.0
+Tennessee,2017,May,24,0.0,0.0,0.0,0.0
+Texas,2017,May,24,0.0,1.0,10.0,0.0
+Utah,2017,May,24,0.0,0.0,0.0,0.0
+Vermont,2017,May,24,0.0,0.0,2.0,0.0
+Virginia,2017,May,24,0.0,0.0,3.0,0.0
+Washington,2017,May,24,0.0,0.0,2.0,0.0
+West Virginia,2017,May,24,0.0,2.0,0.0,0.0
+Wisconsin,2017,May,24,0.0,0.0,2.0,0.0
+Wyoming,2017,May,24,0.0,0.0,0.0,0.0
+American Samoa,2017,May,24,0.0,0.0,3.0,0.0
+Puerto Rico,2017,May,24,0.0,3.0,459.0,0.0
+U.S. Virgin Islands,2017,May,24,0.0,0.0,36.0,0.0
+Alabama,2017,May,31,0.0,0.0,3.0,0.0
+Alaska,2017,May,31,0.0,0.0,1.0,0.0
+Arizona,2017,May,31,0.0,0.0,1.0,0.0
+Arkansas,2017,May,31,0.0,0.0,0.0,0.0
+California,2017,May,31,0.0,1.0,13.0,0.0
+Colorado,2017,May,31,0.0,0.0,3.0,0.0
+Connecticut,2017,May,31,0.0,0.0,0.0,0.0
+Delaware,2017,May,31,0.0,0.0,0.0,0.0
+District of Columbia,2017,May,31,0.0,0.0,0.0,0.0
+Florida,2017,May,31,0.0,3.0,15.0,0.0
+Georgia,2017,May,31,0.0,0.0,1.0,0.0
+Hawaii,2017,May,31,0.0,0.0,0.0,0.0
+Idaho,2017,May,31,0.0,0.0,0.0,0.0
+Illinois,2017,May,31,0.0,0.0,4.0,0.0
+Indiana,2017,May,31,0.0,0.0,1.0,0.0
+Iowa,2017,May,31,0.0,0.0,1.0,0.0
+Kansas,2017,May,31,0.0,0.0,2.0,0.0
+Kentucky,2017,May,31,0.0,0.0,1.0,0.0
+Louisiana,2017,May,31,0.0,0.0,1.0,0.0
+Maine,2017,May,31,0.0,0.0,1.0,0.0
+Maryland,2017,May,31,0.0,0.0,3.0,0.0
+Massachusetts,2017,May,31,0.0,0.0,5.0,0.0
+Michigan,2017,May,31,0.0,0.0,6.0,0.0
+Minnesota,2017,May,31,0.0,0.0,0.0,0.0
+Mississippi,2017,May,31,0.0,0.0,2.0,0.0
+Missouri,2017,May,31,0.0,0.0,1.0,0.0
+Montana,2017,May,31,0.0,0.0,0.0,0.0
+Nebraska,2017,May,31,0.0,0.0,1.0,0.0
+Nevada,2017,May,31,0.0,0.0,0.0,0.0
+New Hampshire,2017,May,31,0.0,0.0,0.0,0.0
+New Jersey,2017,May,31,0.0,0.0,2.0,0.0
+New Mexico,2017,May,31,0.0,0.0,0.0,0.0
+New York,2017,May,31,0.0,1.0,24.0,0.0
+North Carolina,2017,May,31,0.0,0.0,3.0,0.0
+North Dakota,2017,May,31,0.0,0.0,0.0,0.0
+Ohio,2017,May,31,0.0,0.0,3.0,0.0
+Oklahoma,2017,May,31,0.0,0.0,0.0,0.0
+Oregon,2017,May,31,0.0,0.0,1.0,0.0
+Pennsylvania,2017,May,31,0.0,0.0,3.0,0.0
+Rhode Island,2017,May,31,0.0,0.0,2.0,0.0
+South Carolina,2017,May,31,0.0,0.0,0.0,0.0
+South Dakota,2017,May,31,0.0,0.0,0.0,0.0
+Tennessee,2017,May,31,0.0,0.0,0.0,0.0
+Texas,2017,May,31,0.0,1.0,10.0,0.0
+Utah,2017,May,31,0.0,0.0,0.0,0.0
+Vermont,2017,May,31,0.0,0.0,2.0,0.0
+Virginia,2017,May,31,0.0,0.0,3.0,0.0
+Washington,2017,May,31,0.0,0.0,2.0,0.0
+West Virginia,2017,May,31,0.0,2.0,0.0,0.0
+Wisconsin,2017,May,31,0.0,0.0,2.0,0.0
+Wyoming,2017,May,31,0.0,0.0,0.0,0.0
+American Samoa,2017,May,31,0.0,0.0,3.0,0.0
+Puerto Rico,2017,May,31,0.0,3.0,460.0,0.0
+U.S. Virgin Islands,2017,May,31,0.0,0.0,36.0,0.0
+Alabama,2017,Jun,7,0.0,0.0,3.0,0.0
+Alaska,2017,Jun,7,0.0,0.0,1.0,0.0
+Arizona,2017,Jun,7,0.0,0.0,1.0,0.0
+Arkansas,2017,Jun,7,0.0,0.0,0.0,0.0
+California,2017,Jun,7,0.0,1.0,14.0,0.0
+Colorado,2017,Jun,7,0.0,0.0,3.0,0.0
+Connecticut,2017,Jun,7,0.0,0.0,0.0,0.0
+Delaware,2017,Jun,7,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jun,7,0.0,0.0,0.0,0.0
+Florida,2017,Jun,7,0.0,3.0,15.0,0.0
+Georgia,2017,Jun,7,0.0,0.0,1.0,0.0
+Hawaii,2017,Jun,7,0.0,0.0,1.0,0.0
+Idaho,2017,Jun,7,0.0,0.0,0.0,0.0
+Illinois,2017,Jun,7,0.0,0.0,4.0,0.0
+Indiana,2017,Jun,7,0.0,0.0,1.0,0.0
+Iowa,2017,Jun,7,0.0,0.0,1.0,0.0
+Kansas,2017,Jun,7,0.0,0.0,2.0,0.0
+Kentucky,2017,Jun,7,0.0,0.0,1.0,0.0
+Louisiana,2017,Jun,7,0.0,0.0,1.0,0.0
+Maine,2017,Jun,7,0.0,0.0,1.0,0.0
+Maryland,2017,Jun,7,0.0,0.0,3.0,0.0
+Massachusetts,2017,Jun,7,0.0,0.0,5.0,0.0
+Michigan,2017,Jun,7,0.0,0.0,6.0,0.0
+Minnesota,2017,Jun,7,0.0,0.0,0.0,0.0
+Mississippi,2017,Jun,7,0.0,0.0,2.0,0.0
+Missouri,2017,Jun,7,0.0,0.0,1.0,0.0
+Montana,2017,Jun,7,0.0,0.0,0.0,0.0
+Nebraska,2017,Jun,7,0.0,0.0,1.0,0.0
+Nevada,2017,Jun,7,0.0,0.0,0.0,0.0
+New Hampshire,2017,Jun,7,0.0,0.0,0.0,0.0
+New Jersey,2017,Jun,7,0.0,0.0,2.0,0.0
+New Mexico,2017,Jun,7,0.0,0.0,0.0,0.0
+New York,2017,Jun,7,0.0,1.0,24.0,0.0
+North Carolina,2017,Jun,7,0.0,0.0,3.0,0.0
+North Dakota,2017,Jun,7,0.0,0.0,0.0,0.0
+Ohio,2017,Jun,7,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jun,7,0.0,0.0,0.0,0.0
+Oregon,2017,Jun,7,0.0,0.0,1.0,0.0
+Pennsylvania,2017,Jun,7,0.0,0.0,3.0,0.0
+Rhode Island,2017,Jun,7,0.0,0.0,2.0,0.0
+South Carolina,2017,Jun,7,0.0,0.0,0.0,0.0
+South Dakota,2017,Jun,7,0.0,0.0,0.0,0.0
+Tennessee,2017,Jun,7,0.0,0.0,0.0,0.0
+Texas,2017,Jun,7,0.0,1.0,10.0,0.0
+Utah,2017,Jun,7,0.0,0.0,0.0,0.0
+Vermont,2017,Jun,7,0.0,0.0,2.0,0.0
+Virginia,2017,Jun,7,0.0,0.0,3.0,0.0
+Washington,2017,Jun,7,0.0,0.0,2.0,0.0
+West Virginia,2017,Jun,7,0.0,1.0,0.0,0.0
+Wisconsin,2017,Jun,7,0.0,0.0,2.0,0.0
+Wyoming,2017,Jun,7,0.0,0.0,0.0,0.0
+American Samoa,2017,Jun,7,0.0,0.0,3.0,0.0
+Puerto Rico,2017,Jun,7,0.0,3.0,462.0,0.0
+U.S. Virgin Islands,2017,Jun,7,0.0,0.0,37.0,0.0
+Alabama,2017,Jun,14,0.0,0.0,3.0,0.0
+Alaska,2017,Jun,14,0.0,0.0,1.0,0.0
+Arizona,2017,Jun,14,0.0,0.0,1.0,0.0
+Arkansas,2017,Jun,14,0.0,0.0,0.0,0.0
+California,2017,Jun,14,0.0,1.0,14.0,0.0
+Colorado,2017,Jun,14,0.0,0.0,3.0,0.0
+Connecticut,2017,Jun,14,0.0,0.0,0.0,0.0
+Delaware,2017,Jun,14,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jun,14,0.0,0.0,0.0,0.0
+Florida,2017,Jun,14,0.0,3.0,15.0,0.0
+Georgia,2017,Jun,14,0.0,0.0,1.0,0.0
+Hawaii,2017,Jun,14,0.0,0.0,1.0,0.0
+Idaho,2017,Jun,14,0.0,0.0,0.0,0.0
+Illinois,2017,Jun,14,0.0,0.0,4.0,0.0
+Indiana,2017,Jun,14,0.0,0.0,1.0,0.0
+Iowa,2017,Jun,14,0.0,0.0,1.0,0.0
+Kansas,2017,Jun,14,0.0,0.0,2.0,0.0
+Kentucky,2017,Jun,14,0.0,0.0,1.0,0.0
+Louisiana,2017,Jun,14,0.0,1.0,1.0,0.0
+Maine,2017,Jun,14,0.0,0.0,1.0,0.0
+Maryland,2017,Jun,14,0.0,0.0,3.0,0.0
+Massachusetts,2017,Jun,14,0.0,0.0,6.0,0.0
+Michigan,2017,Jun,14,0.0,0.0,6.0,0.0
+Minnesota,2017,Jun,14,0.0,0.0,0.0,0.0
+Mississippi,2017,Jun,14,0.0,0.0,2.0,0.0
+Missouri,2017,Jun,14,0.0,0.0,1.0,0.0
+Montana,2017,Jun,14,0.0,0.0,0.0,0.0
+Nebraska,2017,Jun,14,0.0,0.0,1.0,0.0
+Nevada,2017,Jun,14,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jun,14,0.0,0.0,0.0,0.0
+New Jersey,2017,Jun,14,0.0,0.0,2.0,0.0
+New Mexico,2017,Jun,14,0.0,0.0,0.0,0.0
+New York,2017,Jun,14,0.0,1.0,26.0,0.0
+North Carolina,2017,Jun,14,0.0,0.0,3.0,0.0
+North Dakota,2017,Jun,14,0.0,0.0,0.0,0.0
+Ohio,2017,Jun,14,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jun,14,0.0,0.0,0.0,0.0
+Oregon,2017,Jun,14,0.0,0.0,1.0,0.0
+Pennsylvania,2017,Jun,14,0.0,1.0,3.0,0.0
+Rhode Island,2017,Jun,14,0.0,0.0,3.0,0.0
+South Carolina,2017,Jun,14,0.0,0.0,2.0,0.0
+South Dakota,2017,Jun,14,0.0,0.0,0.0,0.0
+Tennessee,2017,Jun,14,0.0,0.0,0.0,0.0
+Texas,2017,Jun,14,0.0,1.0,11.0,0.0
+Utah,2017,Jun,14,0.0,0.0,0.0,0.0
+Vermont,2017,Jun,14,0.0,0.0,3.0,0.0
+Virginia,2017,Jun,14,0.0,0.0,3.0,0.0
+Washington,2017,Jun,14,0.0,0.0,2.0,0.0
+West Virginia,2017,Jun,14,0.0,1.0,0.0,0.0
+Wisconsin,2017,Jun,14,0.0,0.0,2.0,0.0
+Wyoming,2017,Jun,14,0.0,0.0,2.0,0.0
+American Samoa,2017,Jun,14,0.0,0.0,3.0,0.0
+Puerto Rico,2017,Jun,14,0.0,3.0,465.0,0.0
+U.S. Virgin Islands,2017,Jun,14,0.0,0.0,37.0,0.0
+Alabama,2017,Jun,21,0.0,0.0,3.0,0.0
+Alaska,2017,Jun,21,0.0,0.0,1.0,0.0
+Arizona,2017,Jun,21,0.0,0.0,1.0,0.0
+Arkansas,2017,Jun,21,0.0,0.0,0.0,0.0
+California,2017,Jun,21,0.0,1.0,15.0,0.0
+Colorado,2017,Jun,21,0.0,0.0,3.0,0.0
+Connecticut,2017,Jun,21,0.0,0.0,0.0,0.0
+Delaware,2017,Jun,21,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jun,21,0.0,0.0,0.0,0.0
+Florida,2017,Jun,21,0.0,3.0,15.0,0.0
+Georgia,2017,Jun,21,0.0,0.0,1.0,0.0
+Hawaii,2017,Jun,21,0.0,0.0,1.0,0.0
+Idaho,2017,Jun,21,0.0,0.0,0.0,0.0
+Illinois,2017,Jun,21,0.0,0.0,4.0,0.0
+Indiana,2017,Jun,21,0.0,0.0,1.0,0.0
+Iowa,2017,Jun,21,0.0,0.0,1.0,0.0
+Kansas,2017,Jun,21,0.0,0.0,2.0,0.0
+Kentucky,2017,Jun,21,0.0,0.0,1.0,0.0
+Louisiana,2017,Jun,21,0.0,1.0,1.0,0.0
+Maine,2017,Jun,21,0.0,0.0,1.0,0.0
+Maryland,2017,Jun,21,0.0,0.0,4.0,0.0
+Massachusetts,2017,Jun,21,0.0,0.0,6.0,0.0
+Michigan,2017,Jun,21,0.0,0.0,6.0,0.0
+Minnesota,2017,Jun,21,0.0,0.0,0.0,0.0
+Mississippi,2017,Jun,21,0.0,0.0,2.0,0.0
+Missouri,2017,Jun,21,0.0,0.0,1.0,0.0
+Montana,2017,Jun,21,0.0,0.0,0.0,0.0
+Nebraska,2017,Jun,21,0.0,0.0,1.0,0.0
+Nevada,2017,Jun,21,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jun,21,0.0,0.0,0.0,0.0
+New Jersey,2017,Jun,21,0.0,0.0,2.0,0.0
+New Mexico,2017,Jun,21,0.0,0.0,0.0,0.0
+New York,2017,Jun,21,0.0,1.0,27.0,0.0
+North Carolina,2017,Jun,21,0.0,0.0,3.0,0.0
+North Dakota,2017,Jun,21,0.0,0.0,0.0,0.0
+Ohio,2017,Jun,21,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jun,21,0.0,0.0,0.0,0.0
+Oregon,2017,Jun,21,0.0,0.0,1.0,0.0
+Pennsylvania,2017,Jun,21,0.0,1.0,4.0,0.0
+Rhode Island,2017,Jun,21,0.0,0.0,3.0,0.0
+South Carolina,2017,Jun,21,0.0,0.0,2.0,0.0
+South Dakota,2017,Jun,21,0.0,0.0,0.0,0.0
+Tennessee,2017,Jun,21,0.0,0.0,0.0,0.0
+Texas,2017,Jun,21,0.0,1.0,11.0,0.0
+Utah,2017,Jun,21,0.0,0.0,0.0,0.0
+Vermont,2017,Jun,21,0.0,0.0,3.0,0.0
+Virginia,2017,Jun,21,0.0,0.0,3.0,0.0
+Washington,2017,Jun,21,0.0,0.0,2.0,0.0
+West Virginia,2017,Jun,21,0.0,1.0,0.0,0.0
+Wisconsin,2017,Jun,21,0.0,0.0,2.0,0.0
+Wyoming,2017,Jun,21,0.0,0.0,2.0,0.0
+American Samoa,2017,Jun,21,0.0,0.0,3.0,0.0
+Puerto Rico,2017,Jun,21,0.0,3.0,470.0,0.0
+U.S. Virgin Islands,2017,Jun,21,0.0,0.0,37.0,0.0
+Alabama,2017,Jun,28,0.0,0.0,3.0,0.0
+Alaska,2017,Jun,28,0.0,0.0,1.0,0.0
+Arizona,2017,Jun,28,0.0,0.0,1.0,0.0
+Arkansas,2017,Jun,28,0.0,0.0,0.0,0.0
+California,2017,Jun,28,0.0,1.0,15.0,0.0
+Colorado,2017,Jun,28,0.0,0.0,3.0,0.0
+Connecticut,2017,Jun,28,0.0,0.0,0.0,0.0
+Delaware,2017,Jun,28,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jun,28,0.0,0.0,0.0,0.0
+Florida,2017,Jun,28,0.0,3.0,16.0,0.0
+Georgia,2017,Jun,28,0.0,0.0,1.0,0.0
+Hawaii,2017,Jun,28,0.0,0.0,1.0,0.0
+Idaho,2017,Jun,28,0.0,0.0,0.0,0.0
+Illinois,2017,Jun,28,0.0,0.0,3.0,0.0
+Indiana,2017,Jun,28,0.0,0.0,1.0,0.0
+Iowa,2017,Jun,28,0.0,0.0,1.0,0.0
+Kansas,2017,Jun,28,0.0,0.0,2.0,0.0
+Kentucky,2017,Jun,28,0.0,0.0,1.0,0.0
+Louisiana,2017,Jun,28,0.0,0.0,1.0,0.0
+Maine,2017,Jun,28,0.0,0.0,1.0,0.0
+Maryland,2017,Jun,28,0.0,0.0,5.0,0.0
+Massachusetts,2017,Jun,28,0.0,0.0,6.0,0.0
+Michigan,2017,Jun,28,0.0,0.0,6.0,0.0
+Minnesota,2017,Jun,28,0.0,0.0,0.0,0.0
+Mississippi,2017,Jun,28,0.0,0.0,2.0,0.0
+Missouri,2017,Jun,28,0.0,0.0,1.0,0.0
+Montana,2017,Jun,28,0.0,0.0,0.0,0.0
+Nebraska,2017,Jun,28,0.0,0.0,1.0,0.0
+Nevada,2017,Jun,28,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jun,28,0.0,0.0,0.0,0.0
+New Jersey,2017,Jun,28,0.0,0.0,2.0,0.0
+New Mexico,2017,Jun,28,0.0,0.0,0.0,0.0
+New York,2017,Jun,28,0.0,1.0,27.0,0.0
+North Carolina,2017,Jun,28,0.0,0.0,3.0,0.0
+North Dakota,2017,Jun,28,0.0,0.0,0.0,0.0
+Ohio,2017,Jun,28,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jun,28,0.0,0.0,0.0,0.0
+Oregon,2017,Jun,28,0.0,0.0,2.0,0.0
+Pennsylvania,2017,Jun,28,0.0,1.0,4.0,0.0
+Rhode Island,2017,Jun,28,0.0,0.0,3.0,0.0
+South Carolina,2017,Jun,28,0.0,0.0,2.0,0.0
+South Dakota,2017,Jun,28,0.0,0.0,0.0,0.0
+Tennessee,2017,Jun,28,0.0,0.0,0.0,0.0
+Texas,2017,Jun,28,0.0,1.0,12.0,0.0
+Utah,2017,Jun,28,0.0,0.0,0.0,0.0
+Vermont,2017,Jun,28,0.0,0.0,3.0,0.0
+Virginia,2017,Jun,28,0.0,0.0,3.0,0.0
+Washington,2017,Jun,28,0.0,0.0,2.0,0.0
+West Virginia,2017,Jun,28,0.0,1.0,0.0,0.0
+Wisconsin,2017,Jun,28,0.0,0.0,2.0,0.0
+Wyoming,2017,Jun,28,0.0,0.0,2.0,0.0
+American Samoa,2017,Jun,28,0.0,0.0,3.0,0.0
+Puerto Rico,2017,Jun,28,0.0,3.0,473.0,0.0
+U.S. Virgin Islands,2017,Jun,28,0.0,0.0,37.0,0.0
+Alabama,2017,Jul,5,0.0,0.0,3.0,0.0
+Alaska,2017,Jul,5,0.0,0.0,1.0,0.0
+Arizona,2017,Jul,5,0.0,0.0,1.0,0.0
+Arkansas,2017,Jul,5,0.0,0.0,0.0,0.0
+California,2017,Jul,5,0.0,1.0,15.0,0.0
+Colorado,2017,Jul,5,0.0,0.0,3.0,0.0
+Connecticut,2017,Jul,5,0.0,0.0,0.0,0.0
+Delaware,2017,Jul,5,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jul,5,0.0,0.0,0.0,0.0
+Florida,2017,Jul,5,0.0,3.0,16.0,0.0
+Georgia,2017,Jul,5,0.0,0.0,1.0,0.0
+Hawaii,2017,Jul,5,0.0,0.0,1.0,0.0
+Idaho,2017,Jul,5,0.0,0.0,0.0,0.0
+Illinois,2017,Jul,5,0.0,0.0,3.0,0.0
+Indiana,2017,Jul,5,0.0,0.0,1.0,0.0
+Iowa,2017,Jul,5,0.0,0.0,1.0,0.0
+Kansas,2017,Jul,5,0.0,0.0,2.0,0.0
+Kentucky,2017,Jul,5,0.0,0.0,1.0,0.0
+Louisiana,2017,Jul,5,0.0,0.0,1.0,0.0
+Maine,2017,Jul,5,0.0,0.0,1.0,0.0
+Maryland,2017,Jul,5,0.0,0.0,5.0,0.0
+Massachusetts,2017,Jul,5,0.0,0.0,7.0,0.0
+Michigan,2017,Jul,5,0.0,0.0,6.0,0.0
+Minnesota,2017,Jul,5,0.0,0.0,0.0,0.0
+Mississippi,2017,Jul,5,0.0,0.0,2.0,0.0
+Missouri,2017,Jul,5,0.0,0.0,1.0,0.0
+Montana,2017,Jul,5,0.0,0.0,0.0,0.0
+Nebraska,2017,Jul,5,0.0,0.0,1.0,0.0
+Nevada,2017,Jul,5,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jul,5,0.0,0.0,0.0,0.0
+New Jersey,2017,Jul,5,0.0,0.0,2.0,0.0
+New Mexico,2017,Jul,5,0.0,0.0,0.0,0.0
+New York,2017,Jul,5,0.0,1.0,29.0,0.0
+North Carolina,2017,Jul,5,0.0,0.0,3.0,0.0
+North Dakota,2017,Jul,5,0.0,0.0,0.0,0.0
+Ohio,2017,Jul,5,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jul,5,0.0,0.0,1.0,0.0
+Oregon,2017,Jul,5,0.0,0.0,2.0,0.0
+Pennsylvania,2017,Jul,5,0.0,1.0,4.0,0.0
+Rhode Island,2017,Jul,5,0.0,0.0,3.0,0.0
+South Carolina,2017,Jul,5,0.0,0.0,2.0,0.0
+South Dakota,2017,Jul,5,0.0,0.0,0.0,0.0
+Tennessee,2017,Jul,5,0.0,0.0,0.0,0.0
+Texas,2017,Jul,5,0.0,1.0,13.0,0.0
+Utah,2017,Jul,5,0.0,0.0,0.0,0.0
+Vermont,2017,Jul,5,0.0,0.0,3.0,0.0
+Virginia,2017,Jul,5,0.0,0.0,3.0,0.0
+Washington,2017,Jul,5,0.0,0.0,2.0,0.0
+West Virginia,2017,Jul,5,0.0,1.0,0.0,0.0
+Wisconsin,2017,Jul,5,0.0,0.0,2.0,0.0
+Wyoming,2017,Jul,5,0.0,0.0,2.0,0.0
+American Samoa,2017,Jul,5,0.0,0.0,3.0,0.0
+Puerto Rico,2017,Jul,5,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Jul,5,0.0,0.0,38.0,0.0
+Alabama,2017,Jul,12,0.0,0.0,3.0,0.0
+Alaska,2017,Jul,12,0.0,0.0,1.0,0.0
+Arizona,2017,Jul,12,0.0,0.0,1.0,0.0
+Arkansas,2017,Jul,12,0.0,0.0,0.0,0.0
+California,2017,Jul,12,0.0,1.0,16.0,0.0
+Colorado,2017,Jul,12,0.0,0.0,4.0,0.0
+Connecticut,2017,Jul,12,0.0,0.0,0.0,0.0
+Delaware,2017,Jul,12,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jul,12,0.0,0.0,0.0,0.0
+Florida,2017,Jul,12,0.0,3.0,16.0,0.0
+Georgia,2017,Jul,12,0.0,0.0,1.0,0.0
+Hawaii,2017,Jul,12,0.0,0.0,1.0,0.0
+Idaho,2017,Jul,12,0.0,0.0,0.0,0.0
+Illinois,2017,Jul,12,0.0,0.0,3.0,0.0
+Indiana,2017,Jul,12,0.0,0.0,1.0,0.0
+Iowa,2017,Jul,12,0.0,0.0,1.0,0.0
+Kansas,2017,Jul,12,0.0,0.0,2.0,0.0
+Kentucky,2017,Jul,12,0.0,0.0,1.0,0.0
+Louisiana,2017,Jul,12,0.0,0.0,1.0,0.0
+Maine,2017,Jul,12,0.0,0.0,1.0,0.0
+Maryland,2017,Jul,12,0.0,0.0,5.0,0.0
+Massachusetts,2017,Jul,12,0.0,0.0,7.0,0.0
+Michigan,2017,Jul,12,0.0,0.0,6.0,0.0
+Minnesota,2017,Jul,12,0.0,0.0,0.0,0.0
+Mississippi,2017,Jul,12,0.0,0.0,2.0,0.0
+Missouri,2017,Jul,12,0.0,0.0,1.0,0.0
+Montana,2017,Jul,12,0.0,0.0,0.0,0.0
+Nebraska,2017,Jul,12,0.0,0.0,1.0,0.0
+Nevada,2017,Jul,12,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jul,12,0.0,0.0,0.0,0.0
+New Jersey,2017,Jul,12,0.0,0.0,3.0,0.0
+New Mexico,2017,Jul,12,0.0,0.0,0.0,0.0
+New York,2017,Jul,12,0.0,1.0,35.0,0.0
+North Carolina,2017,Jul,12,0.0,0.0,5.0,0.0
+North Dakota,2017,Jul,12,0.0,0.0,0.0,0.0
+Ohio,2017,Jul,12,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jul,12,0.0,0.0,1.0,0.0
+Oregon,2017,Jul,12,0.0,0.0,2.0,0.0
+Pennsylvania,2017,Jul,12,0.0,1.0,4.0,0.0
+Rhode Island,2017,Jul,12,0.0,0.0,3.0,0.0
+South Carolina,2017,Jul,12,0.0,0.0,2.0,0.0
+South Dakota,2017,Jul,12,0.0,0.0,0.0,0.0
+Tennessee,2017,Jul,12,0.0,0.0,0.0,0.0
+Texas,2017,Jul,12,0.0,1.0,15.0,0.0
+Utah,2017,Jul,12,0.0,0.0,1.0,0.0
+Vermont,2017,Jul,12,0.0,0.0,3.0,0.0
+Virginia,2017,Jul,12,0.0,0.0,3.0,0.0
+Washington,2017,Jul,12,0.0,0.0,2.0,0.0
+West Virginia,2017,Jul,12,0.0,1.0,1.0,0.0
+Wisconsin,2017,Jul,12,0.0,0.0,2.0,0.0
+Wyoming,2017,Jul,12,0.0,0.0,2.0,0.0
+American Samoa,2017,Jul,12,0.0,0.0,10.0,0.0
+Puerto Rico,2017,Jul,12,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Jul,12,0.0,0.0,38.0,0.0
+Alabama,2017,Jul,19,0.0,0.0,3.0,0.0
+Alaska,2017,Jul,19,0.0,0.0,1.0,0.0
+Arizona,2017,Jul,19,0.0,0.0,1.0,0.0
+Arkansas,2017,Jul,19,0.0,0.0,0.0,0.0
+California,2017,Jul,19,0.0,1.0,17.0,0.0
+Colorado,2017,Jul,19,0.0,0.0,4.0,0.0
+Connecticut,2017,Jul,19,0.0,0.0,0.0,0.0
+Delaware,2017,Jul,19,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jul,19,0.0,0.0,0.0,0.0
+Florida,2017,Jul,19,0.0,3.0,16.0,0.0
+Georgia,2017,Jul,19,0.0,0.0,1.0,0.0
+Hawaii,2017,Jul,19,0.0,0.0,1.0,0.0
+Idaho,2017,Jul,19,0.0,0.0,0.0,0.0
+Illinois,2017,Jul,19,0.0,0.0,3.0,0.0
+Indiana,2017,Jul,19,0.0,0.0,1.0,0.0
+Iowa,2017,Jul,19,0.0,0.0,1.0,0.0
+Kansas,2017,Jul,19,0.0,0.0,2.0,0.0
+Kentucky,2017,Jul,19,0.0,0.0,1.0,0.0
+Louisiana,2017,Jul,19,0.0,0.0,1.0,0.0
+Maine,2017,Jul,19,0.0,0.0,1.0,0.0
+Maryland,2017,Jul,19,0.0,0.0,6.0,0.0
+Massachusetts,2017,Jul,19,0.0,0.0,7.0,0.0
+Michigan,2017,Jul,19,0.0,0.0,6.0,0.0
+Minnesota,2017,Jul,19,0.0,0.0,4.0,0.0
+Mississippi,2017,Jul,19,0.0,0.0,2.0,0.0
+Missouri,2017,Jul,19,0.0,0.0,1.0,0.0
+Montana,2017,Jul,19,0.0,0.0,0.0,0.0
+Nebraska,2017,Jul,19,0.0,0.0,1.0,0.0
+Nevada,2017,Jul,19,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jul,19,0.0,0.0,0.0,0.0
+New Jersey,2017,Jul,19,0.0,0.0,4.0,0.0
+New Mexico,2017,Jul,19,0.0,0.0,0.0,0.0
+New York,2017,Jul,19,0.0,1.0,36.0,0.0
+North Carolina,2017,Jul,19,0.0,0.0,5.0,0.0
+North Dakota,2017,Jul,19,0.0,0.0,0.0,0.0
+Ohio,2017,Jul,19,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jul,19,0.0,0.0,1.0,0.0
+Oregon,2017,Jul,19,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Jul,19,0.0,1.0,4.0,0.0
+Rhode Island,2017,Jul,19,0.0,0.0,3.0,0.0
+South Carolina,2017,Jul,19,0.0,0.0,2.0,0.0
+South Dakota,2017,Jul,19,0.0,0.0,0.0,0.0
+Tennessee,2017,Jul,19,0.0,0.0,0.0,0.0
+Texas,2017,Jul,19,0.0,1.0,16.0,0.0
+Utah,2017,Jul,19,0.0,0.0,2.0,0.0
+Vermont,2017,Jul,19,0.0,0.0,3.0,0.0
+Virginia,2017,Jul,19,0.0,0.0,3.0,0.0
+Washington,2017,Jul,19,0.0,0.0,3.0,0.0
+West Virginia,2017,Jul,19,0.0,1.0,1.0,0.0
+Wisconsin,2017,Jul,19,0.0,0.0,2.0,0.0
+Wyoming,2017,Jul,19,0.0,0.0,2.0,0.0
+American Samoa,2017,Jul,19,0.0,0.0,19.0,0.0
+Puerto Rico,2017,Jul,19,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Jul,19,0.0,0.0,39.0,0.0
+Alabama,2017,Jul,26,0.0,0.0,3.0,0.0
+Alaska,2017,Jul,26,0.0,0.0,1.0,0.0
+Arizona,2017,Jul,26,0.0,0.0,1.0,0.0
+Arkansas,2017,Jul,26,0.0,0.0,0.0,0.0
+California,2017,Jul,26,0.0,1.0,17.0,0.0
+Colorado,2017,Jul,26,0.0,0.0,4.0,0.0
+Connecticut,2017,Jul,26,0.0,0.0,0.0,0.0
+Delaware,2017,Jul,26,0.0,0.0,0.0,0.0
+District of Columbia,2017,Jul,26,0.0,0.0,0.0,0.0
+Florida,2017,Jul,26,0.0,3.0,19.0,0.0
+Georgia,2017,Jul,26,0.0,0.0,1.0,0.0
+Hawaii,2017,Jul,26,0.0,0.0,1.0,0.0
+Idaho,2017,Jul,26,0.0,0.0,0.0,0.0
+Illinois,2017,Jul,26,0.0,0.0,3.0,0.0
+Indiana,2017,Jul,26,0.0,0.0,1.0,0.0
+Iowa,2017,Jul,26,0.0,0.0,1.0,0.0
+Kansas,2017,Jul,26,0.0,0.0,2.0,0.0
+Kentucky,2017,Jul,26,0.0,0.0,1.0,0.0
+Louisiana,2017,Jul,26,0.0,0.0,1.0,0.0
+Maine,2017,Jul,26,0.0,0.0,1.0,0.0
+Maryland,2017,Jul,26,0.0,0.0,7.0,0.0
+Massachusetts,2017,Jul,26,0.0,0.0,7.0,0.0
+Michigan,2017,Jul,26,0.0,0.0,6.0,0.0
+Minnesota,2017,Jul,26,0.0,0.0,4.0,0.0
+Mississippi,2017,Jul,26,0.0,0.0,2.0,0.0
+Missouri,2017,Jul,26,0.0,0.0,1.0,0.0
+Montana,2017,Jul,26,0.0,0.0,0.0,0.0
+Nebraska,2017,Jul,26,0.0,0.0,1.0,0.0
+Nevada,2017,Jul,26,0.0,0.0,1.0,0.0
+New Hampshire,2017,Jul,26,0.0,0.0,0.0,0.0
+New Jersey,2017,Jul,26,0.0,0.0,4.0,0.0
+New Mexico,2017,Jul,26,0.0,0.0,0.0,0.0
+New York,2017,Jul,26,0.0,1.0,38.0,0.0
+North Carolina,2017,Jul,26,0.0,0.0,5.0,0.0
+North Dakota,2017,Jul,26,0.0,0.0,0.0,0.0
+Ohio,2017,Jul,26,0.0,0.0,3.0,0.0
+Oklahoma,2017,Jul,26,0.0,0.0,1.0,0.0
+Oregon,2017,Jul,26,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Jul,26,0.0,1.0,4.0,0.0
+Rhode Island,2017,Jul,26,0.0,0.0,3.0,0.0
+South Carolina,2017,Jul,26,0.0,0.0,2.0,0.0
+South Dakota,2017,Jul,26,0.0,0.0,0.0,0.0
+Tennessee,2017,Jul,26,0.0,0.0,0.0,0.0
+Texas,2017,Jul,26,0.0,1.0,16.0,0.0
+Utah,2017,Jul,26,0.0,0.0,2.0,0.0
+Vermont,2017,Jul,26,0.0,0.0,3.0,0.0
+Virginia,2017,Jul,26,0.0,0.0,3.0,0.0
+Washington,2017,Jul,26,0.0,0.0,3.0,0.0
+West Virginia,2017,Jul,26,0.0,1.0,1.0,0.0
+Wisconsin,2017,Jul,26,0.0,0.0,2.0,0.0
+Wyoming,2017,Jul,26,0.0,0.0,2.0,0.0
+American Samoa,2017,Jul,26,0.0,0.0,19.0,0.0
+Puerto Rico,2017,Jul,26,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Jul,26,0.0,0.0,39.0,0.0
+Alabama,2017,Aug,2,0.0,0.0,3.0,0.0
+Alaska,2017,Aug,2,0.0,0.0,1.0,0.0
+Arizona,2017,Aug,2,0.0,0.0,1.0,0.0
+Arkansas,2017,Aug,2,0.0,0.0,0.0,0.0
+California,2017,Aug,2,0.0,2.0,20.0,0.0
+Colorado,2017,Aug,2,0.0,0.0,4.0,0.0
+Connecticut,2017,Aug,2,0.0,0.0,0.0,0.0
+Delaware,2017,Aug,2,0.0,0.0,0.0,0.0
+District of Columbia,2017,Aug,2,0.0,0.0,0.0,0.0
+Florida,2017,Aug,2,0.0,3.0,19.0,0.0
+Georgia,2017,Aug,2,0.0,0.0,1.0,0.0
+Hawaii,2017,Aug,2,0.0,0.0,1.0,0.0
+Idaho,2017,Aug,2,0.0,0.0,0.0,0.0
+Illinois,2017,Aug,2,0.0,0.0,3.0,0.0
+Indiana,2017,Aug,2,0.0,0.0,1.0,0.0
+Iowa,2017,Aug,2,0.0,0.0,1.0,0.0
+Kansas,2017,Aug,2,0.0,0.0,2.0,0.0
+Kentucky,2017,Aug,2,0.0,0.0,1.0,0.0
+Louisiana,2017,Aug,2,0.0,0.0,1.0,0.0
+Maine,2017,Aug,2,0.0,0.0,1.0,0.0
+Maryland,2017,Aug,2,0.0,0.0,7.0,0.0
+Massachusetts,2017,Aug,2,0.0,0.0,7.0,0.0
+Michigan,2017,Aug,2,0.0,0.0,6.0,0.0
+Minnesota,2017,Aug,2,0.0,0.0,4.0,0.0
+Mississippi,2017,Aug,2,0.0,0.0,2.0,0.0
+Missouri,2017,Aug,2,0.0,0.0,1.0,0.0
+Montana,2017,Aug,2,0.0,0.0,0.0,0.0
+Nebraska,2017,Aug,2,0.0,0.0,1.0,0.0
+Nevada,2017,Aug,2,0.0,0.0,1.0,0.0
+New Hampshire,2017,Aug,2,0.0,0.0,0.0,0.0
+New Jersey,2017,Aug,2,0.0,0.0,4.0,0.0
+New Mexico,2017,Aug,2,0.0,0.0,0.0,0.0
+New York,2017,Aug,2,0.0,1.0,38.0,0.0
+North Carolina,2017,Aug,2,0.0,0.0,5.0,0.0
+North Dakota,2017,Aug,2,0.0,0.0,0.0,0.0
+Ohio,2017,Aug,2,0.0,0.0,3.0,0.0
+Oklahoma,2017,Aug,2,0.0,0.0,1.0,0.0
+Oregon,2017,Aug,2,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Aug,2,0.0,1.0,4.0,0.0
+Rhode Island,2017,Aug,2,0.0,0.0,3.0,0.0
+South Carolina,2017,Aug,2,0.0,0.0,2.0,0.0
+South Dakota,2017,Aug,2,0.0,0.0,0.0,0.0
+Tennessee,2017,Aug,2,0.0,0.0,0.0,0.0
+Texas,2017,Aug,2,0.0,1.0,16.0,0.0
+Utah,2017,Aug,2,0.0,0.0,3.0,0.0
+Vermont,2017,Aug,2,0.0,0.0,3.0,0.0
+Virginia,2017,Aug,2,0.0,0.0,3.0,0.0
+Washington,2017,Aug,2,0.0,0.0,3.0,0.0
+West Virginia,2017,Aug,2,0.0,1.0,1.0,0.0
+Wisconsin,2017,Aug,2,0.0,0.0,2.0,0.0
+Wyoming,2017,Aug,2,0.0,0.0,2.0,0.0
+American Samoa,2017,Aug,2,0.0,0.0,40.0,0.0
+Puerto Rico,2017,Aug,2,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Aug,2,0.0,0.0,39.0,0.0
+Alabama,2017,Aug,9,0.0,0.0,3.0,0.0
+Alaska,2017,Aug,9,0.0,0.0,1.0,0.0
+Arizona,2017,Aug,9,0.0,0.0,1.0,0.0
+Arkansas,2017,Aug,9,0.0,0.0,0.0,0.0
+California,2017,Aug,9,0.0,2.0,20.0,0.0
+Colorado,2017,Aug,9,0.0,0.0,4.0,0.0
+Connecticut,2017,Aug,9,0.0,0.0,0.0,0.0
+Delaware,2017,Aug,9,0.0,0.0,0.0,0.0
+District of Columbia,2017,Aug,9,0.0,0.0,0.0,0.0
+Florida,2017,Aug,9,0.0,3.0,29.0,0.0
+Georgia,2017,Aug,9,0.0,0.0,1.0,0.0
+Hawaii,2017,Aug,9,0.0,0.0,1.0,0.0
+Idaho,2017,Aug,9,0.0,0.0,0.0,0.0
+Illinois,2017,Aug,9,0.0,0.0,3.0,0.0
+Indiana,2017,Aug,9,0.0,0.0,1.0,0.0
+Iowa,2017,Aug,9,0.0,0.0,1.0,0.0
+Kansas,2017,Aug,9,0.0,0.0,2.0,0.0
+Kentucky,2017,Aug,9,0.0,0.0,1.0,0.0
+Louisiana,2017,Aug,9,0.0,0.0,1.0,0.0
+Maine,2017,Aug,9,0.0,0.0,1.0,0.0
+Maryland,2017,Aug,9,0.0,0.0,8.0,0.0
+Massachusetts,2017,Aug,9,0.0,0.0,7.0,0.0
+Michigan,2017,Aug,9,0.0,0.0,6.0,0.0
+Minnesota,2017,Aug,9,0.0,0.0,4.0,0.0
+Mississippi,2017,Aug,9,0.0,0.0,2.0,0.0
+Missouri,2017,Aug,9,0.0,0.0,1.0,0.0
+Montana,2017,Aug,9,0.0,0.0,0.0,0.0
+Nebraska,2017,Aug,9,0.0,0.0,1.0,0.0
+Nevada,2017,Aug,9,0.0,0.0,1.0,0.0
+New Hampshire,2017,Aug,9,0.0,0.0,0.0,0.0
+New Jersey,2017,Aug,9,0.0,0.0,4.0,0.0
+New Mexico,2017,Aug,9,0.0,0.0,0.0,0.0
+New York,2017,Aug,9,0.0,1.0,41.0,0.0
+North Carolina,2017,Aug,9,0.0,0.0,5.0,0.0
+North Dakota,2017,Aug,9,0.0,0.0,0.0,0.0
+Ohio,2017,Aug,9,0.0,0.0,3.0,0.0
+Oklahoma,2017,Aug,9,0.0,0.0,1.0,0.0
+Oregon,2017,Aug,9,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Aug,9,0.0,1.0,4.0,0.0
+Rhode Island,2017,Aug,9,0.0,0.0,3.0,0.0
+South Carolina,2017,Aug,9,0.0,0.0,2.0,0.0
+South Dakota,2017,Aug,9,0.0,0.0,0.0,0.0
+Tennessee,2017,Aug,9,0.0,0.0,0.0,0.0
+Texas,2017,Aug,9,0.0,1.0,18.0,0.0
+Utah,2017,Aug,9,0.0,0.0,3.0,0.0
+Vermont,2017,Aug,9,0.0,0.0,3.0,0.0
+Virginia,2017,Aug,9,0.0,0.0,3.0,0.0
+Washington,2017,Aug,9,0.0,0.0,3.0,0.0
+West Virginia,2017,Aug,9,0.0,1.0,1.0,0.0
+Wisconsin,2017,Aug,9,0.0,0.0,2.0,0.0
+Wyoming,2017,Aug,9,0.0,0.0,2.0,0.0
+American Samoa,2017,Aug,9,0.0,0.0,40.0,0.0
+Puerto Rico,2017,Aug,9,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Aug,9,0.0,0.0,39.0,0.0
+Alabama,2017,Aug,16,0.0,0.0,3.0,0.0
+Alaska,2017,Aug,16,0.0,0.0,1.0,0.0
+Arizona,2017,Aug,16,0.0,0.0,1.0,0.0
+Arkansas,2017,Aug,16,0.0,0.0,0.0,0.0
+California,2017,Aug,16,0.0,2.0,20.0,0.0
+Colorado,2017,Aug,16,0.0,0.0,4.0,0.0
+Connecticut,2017,Aug,16,0.0,0.0,0.0,0.0
+Delaware,2017,Aug,16,0.0,0.0,0.0,0.0
+District of Columbia,2017,Aug,16,0.0,0.0,0.0,0.0
+Florida,2017,Aug,16,0.0,3.0,29.0,0.0
+Georgia,2017,Aug,16,0.0,0.0,2.0,0.0
+Hawaii,2017,Aug,16,0.0,0.0,1.0,0.0
+Idaho,2017,Aug,16,0.0,0.0,0.0,0.0
+Illinois,2017,Aug,16,0.0,0.0,3.0,0.0
+Indiana,2017,Aug,16,0.0,0.0,1.0,0.0
+Iowa,2017,Aug,16,0.0,0.0,1.0,0.0
+Kansas,2017,Aug,16,0.0,0.0,2.0,0.0
+Kentucky,2017,Aug,16,0.0,0.0,1.0,0.0
+Louisiana,2017,Aug,16,0.0,0.0,1.0,0.0
+Maine,2017,Aug,16,0.0,0.0,1.0,0.0
+Maryland,2017,Aug,16,0.0,0.0,8.0,0.0
+Massachusetts,2017,Aug,16,0.0,0.0,7.0,0.0
+Michigan,2017,Aug,16,0.0,0.0,6.0,0.0
+Minnesota,2017,Aug,16,0.0,0.0,5.0,0.0
+Mississippi,2017,Aug,16,0.0,0.0,2.0,0.0
+Missouri,2017,Aug,16,0.0,0.0,1.0,0.0
+Montana,2017,Aug,16,0.0,0.0,0.0,0.0
+Nebraska,2017,Aug,16,0.0,0.0,1.0,0.0
+Nevada,2017,Aug,16,0.0,0.0,1.0,0.0
+New Hampshire,2017,Aug,16,0.0,0.0,0.0,0.0
+New Jersey,2017,Aug,16,0.0,0.0,4.0,0.0
+New Mexico,2017,Aug,16,0.0,0.0,0.0,0.0
+New York,2017,Aug,16,0.0,1.0,40.0,0.0
+North Carolina,2017,Aug,16,0.0,0.0,5.0,0.0
+North Dakota,2017,Aug,16,0.0,0.0,0.0,0.0
+Ohio,2017,Aug,16,0.0,0.0,3.0,0.0
+Oklahoma,2017,Aug,16,0.0,0.0,1.0,0.0
+Oregon,2017,Aug,16,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Aug,16,0.0,1.0,4.0,0.0
+Rhode Island,2017,Aug,16,0.0,0.0,3.0,0.0
+South Carolina,2017,Aug,16,0.0,0.0,2.0,0.0
+South Dakota,2017,Aug,16,0.0,0.0,0.0,0.0
+Tennessee,2017,Aug,16,0.0,0.0,0.0,0.0
+Texas,2017,Aug,16,0.0,1.0,18.0,0.0
+Utah,2017,Aug,16,0.0,0.0,3.0,0.0
+Vermont,2017,Aug,16,0.0,0.0,3.0,0.0
+Virginia,2017,Aug,16,0.0,0.0,4.0,0.0
+Washington,2017,Aug,16,0.0,0.0,3.0,0.0
+West Virginia,2017,Aug,16,0.0,1.0,1.0,0.0
+Wisconsin,2017,Aug,16,0.0,0.0,2.0,0.0
+Wyoming,2017,Aug,16,0.0,0.0,2.0,0.0
+American Samoa,2017,Aug,16,0.0,0.0,40.0,0.0
+Puerto Rico,2017,Aug,16,0.0,3.0,475.0,0.0
+U.S. Virgin Islands,2017,Aug,16,0.0,0.0,39.0,0.0
+Alabama,2017,Aug,23,0.0,0.0,3.0,0.0
+Alaska,2017,Aug,23,0.0,0.0,1.0,0.0
+Arizona,2017,Aug,23,0.0,0.0,1.0,0.0
+Arkansas,2017,Aug,23,0.0,0.0,0.0,0.0
+California,2017,Aug,23,0.0,2.0,22.0,0.0
+Colorado,2017,Aug,23,0.0,0.0,4.0,0.0
+Connecticut,2017,Aug,23,0.0,0.0,0.0,0.0
+Delaware,2017,Aug,23,0.0,0.0,0.0,0.0
+District of Columbia,2017,Aug,23,0.0,0.0,0.0,0.0
+Florida,2017,Aug,23,0.0,3.0,31.0,0.0
+Georgia,2017,Aug,23,0.0,0.0,2.0,0.0
+Hawaii,2017,Aug,23,0.0,0.0,1.0,0.0
+Idaho,2017,Aug,23,0.0,0.0,0.0,0.0
+Illinois,2017,Aug,23,0.0,0.0,3.0,0.0
+Indiana,2017,Aug,23,0.0,0.0,1.0,0.0
+Iowa,2017,Aug,23,0.0,0.0,1.0,0.0
+Kansas,2017,Aug,23,0.0,0.0,2.0,0.0
+Kentucky,2017,Aug,23,0.0,0.0,1.0,0.0
+Louisiana,2017,Aug,23,0.0,0.0,1.0,0.0
+Maine,2017,Aug,23,0.0,0.0,1.0,0.0
+Maryland,2017,Aug,23,0.0,0.0,8.0,0.0
+Massachusetts,2017,Aug,23,0.0,0.0,7.0,0.0
+Michigan,2017,Aug,23,0.0,0.0,7.0,0.0
+Minnesota,2017,Aug,23,0.0,0.0,5.0,0.0
+Mississippi,2017,Aug,23,0.0,0.0,2.0,0.0
+Missouri,2017,Aug,23,0.0,0.0,1.0,0.0
+Montana,2017,Aug,23,0.0,0.0,0.0,0.0
+Nebraska,2017,Aug,23,0.0,0.0,1.0,0.0
+Nevada,2017,Aug,23,0.0,0.0,1.0,0.0
+New Hampshire,2017,Aug,23,0.0,0.0,0.0,0.0
+New Jersey,2017,Aug,23,0.0,0.0,6.0,0.0
+New Mexico,2017,Aug,23,0.0,0.0,0.0,0.0
+New York,2017,Aug,23,0.0,1.0,43.0,0.0
+North Carolina,2017,Aug,23,0.0,0.0,5.0,0.0
+North Dakota,2017,Aug,23,0.0,0.0,0.0,0.0
+Ohio,2017,Aug,23,0.0,0.0,3.0,0.0
+Oklahoma,2017,Aug,23,0.0,0.0,1.0,0.0
+Oregon,2017,Aug,23,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Aug,23,0.0,1.0,4.0,0.0
+Rhode Island,2017,Aug,23,0.0,0.0,3.0,0.0
+South Carolina,2017,Aug,23,0.0,0.0,2.0,0.0
+South Dakota,2017,Aug,23,0.0,0.0,0.0,0.0
+Tennessee,2017,Aug,23,0.0,0.0,0.0,0.0
+Texas,2017,Aug,23,0.0,1.0,18.0,0.0
+Utah,2017,Aug,23,0.0,0.0,3.0,0.0
+Vermont,2017,Aug,23,0.0,0.0,3.0,0.0
+Virginia,2017,Aug,23,0.0,0.0,5.0,0.0
+Washington,2017,Aug,23,0.0,0.0,3.0,0.0
+West Virginia,2017,Aug,23,0.0,1.0,1.0,0.0
+Wisconsin,2017,Aug,23,0.0,0.0,3.0,0.0
+Wyoming,2017,Aug,23,0.0,0.0,2.0,0.0
+American Samoa,2017,Aug,23,0.0,0.0,39.0,0.0
+Puerto Rico,2017,Aug,23,0.0,3.0,475.0,0.0
+U.S. Virgin Islands,2017,Aug,23,0.0,0.0,41.0,0.0
+Alabama,2017,Aug,30,0.0,0.0,3.0,0.0
+Alaska,2017,Aug,30,0.0,0.0,1.0,0.0
+Arizona,2017,Aug,30,0.0,0.0,1.0,0.0
+Arkansas,2017,Aug,30,0.0,0.0,0.0,0.0
+California,2017,Aug,30,0.0,2.0,23.0,0.0
+Colorado,2017,Aug,30,0.0,0.0,4.0,0.0
+Connecticut,2017,Aug,30,0.0,0.0,0.0,0.0
+Delaware,2017,Aug,30,0.0,0.0,0.0,0.0
+District of Columbia,2017,Aug,30,0.0,0.0,0.0,0.0
+Florida,2017,Aug,30,0.0,3.0,31.0,0.0
+Georgia,2017,Aug,30,0.0,0.0,2.0,0.0
+Hawaii,2017,Aug,30,0.0,0.0,1.0,0.0
+Idaho,2017,Aug,30,0.0,0.0,0.0,0.0
+Illinois,2017,Aug,30,0.0,0.0,3.0,0.0
+Indiana,2017,Aug,30,0.0,0.0,1.0,0.0
+Iowa,2017,Aug,30,0.0,0.0,1.0,0.0
+Kansas,2017,Aug,30,0.0,0.0,2.0,0.0
+Kentucky,2017,Aug,30,0.0,0.0,1.0,0.0
+Louisiana,2017,Aug,30,0.0,0.0,1.0,0.0
+Maine,2017,Aug,30,0.0,0.0,1.0,0.0
+Maryland,2017,Aug,30,0.0,0.0,9.0,0.0
+Massachusetts,2017,Aug,30,0.0,0.0,8.0,0.0
+Michigan,2017,Aug,30,0.0,0.0,7.0,0.0
+Minnesota,2017,Aug,30,0.0,0.0,5.0,0.0
+Mississippi,2017,Aug,30,0.0,0.0,2.0,0.0
+Missouri,2017,Aug,30,0.0,0.0,1.0,0.0
+Montana,2017,Aug,30,0.0,0.0,0.0,0.0
+Nebraska,2017,Aug,30,0.0,0.0,1.0,0.0
+Nevada,2017,Aug,30,0.0,0.0,1.0,0.0
+New Hampshire,2017,Aug,30,0.0,0.0,0.0,0.0
+New Jersey,2017,Aug,30,0.0,0.0,6.0,0.0
+New Mexico,2017,Aug,30,0.0,0.0,0.0,0.0
+New York,2017,Aug,30,0.0,1.0,44.0,0.0
+North Carolina,2017,Aug,30,0.0,0.0,5.0,0.0
+North Dakota,2017,Aug,30,0.0,0.0,0.0,0.0
+Ohio,2017,Aug,30,0.0,0.0,3.0,0.0
+Oklahoma,2017,Aug,30,0.0,0.0,1.0,0.0
+Oregon,2017,Aug,30,0.0,0.0,3.0,0.0
+Pennsylvania,2017,Aug,30,0.0,1.0,4.0,0.0
+Rhode Island,2017,Aug,30,0.0,0.0,3.0,0.0
+South Carolina,2017,Aug,30,0.0,0.0,2.0,0.0
+South Dakota,2017,Aug,30,0.0,0.0,0.0,0.0
+Tennessee,2017,Aug,30,0.0,0.0,0.0,0.0
+Texas,2017,Aug,30,0.0,1.0,21.0,0.0
+Utah,2017,Aug,30,0.0,0.0,3.0,0.0
+Vermont,2017,Aug,30,0.0,0.0,3.0,0.0
+Virginia,2017,Aug,30,0.0,0.0,5.0,0.0
+Washington,2017,Aug,30,0.0,0.0,6.0,0.0
+West Virginia,2017,Aug,30,0.0,1.0,1.0,0.0
+Wisconsin,2017,Aug,30,0.0,0.0,3.0,0.0
+Wyoming,2017,Aug,30,0.0,0.0,2.0,0.0
+American Samoa,2017,Aug,30,0.0,0.0,39.0,0.0
+Puerto Rico,2017,Aug,30,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Aug,30,0.0,0.0,41.0,0.0
+Alabama,2017,Sep,6,0.0,0.0,3.0,0.0
+Alaska,2017,Sep,6,0.0,0.0,1.0,0.0
+Arizona,2017,Sep,6,0.0,0.0,1.0,0.0
+Arkansas,2017,Sep,6,0.0,0.0,0.0,0.0
+California,2017,Sep,6,0.0,2.0,25.0,0.0
+Colorado,2017,Sep,6,0.0,0.0,4.0,0.0
+Connecticut,2017,Sep,6,0.0,0.0,0.0,0.0
+Delaware,2017,Sep,6,0.0,0.0,0.0,0.0
+District of Columbia,2017,Sep,6,0.0,0.0,0.0,0.0
+Florida,2017,Sep,6,0.0,3.0,31.0,0.0
+Georgia,2017,Sep,6,0.0,0.0,2.0,0.0
+Hawaii,2017,Sep,6,0.0,0.0,1.0,0.0
+Idaho,2017,Sep,6,0.0,0.0,0.0,0.0
+Illinois,2017,Sep,6,0.0,0.0,3.0,0.0
+Indiana,2017,Sep,6,0.0,0.0,1.0,0.0
+Iowa,2017,Sep,6,0.0,0.0,1.0,0.0
+Kansas,2017,Sep,6,0.0,0.0,2.0,0.0
+Kentucky,2017,Sep,6,0.0,0.0,2.0,0.0
+Louisiana,2017,Sep,6,0.0,0.0,1.0,0.0
+Maine,2017,Sep,6,0.0,0.0,1.0,0.0
+Maryland,2017,Sep,6,0.0,0.0,9.0,0.0
+Massachusetts,2017,Sep,6,0.0,0.0,8.0,0.0
+Michigan,2017,Sep,6,0.0,0.0,7.0,0.0
+Minnesota,2017,Sep,6,0.0,0.0,5.0,0.0
+Mississippi,2017,Sep,6,0.0,0.0,2.0,0.0
+Missouri,2017,Sep,6,0.0,0.0,1.0,0.0
+Montana,2017,Sep,6,0.0,0.0,0.0,0.0
+Nebraska,2017,Sep,6,0.0,0.0,1.0,0.0
+Nevada,2017,Sep,6,0.0,0.0,1.0,0.0
+New Hampshire,2017,Sep,6,0.0,0.0,0.0,0.0
+New Jersey,2017,Sep,6,0.0,0.0,6.0,0.0
+New Mexico,2017,Sep,6,0.0,0.0,0.0,0.0
+New York,2017,Sep,6,0.0,1.0,44.0,0.0
+North Carolina,2017,Sep,6,0.0,0.0,5.0,0.0
+North Dakota,2017,Sep,6,0.0,0.0,0.0,0.0
+Ohio,2017,Sep,6,0.0,0.0,3.0,0.0
+Oklahoma,2017,Sep,6,0.0,0.0,1.0,0.0
+Oregon,2017,Sep,6,0.0,0.0,4.0,0.0
+Pennsylvania,2017,Sep,6,0.0,1.0,5.0,0.0
+Rhode Island,2017,Sep,6,0.0,0.0,3.0,0.0
+South Carolina,2017,Sep,6,0.0,0.0,2.0,0.0
+South Dakota,2017,Sep,6,0.0,0.0,0.0,0.0
+Tennessee,2017,Sep,6,0.0,0.0,0.0,0.0
+Texas,2017,Sep,6,0.0,1.0,22.0,0.0
+Utah,2017,Sep,6,0.0,0.0,3.0,0.0
+Vermont,2017,Sep,6,0.0,0.0,3.0,0.0
+Virginia,2017,Sep,6,0.0,0.0,5.0,0.0
+Washington,2017,Sep,6,0.0,0.0,6.0,0.0
+West Virginia,2017,Sep,6,0.0,1.0,1.0,0.0
+Wisconsin,2017,Sep,6,0.0,0.0,3.0,0.0
+Wyoming,2017,Sep,6,0.0,0.0,2.0,0.0
+American Samoa,2017,Sep,6,0.0,0.0,39.0,0.0
+Puerto Rico,2017,Sep,6,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Sep,6,0.0,0.0,41.0,0.0
+Alabama,2017,Sep,13,0.0,0.0,3.0,0.0
+Alaska,2017,Sep,13,0.0,0.0,1.0,0.0
+Arizona,2017,Sep,13,0.0,0.0,1.0,0.0
+Arkansas,2017,Sep,13,0.0,0.0,0.0,0.0
+California,2017,Sep,13,0.0,2.0,25.0,0.0
+Colorado,2017,Sep,13,0.0,0.0,4.0,0.0
+Connecticut,2017,Sep,13,0.0,0.0,0.0,0.0
+Delaware,2017,Sep,13,0.0,0.0,0.0,0.0
+District of Columbia,2017,Sep,13,0.0,0.0,0.0,0.0
+Florida,2017,Sep,13,0.0,3.0,50.0,0.0
+Georgia,2017,Sep,13,0.0,0.0,2.0,0.0
+Hawaii,2017,Sep,13,0.0,0.0,2.0,0.0
+Idaho,2017,Sep,13,0.0,0.0,0.0,0.0
+Illinois,2017,Sep,13,0.0,0.0,3.0,0.0
+Indiana,2017,Sep,13,0.0,0.0,1.0,0.0
+Iowa,2017,Sep,13,0.0,0.0,1.0,0.0
+Kansas,2017,Sep,13,0.0,0.0,2.0,0.0
+Kentucky,2017,Sep,13,0.0,0.0,2.0,0.0
+Louisiana,2017,Sep,13,0.0,0.0,1.0,0.0
+Maine,2017,Sep,13,0.0,0.0,1.0,0.0
+Maryland,2017,Sep,13,0.0,0.0,9.0,0.0
+Massachusetts,2017,Sep,13,0.0,0.0,8.0,0.0
+Michigan,2017,Sep,13,0.0,0.0,7.0,0.0
+Minnesota,2017,Sep,13,0.0,0.0,5.0,0.0
+Mississippi,2017,Sep,13,0.0,0.0,2.0,0.0
+Missouri,2017,Sep,13,0.0,0.0,1.0,0.0
+Montana,2017,Sep,13,0.0,0.0,0.0,0.0
+Nebraska,2017,Sep,13,0.0,0.0,1.0,0.0
+Nevada,2017,Sep,13,0.0,0.0,1.0,0.0
+New Hampshire,2017,Sep,13,0.0,0.0,0.0,0.0
+New Jersey,2017,Sep,13,0.0,0.0,6.0,0.0
+New Mexico,2017,Sep,13,0.0,0.0,0.0,0.0
+New York,2017,Sep,13,0.0,1.0,46.0,0.0
+North Carolina,2017,Sep,13,0.0,0.0,5.0,0.0
+North Dakota,2017,Sep,13,0.0,0.0,0.0,0.0
+Ohio,2017,Sep,13,0.0,0.0,3.0,0.0
+Oklahoma,2017,Sep,13,0.0,0.0,1.0,0.0
+Oregon,2017,Sep,13,0.0,0.0,4.0,0.0
+Pennsylvania,2017,Sep,13,0.0,1.0,5.0,0.0
+Rhode Island,2017,Sep,13,0.0,0.0,3.0,0.0
+South Carolina,2017,Sep,13,0.0,0.0,2.0,0.0
+South Dakota,2017,Sep,13,0.0,0.0,0.0,0.0
+Tennessee,2017,Sep,13,0.0,0.0,0.0,0.0
+Texas,2017,Sep,13,0.0,1.0,23.0,0.0
+Utah,2017,Sep,13,0.0,0.0,3.0,0.0
+Vermont,2017,Sep,13,0.0,0.0,3.0,0.0
+Virginia,2017,Sep,13,0.0,0.0,5.0,0.0
+Washington,2017,Sep,13,0.0,0.0,6.0,0.0
+West Virginia,2017,Sep,13,0.0,1.0,1.0,0.0
+Wisconsin,2017,Sep,13,0.0,0.0,3.0,0.0
+Wyoming,2017,Sep,13,0.0,0.0,2.0,0.0
+American Samoa,2017,Sep,13,0.0,0.0,39.0,0.0
+Puerto Rico,2017,Sep,13,0.0,3.0,474.0,0.0
+U.S. Virgin Islands,2017,Sep,13,0.0,0.0,41.0,0.0
+Alabama,2017,Sep,20,0.0,0.0,3.0,0.0
+Alaska,2017,Sep,20,0.0,0.0,1.0,0.0
+Arizona,2017,Sep,20,0.0,0.0,1.0,0.0
+Arkansas,2017,Sep,20,0.0,0.0,0.0,0.0
+California,2017,Sep,20,0.0,2.0,25.0,0.0
+Colorado,2017,Sep,20,0.0,0.0,4.0,0.0
+Connecticut,2017,Sep,20,0.0,0.0,0.0,0.0
+Delaware,2017,Sep,20,0.0,0.0,0.0,0.0
+District of Columbia,2017,Sep,20,0.0,0.0,1.0,0.0
+Florida,2017,Sep,20,0.0,3.0,53.0,0.0
+Georgia,2017,Sep,20,0.0,0.0,1.0,0.0
+Hawaii,2017,Sep,20,0.0,0.0,2.0,0.0
+Idaho,2017,Sep,20,0.0,0.0,0.0,0.0
+Illinois,2017,Sep,20,0.0,0.0,3.0,0.0
+Indiana,2017,Sep,20,0.0,0.0,2.0,0.0
+Iowa,2017,Sep,20,0.0,0.0,1.0,0.0
+Kansas,2017,Sep,20,0.0,0.0,2.0,0.0
+Kentucky,2017,Sep,20,0.0,0.0,2.0,0.0
+Louisiana,2017,Sep,20,0.0,0.0,1.0,0.0
+Maine,2017,Sep,20,0.0,0.0,1.0,0.0
+Maryland,2017,Sep,20,0.0,0.0,9.0,0.0
+Massachusetts,2017,Sep,20,0.0,0.0,9.0,0.0
+Michigan,2017,Sep,20,0.0,0.0,7.0,0.0
+Minnesota,2017,Sep,20,0.0,0.0,6.0,0.0
+Mississippi,2017,Sep,20,0.0,0.0,2.0,0.0
+Missouri,2017,Sep,20,0.0,0.0,1.0,0.0
+Montana,2017,Sep,20,0.0,0.0,0.0,0.0
+Nebraska,2017,Sep,20,0.0,0.0,1.0,0.0
+Nevada,2017,Sep,20,0.0,0.0,1.0,0.0
+New Hampshire,2017,Sep,20,0.0,0.0,0.0,0.0
+New Jersey,2017,Sep,20,0.0,0.0,6.0,0.0
+New Mexico,2017,Sep,20,0.0,0.0,0.0,0.0
+New York,2017,Sep,20,0.0,1.0,47.0,0.0
+North Carolina,2017,Sep,20,0.0,0.0,5.0,0.0
+North Dakota,2017,Sep,20,0.0,0.0,0.0,0.0
+Ohio,2017,Sep,20,0.0,0.0,3.0,0.0
+Oklahoma,2017,Sep,20,0.0,0.0,1.0,0.0
+Oregon,2017,Sep,20,0.0,0.0,4.0,0.0
+Pennsylvania,2017,Sep,20,0.0,1.0,5.0,0.0
+Rhode Island,2017,Sep,20,0.0,0.0,3.0,0.0
+South Carolina,2017,Sep,20,0.0,0.0,2.0,0.0
+South Dakota,2017,Sep,20,0.0,0.0,0.0,0.0
+Tennessee,2017,Sep,20,0.0,0.0,0.0,0.0
+Texas,2017,Sep,20,0.0,1.0,27.0,0.0
+Utah,2017,Sep,20,0.0,0.0,4.0,0.0
+Vermont,2017,Sep,20,0.0,0.0,3.0,0.0
+Virginia,2017,Sep,20,0.0,0.0,6.0,0.0
+Washington,2017,Sep,20,0.0,0.0,7.0,0.0
+West Virginia,2017,Sep,20,0.0,1.0,1.0,0.0
+Wisconsin,2017,Sep,20,0.0,0.0,3.0,0.0
+Wyoming,2017,Sep,20,0.0,0.0,2.0,0.0
+American Samoa,2017,Sep,20,0.0,0.0,39.0,0.0
+Puerto Rico,2017,Sep,20,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Sep,20,0.0,0.0,41.0,0.0
+Alabama,2017,Sep,27,0.0,0.0,3.0,0.0
+Alaska,2017,Sep,27,0.0,0.0,1.0,0.0
+Arizona,2017,Sep,27,0.0,0.0,1.0,0.0
+Arkansas,2017,Sep,27,0.0,0.0,0.0,0.0
+California,2017,Sep,27,0.0,2.0,25.0,0.0
+Colorado,2017,Sep,27,0.0,0.0,5.0,0.0
+Connecticut,2017,Sep,27,0.0,0.0,0.0,0.0
+Delaware,2017,Sep,27,0.0,0.0,0.0,0.0
+District of Columbia,2017,Sep,27,0.0,0.0,1.0,0.0
+Florida,2017,Sep,27,0.0,3.0,54.0,0.0
+Georgia,2017,Sep,27,0.0,0.0,1.0,0.0
+Hawaii,2017,Sep,27,0.0,0.0,2.0,0.0
+Idaho,2017,Sep,27,0.0,0.0,0.0,0.0
+Illinois,2017,Sep,27,0.0,0.0,5.0,0.0
+Indiana,2017,Sep,27,0.0,0.0,2.0,0.0
+Iowa,2017,Sep,27,0.0,0.0,1.0,0.0
+Kansas,2017,Sep,27,0.0,0.0,2.0,0.0
+Kentucky,2017,Sep,27,0.0,0.0,2.0,0.0
+Louisiana,2017,Sep,27,0.0,0.0,1.0,0.0
+Maine,2017,Sep,27,0.0,0.0,1.0,0.0
+Maryland,2017,Sep,27,0.0,0.0,10.0,0.0
+Massachusetts,2017,Sep,27,0.0,0.0,9.0,0.0
+Michigan,2017,Sep,27,0.0,0.0,7.0,0.0
+Minnesota,2017,Sep,27,0.0,0.0,6.0,0.0
+Mississippi,2017,Sep,27,0.0,0.0,2.0,0.0
+Missouri,2017,Sep,27,0.0,0.0,1.0,0.0
+Montana,2017,Sep,27,0.0,0.0,0.0,0.0
+Nebraska,2017,Sep,27,0.0,0.0,1.0,0.0
+Nevada,2017,Sep,27,0.0,0.0,1.0,0.0
+New Hampshire,2017,Sep,27,0.0,0.0,0.0,0.0
+New Jersey,2017,Sep,27,0.0,0.0,7.0,0.0
+New Mexico,2017,Sep,27,0.0,0.0,0.0,0.0
+New York,2017,Sep,27,0.0,1.0,47.0,0.0
+North Carolina,2017,Sep,27,0.0,0.0,5.0,0.0
+North Dakota,2017,Sep,27,0.0,0.0,0.0,0.0
+Ohio,2017,Sep,27,0.0,0.0,3.0,0.0
+Oklahoma,2017,Sep,27,0.0,0.0,1.0,0.0
+Oregon,2017,Sep,27,0.0,0.0,4.0,0.0
+Pennsylvania,2017,Sep,27,0.0,1.0,5.0,0.0
+Rhode Island,2017,Sep,27,0.0,0.0,3.0,0.0
+South Carolina,2017,Sep,27,0.0,0.0,2.0,0.0
+South Dakota,2017,Sep,27,0.0,0.0,0.0,0.0
+Tennessee,2017,Sep,27,0.0,0.0,0.0,0.0
+Texas,2017,Sep,27,0.0,1.0,29.0,0.0
+Utah,2017,Sep,27,0.0,0.0,4.0,0.0
+Vermont,2017,Sep,27,0.0,0.0,3.0,0.0
+Virginia,2017,Sep,27,0.0,0.0,6.0,0.0
+Washington,2017,Sep,27,0.0,0.0,8.0,0.0
+West Virginia,2017,Sep,27,0.0,1.0,1.0,0.0
+Wisconsin,2017,Sep,27,0.0,0.0,3.0,0.0
+Wyoming,2017,Sep,27,0.0,0.0,2.0,0.0
+American Samoa,2017,Sep,27,0.0,0.0,39.0,0.0
+Puerto Rico,2017,Sep,27,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Sep,27,0.0,0.0,41.0,0.0
+Alabama,2017,Oct,4,0.0,0.0,3.0,0.0
+Alaska,2017,Oct,4,0.0,0.0,1.0,0.0
+Arizona,2017,Oct,4,0.0,0.0,1.0,0.0
+Arkansas,2017,Oct,4,0.0,0.0,0.0,0.0
+California,2017,Oct,4,0.0,3.0,27.0,0.0
+Colorado,2017,Oct,4,0.0,0.0,5.0,0.0
+Connecticut,2017,Oct,4,0.0,0.0,0.0,0.0
+Delaware,2017,Oct,4,0.0,0.0,0.0,0.0
+District of Columbia,2017,Oct,4,0.0,0.0,1.0,0.0
+Florida,2017,Oct,4,0.0,3.0,54.0,0.0
+Georgia,2017,Oct,4,0.0,0.0,1.0,0.0
+Hawaii,2017,Oct,4,0.0,0.0,2.0,0.0
+Idaho,2017,Oct,4,0.0,0.0,0.0,0.0
+Illinois,2017,Oct,4,0.0,0.0,6.0,0.0
+Indiana,2017,Oct,4,0.0,0.0,2.0,0.0
+Iowa,2017,Oct,4,0.0,0.0,1.0,0.0
+Kansas,2017,Oct,4,0.0,0.0,2.0,0.0
+Kentucky,2017,Oct,4,0.0,0.0,2.0,0.0
+Louisiana,2017,Oct,4,0.0,0.0,1.0,0.0
+Maine,2017,Oct,4,0.0,0.0,1.0,0.0
+Maryland,2017,Oct,4,0.0,0.0,10.0,0.0
+Massachusetts,2017,Oct,4,0.0,0.0,9.0,0.0
+Michigan,2017,Oct,4,0.0,0.0,7.0,0.0
+Minnesota,2017,Oct,4,0.0,0.0,6.0,0.0
+Mississippi,2017,Oct,4,0.0,0.0,2.0,0.0
+Missouri,2017,Oct,4,0.0,0.0,1.0,0.0
+Montana,2017,Oct,4,0.0,0.0,0.0,0.0
+Nebraska,2017,Oct,4,0.0,0.0,1.0,0.0
+Nevada,2017,Oct,4,0.0,0.0,1.0,0.0
+New Hampshire,2017,Oct,4,0.0,0.0,0.0,0.0
+New Jersey,2017,Oct,4,0.0,0.0,7.0,0.0
+New Mexico,2017,Oct,4,0.0,0.0,0.0,0.0
+New York,2017,Oct,4,0.0,1.0,54.0,0.0
+North Carolina,2017,Oct,4,0.0,0.0,5.0,0.0
+North Dakota,2017,Oct,4,0.0,0.0,0.0,0.0
+Ohio,2017,Oct,4,0.0,0.0,3.0,0.0
+Oklahoma,2017,Oct,4,0.0,0.0,1.0,0.0
+Oregon,2017,Oct,4,0.0,0.0,4.0,0.0
+Pennsylvania,2017,Oct,4,0.0,1.0,5.0,0.0
+Rhode Island,2017,Oct,4,0.0,0.0,3.0,0.0
+South Carolina,2017,Oct,4,0.0,0.0,2.0,0.0
+South Dakota,2017,Oct,4,0.0,0.0,0.0,0.0
+Tennessee,2017,Oct,4,0.0,0.0,0.0,0.0
+Texas,2017,Oct,4,0.0,1.0,29.0,0.0
+Utah,2017,Oct,4,0.0,0.0,4.0,0.0
+Vermont,2017,Oct,4,0.0,0.0,3.0,0.0
+Virginia,2017,Oct,4,0.0,0.0,6.0,0.0
+Washington,2017,Oct,4,0.0,0.0,8.0,0.0
+West Virginia,2017,Oct,4,0.0,1.0,1.0,0.0
+Wisconsin,2017,Oct,4,0.0,0.0,4.0,0.0
+Wyoming,2017,Oct,4,0.0,0.0,2.0,0.0
+American Samoa,2017,Oct,4,0.0,0.0,52.0,0.0
+Puerto Rico,2017,Oct,4,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Oct,4,0.0,0.0,41.0,0.0
+Alabama,2017,Oct,11,0.0,0.0,3.0,0.0
+Alaska,2017,Oct,11,0.0,0.0,1.0,0.0
+Arizona,2017,Oct,11,0.0,0.0,1.0,0.0
+Arkansas,2017,Oct,11,0.0,0.0,0.0,0.0
+California,2017,Oct,11,0.0,3.0,27.0,0.0
+Colorado,2017,Oct,11,0.0,0.0,5.0,0.0
+Connecticut,2017,Oct,11,0.0,0.0,0.0,0.0
+Delaware,2017,Oct,11,0.0,0.0,0.0,0.0
+District of Columbia,2017,Oct,11,0.0,0.0,1.0,0.0
+Florida,2017,Oct,11,0.0,3.0,55.0,0.0
+Georgia,2017,Oct,11,0.0,0.0,1.0,0.0
+Hawaii,2017,Oct,11,0.0,0.0,2.0,0.0
+Idaho,2017,Oct,11,0.0,0.0,0.0,0.0
+Illinois,2017,Oct,11,0.0,0.0,6.0,0.0
+Indiana,2017,Oct,11,0.0,0.0,2.0,0.0
+Iowa,2017,Oct,11,0.0,0.0,1.0,0.0
+Kansas,2017,Oct,11,0.0,0.0,2.0,0.0
+Kentucky,2017,Oct,11,0.0,0.0,2.0,0.0
+Louisiana,2017,Oct,11,0.0,0.0,1.0,0.0
+Maine,2017,Oct,11,0.0,0.0,1.0,0.0
+Maryland,2017,Oct,11,0.0,0.0,10.0,0.0
+Massachusetts,2017,Oct,11,0.0,0.0,9.0,0.0
+Michigan,2017,Oct,11,0.0,0.0,7.0,0.0
+Minnesota,2017,Oct,11,0.0,0.0,6.0,0.0
+Mississippi,2017,Oct,11,0.0,0.0,2.0,0.0
+Missouri,2017,Oct,11,0.0,0.0,1.0,0.0
+Montana,2017,Oct,11,0.0,0.0,0.0,0.0
+Nebraska,2017,Oct,11,0.0,0.0,1.0,0.0
+Nevada,2017,Oct,11,0.0,0.0,1.0,0.0
+New Hampshire,2017,Oct,11,0.0,0.0,0.0,0.0
+New Jersey,2017,Oct,11,0.0,0.0,7.0,0.0
+New Mexico,2017,Oct,11,0.0,0.0,0.0,0.0
+New York,2017,Oct,11,0.0,1.0,55.0,0.0
+North Carolina,2017,Oct,11,0.0,0.0,5.0,0.0
+North Dakota,2017,Oct,11,0.0,0.0,0.0,0.0
+Ohio,2017,Oct,11,0.0,0.0,3.0,0.0
+Oklahoma,2017,Oct,11,0.0,0.0,1.0,0.0
+Oregon,2017,Oct,11,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Oct,11,0.0,1.0,5.0,0.0
+Rhode Island,2017,Oct,11,0.0,0.0,3.0,0.0
+South Carolina,2017,Oct,11,0.0,0.0,2.0,0.0
+South Dakota,2017,Oct,11,0.0,0.0,0.0,0.0
+Tennessee,2017,Oct,11,0.0,0.0,0.0,0.0
+Texas,2017,Oct,11,0.0,1.0,29.0,0.0
+Utah,2017,Oct,11,0.0,0.0,4.0,0.0
+Vermont,2017,Oct,11,0.0,0.0,3.0,0.0
+Virginia,2017,Oct,11,0.0,0.0,6.0,0.0
+Washington,2017,Oct,11,0.0,0.0,8.0,0.0
+West Virginia,2017,Oct,11,0.0,1.0,1.0,0.0
+Wisconsin,2017,Oct,11,0.0,0.0,4.0,0.0
+Wyoming,2017,Oct,11,0.0,0.0,2.0,0.0
+American Samoa,2017,Oct,11,0.0,0.0,65.0,0.0
+Puerto Rico,2017,Oct,11,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Oct,11,0.0,0.0,41.0,0.0
+Alabama,2017,Oct,18,0.0,3.0,3.0,0.0
+Alaska,2017,Oct,18,0.0,0.0,1.0,0.0
+Arizona,2017,Oct,18,0.0,0.0,1.0,0.0
+Arkansas,2017,Oct,18,0.0,0.0,0.0,0.0
+California,2017,Oct,18,0.0,3.0,27.0,0.0
+Colorado,2017,Oct,18,0.0,0.0,5.0,0.0
+Connecticut,2017,Oct,18,0.0,0.0,0.0,0.0
+Delaware,2017,Oct,18,0.0,0.0,0.0,0.0
+District of Columbia,2017,Oct,18,0.0,0.0,1.0,0.0
+Florida,2017,Oct,18,0.0,3.0,63.0,0.0
+Georgia,2017,Oct,18,0.0,0.0,1.0,0.0
+Hawaii,2017,Oct,18,0.0,0.0,2.0,0.0
+Idaho,2017,Oct,18,0.0,0.0,0.0,0.0
+Illinois,2017,Oct,18,0.0,0.0,7.0,0.0
+Indiana,2017,Oct,18,0.0,0.0,2.0,0.0
+Iowa,2017,Oct,18,0.0,0.0,1.0,0.0
+Kansas,2017,Oct,18,0.0,0.0,2.0,0.0
+Kentucky,2017,Oct,18,0.0,0.0,2.0,0.0
+Louisiana,2017,Oct,18,0.0,0.0,1.0,0.0
+Maine,2017,Oct,18,0.0,0.0,1.0,0.0
+Maryland,2017,Oct,18,0.0,0.0,10.0,0.0
+Massachusetts,2017,Oct,18,0.0,0.0,9.0,0.0
+Michigan,2017,Oct,18,0.0,0.0,7.0,0.0
+Minnesota,2017,Oct,18,0.0,0.0,6.0,0.0
+Mississippi,2017,Oct,18,0.0,0.0,2.0,0.0
+Missouri,2017,Oct,18,0.0,0.0,1.0,0.0
+Montana,2017,Oct,18,0.0,0.0,0.0,0.0
+Nebraska,2017,Oct,18,0.0,0.0,1.0,0.0
+Nevada,2017,Oct,18,0.0,0.0,1.0,0.0
+New Hampshire,2017,Oct,18,0.0,0.0,0.0,0.0
+New Jersey,2017,Oct,18,0.0,0.0,8.0,0.0
+New Mexico,2017,Oct,18,0.0,0.0,0.0,0.0
+New York,2017,Oct,18,0.0,1.0,58.0,0.0
+North Carolina,2017,Oct,18,0.0,0.0,5.0,0.0
+North Dakota,2017,Oct,18,0.0,0.0,0.0,0.0
+Ohio,2017,Oct,18,0.0,0.0,3.0,0.0
+Oklahoma,2017,Oct,18,0.0,0.0,1.0,0.0
+Oregon,2017,Oct,18,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Oct,18,0.0,1.0,5.0,0.0
+Rhode Island,2017,Oct,18,0.0,0.0,3.0,0.0
+South Carolina,2017,Oct,18,0.0,0.0,2.0,0.0
+South Dakota,2017,Oct,18,0.0,0.0,0.0,0.0
+Tennessee,2017,Oct,18,0.0,0.0,0.0,0.0
+Texas,2017,Oct,18,0.0,1.0,35.0,0.0
+Utah,2017,Oct,18,0.0,0.0,4.0,0.0
+Vermont,2017,Oct,18,0.0,0.0,3.0,0.0
+Virginia,2017,Oct,18,0.0,0.0,6.0,0.0
+Washington,2017,Oct,18,0.0,0.0,9.0,0.0
+West Virginia,2017,Oct,18,0.0,1.0,1.0,0.0
+Wisconsin,2017,Oct,18,0.0,0.0,4.0,0.0
+Wyoming,2017,Oct,18,0.0,0.0,2.0,0.0
+American Samoa,2017,Oct,18,0.0,0.0,65.0,0.0
+Puerto Rico,2017,Oct,18,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Oct,18,0.0,0.0,41.0,0.0
+Alabama,2017,Oct,25,0.0,3.0,3.0,0.0
+Alaska,2017,Oct,25,0.0,0.0,1.0,0.0
+Arizona,2017,Oct,25,0.0,0.0,1.0,0.0
+Arkansas,2017,Oct,25,0.0,0.0,0.0,0.0
+California,2017,Oct,25,0.0,3.0,31.0,0.0
+Colorado,2017,Oct,25,0.0,0.0,6.0,0.0
+Connecticut,2017,Oct,25,0.0,0.0,0.0,0.0
+Delaware,2017,Oct,25,0.0,0.0,0.0,0.0
+District of Columbia,2017,Oct,25,0.0,0.0,1.0,0.0
+Florida,2017,Oct,25,0.0,4.0,69.0,0.0
+Georgia,2017,Oct,25,0.0,0.0,2.0,0.0
+Hawaii,2017,Oct,25,0.0,0.0,2.0,0.0
+Idaho,2017,Oct,25,0.0,0.0,0.0,0.0
+Illinois,2017,Oct,25,0.0,0.0,7.0,0.0
+Indiana,2017,Oct,25,0.0,0.0,2.0,0.0
+Iowa,2017,Oct,25,0.0,0.0,1.0,0.0
+Kansas,2017,Oct,25,0.0,0.0,2.0,0.0
+Kentucky,2017,Oct,25,0.0,0.0,2.0,0.0
+Louisiana,2017,Oct,25,0.0,0.0,1.0,0.0
+Maine,2017,Oct,25,0.0,0.0,1.0,0.0
+Maryland,2017,Oct,25,0.0,0.0,10.0,0.0
+Massachusetts,2017,Oct,25,0.0,0.0,9.0,0.0
+Michigan,2017,Oct,25,0.0,0.0,7.0,0.0
+Minnesota,2017,Oct,25,0.0,0.0,6.0,0.0
+Mississippi,2017,Oct,25,0.0,0.0,2.0,0.0
+Missouri,2017,Oct,25,0.0,0.0,1.0,0.0
+Montana,2017,Oct,25,0.0,0.0,0.0,0.0
+Nebraska,2017,Oct,25,0.0,0.0,1.0,0.0
+Nevada,2017,Oct,25,0.0,0.0,1.0,0.0
+New Hampshire,2017,Oct,25,0.0,0.0,0.0,0.0
+New Jersey,2017,Oct,25,0.0,0.0,8.0,0.0
+New Mexico,2017,Oct,25,0.0,0.0,0.0,0.0
+New York,2017,Oct,25,0.0,1.0,58.0,0.0
+North Carolina,2017,Oct,25,0.0,0.0,5.0,0.0
+North Dakota,2017,Oct,25,0.0,0.0,0.0,0.0
+Ohio,2017,Oct,25,0.0,0.0,3.0,0.0
+Oklahoma,2017,Oct,25,0.0,0.0,1.0,0.0
+Oregon,2017,Oct,25,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Oct,25,0.0,1.0,5.0,0.0
+Rhode Island,2017,Oct,25,0.0,0.0,3.0,0.0
+South Carolina,2017,Oct,25,0.0,0.0,2.0,0.0
+South Dakota,2017,Oct,25,0.0,0.0,0.0,0.0
+Tennessee,2017,Oct,25,0.0,0.0,0.0,0.0
+Texas,2017,Oct,25,0.0,1.0,37.0,0.0
+Utah,2017,Oct,25,0.0,0.0,4.0,0.0
+Vermont,2017,Oct,25,0.0,0.0,3.0,0.0
+Virginia,2017,Oct,25,0.0,0.0,6.0,0.0
+Washington,2017,Oct,25,0.0,0.0,10.0,0.0
+West Virginia,2017,Oct,25,0.0,1.0,1.0,0.0
+Wisconsin,2017,Oct,25,0.0,0.0,4.0,0.0
+Wyoming,2017,Oct,25,0.0,0.0,2.0,0.0
+American Samoa,2017,Oct,25,0.0,0.0,65.0,0.0
+Puerto Rico,2017,Oct,25,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Oct,25,0.0,0.0,42.0,0.0
+Alabama,2017,Nov,1,0.0,3.0,3.0,0.0
+Alaska,2017,Nov,1,0.0,0.0,1.0,0.0
+Arizona,2017,Nov,1,0.0,0.0,1.0,0.0
+Arkansas,2017,Nov,1,0.0,0.0,0.0,0.0
+California,2017,Nov,1,0.0,3.0,35.0,0.0
+Colorado,2017,Nov,1,0.0,0.0,6.0,0.0
+Connecticut,2017,Nov,1,0.0,0.0,0.0,0.0
+Delaware,2017,Nov,1,0.0,0.0,0.0,0.0
+District of Columbia,2017,Nov,1,0.0,0.0,1.0,0.0
+Florida,2017,Nov,1,0.0,4.0,69.0,0.0
+Georgia,2017,Nov,1,0.0,0.0,2.0,0.0
+Hawaii,2017,Nov,1,0.0,0.0,2.0,0.0
+Idaho,2017,Nov,1,0.0,0.0,0.0,0.0
+Illinois,2017,Nov,1,0.0,0.0,6.0,0.0
+Indiana,2017,Nov,1,0.0,0.0,2.0,0.0
+Iowa,2017,Nov,1,0.0,0.0,1.0,0.0
+Kansas,2017,Nov,1,0.0,0.0,2.0,0.0
+Kentucky,2017,Nov,1,0.0,0.0,2.0,0.0
+Louisiana,2017,Nov,1,0.0,0.0,1.0,0.0
+Maine,2017,Nov,1,0.0,0.0,1.0,0.0
+Maryland,2017,Nov,1,0.0,0.0,10.0,0.0
+Massachusetts,2017,Nov,1,0.0,0.0,9.0,0.0
+Michigan,2017,Nov,1,0.0,0.0,7.0,0.0
+Minnesota,2017,Nov,1,0.0,0.0,6.0,0.0
+Mississippi,2017,Nov,1,0.0,0.0,2.0,0.0
+Missouri,2017,Nov,1,0.0,0.0,1.0,0.0
+Montana,2017,Nov,1,0.0,0.0,0.0,0.0
+Nebraska,2017,Nov,1,0.0,0.0,1.0,0.0
+Nevada,2017,Nov,1,0.0,0.0,1.0,0.0
+New Hampshire,2017,Nov,1,0.0,0.0,0.0,0.0
+New Jersey,2017,Nov,1,0.0,0.0,8.0,0.0
+New Mexico,2017,Nov,1,0.0,0.0,0.0,0.0
+New York,2017,Nov,1,0.0,1.0,58.0,0.0
+North Carolina,2017,Nov,1,0.0,0.0,5.0,0.0
+North Dakota,2017,Nov,1,0.0,0.0,0.0,0.0
+Ohio,2017,Nov,1,0.0,0.0,3.0,0.0
+Oklahoma,2017,Nov,1,0.0,0.0,1.0,0.0
+Oregon,2017,Nov,1,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Nov,1,0.0,1.0,5.0,0.0
+Rhode Island,2017,Nov,1,0.0,0.0,3.0,0.0
+South Carolina,2017,Nov,1,0.0,0.0,2.0,0.0
+South Dakota,2017,Nov,1,0.0,0.0,0.0,0.0
+Tennessee,2017,Nov,1,0.0,0.0,0.0,0.0
+Texas,2017,Nov,1,0.0,1.0,39.0,0.0
+Utah,2017,Nov,1,0.0,0.0,4.0,0.0
+Vermont,2017,Nov,1,0.0,0.0,3.0,0.0
+Virginia,2017,Nov,1,0.0,0.0,6.0,0.0
+Washington,2017,Nov,1,0.0,0.0,10.0,0.0
+West Virginia,2017,Nov,1,0.0,1.0,1.0,0.0
+Wisconsin,2017,Nov,1,0.0,0.0,4.0,0.0
+Wyoming,2017,Nov,1,0.0,0.0,2.0,0.0
+American Samoa,2017,Nov,1,0.0,0.0,65.0,0.0
+Puerto Rico,2017,Nov,1,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Nov,1,0.0,0.0,42.0,0.0
+Alabama,2017,Nov,8,0.0,3.0,3.0,0.0
+Alaska,2017,Nov,8,0.0,0.0,1.0,0.0
+Arizona,2017,Nov,8,0.0,0.0,1.0,0.0
+Arkansas,2017,Nov,8,0.0,0.0,0.0,0.0
+California,2017,Nov,8,0.0,3.0,37.0,0.0
+Colorado,2017,Nov,8,0.0,0.0,6.0,0.0
+Connecticut,2017,Nov,8,0.0,0.0,0.0,0.0
+Delaware,2017,Nov,8,0.0,0.0,0.0,0.0
+District of Columbia,2017,Nov,8,0.0,0.0,1.0,0.0
+Florida‡,2017,Nov,8,0.0,5.0,80.0,0.0
+Georgia,2017,Nov,8,0.0,0.0,2.0,0.0
+Hawaii,2017,Nov,8,0.0,0.0,2.0,0.0
+Idaho,2017,Nov,8,0.0,0.0,0.0,0.0
+Illinois,2017,Nov,8,0.0,0.0,7.0,0.0
+Indiana,2017,Nov,8,0.0,0.0,2.0,0.0
+Iowa,2017,Nov,8,0.0,0.0,1.0,0.0
+Kansas,2017,Nov,8,0.0,0.0,2.0,0.0
+Kentucky,2017,Nov,8,0.0,0.0,2.0,0.0
+Louisiana,2017,Nov,8,0.0,0.0,1.0,0.0
+Maine,2017,Nov,8,0.0,0.0,1.0,0.0
+Maryland,2017,Nov,8,0.0,0.0,10.0,0.0
+Massachusetts,2017,Nov,8,0.0,0.0,9.0,0.0
+Michigan,2017,Nov,8,0.0,0.0,7.0,0.0
+Minnesota,2017,Nov,8,0.0,0.0,6.0,0.0
+Mississippi,2017,Nov,8,0.0,0.0,2.0,0.0
+Missouri,2017,Nov,8,0.0,0.0,1.0,0.0
+Montana,2017,Nov,8,0.0,0.0,0.0,0.0
+Nebraska,2017,Nov,8,0.0,0.0,1.0,0.0
+Nevada,2017,Nov,8,0.0,0.0,1.0,0.0
+New Hampshire,2017,Nov,8,0.0,0.0,0.0,0.0
+New Jersey,2017,Nov,8,0.0,0.0,8.0,0.0
+New Mexico,2017,Nov,8,0.0,0.0,0.0,0.0
+New York,2017,Nov,8,0.0,1.0,58.0,0.0
+North Carolina,2017,Nov,8,0.0,0.0,5.0,0.0
+North Dakota,2017,Nov,8,0.0,0.0,0.0,0.0
+Ohio,2017,Nov,8,0.0,0.0,3.0,0.0
+Oklahoma,2017,Nov,8,0.0,0.0,1.0,0.0
+Oregon,2017,Nov,8,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Nov,8,0.0,1.0,5.0,0.0
+Rhode Island,2017,Nov,8,0.0,0.0,3.0,0.0
+South Carolina,2017,Nov,8,0.0,0.0,2.0,0.0
+South Dakota,2017,Nov,8,0.0,0.0,0.0,0.0
+Tennessee,2017,Nov,8,0.0,0.0,0.0,0.0
+Texas‡,2017,Nov,8,0.0,1.0,40.0,0.0
+Utah,2017,Nov,8,0.0,0.0,4.0,0.0
+Vermont,2017,Nov,8,0.0,0.0,3.0,0.0
+Virginia,2017,Nov,8,0.0,0.0,6.0,0.0
+Washington,2017,Nov,8,0.0,0.0,11.0,0.0
+West Virginia,2017,Nov,8,0.0,1.0,1.0,0.0
+Wisconsin,2017,Nov,8,0.0,0.0,4.0,0.0
+Wyoming,2017,Nov,8,0.0,0.0,2.0,0.0
+American Samoa,2017,Nov,8,0.0,0.0,65.0,0.0
+Puerto Rico,2017,Nov,8,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Nov,8,0.0,0.0,42.0,0.0
+Alabama,2017,Nov,15,0.0,3.0,3.0,0.0
+Alaska,2017,Nov,15,0.0,0.0,1.0,0.0
+Arizona,2017,Nov,15,0.0,0.0,1.0,0.0
+Arkansas,2017,Nov,15,0.0,0.0,0.0,0.0
+California,2017,Nov,15,0.0,3.0,37.0,0.0
+Colorado,2017,Nov,15,0.0,0.0,6.0,0.0
+Connecticut,2017,Nov,15,0.0,0.0,0.0,0.0
+Delaware,2017,Nov,15,0.0,0.0,0.0,0.0
+District of Columbia,2017,Nov,15,0.0,0.0,2.0,0.0
+Florida‡,2017,Nov,15,0.0,5.0,80.0,0.0
+Georgia,2017,Nov,15,0.0,0.0,2.0,0.0
+Hawaii,2017,Nov,15,0.0,0.0,2.0,0.0
+Idaho,2017,Nov,15,0.0,0.0,0.0,0.0
+Illinois,2017,Nov,15,0.0,0.0,7.0,0.0
+Indiana,2017,Nov,15,0.0,0.0,2.0,0.0
+Iowa,2017,Nov,15,0.0,0.0,1.0,0.0
+Kansas,2017,Nov,15,0.0,0.0,2.0,0.0
+Kentucky,2017,Nov,15,0.0,0.0,2.0,0.0
+Louisiana,2017,Nov,15,0.0,0.0,1.0,0.0
+Maine,2017,Nov,15,0.0,0.0,1.0,0.0
+Maryland,2017,Nov,15,0.0,0.0,10.0,0.0
+Massachusetts,2017,Nov,15,0.0,0.0,9.0,0.0
+Michigan,2017,Nov,15,0.0,0.0,7.0,0.0
+Minnesota,2017,Nov,15,0.0,0.0,6.0,0.0
+Mississippi,2017,Nov,15,0.0,0.0,2.0,0.0
+Missouri,2017,Nov,15,0.0,0.0,1.0,0.0
+Montana,2017,Nov,15,0.0,0.0,0.0,0.0
+Nebraska,2017,Nov,15,0.0,0.0,1.0,0.0
+Nevada,2017,Nov,15,0.0,0.0,1.0,0.0
+New Hampshire,2017,Nov,15,0.0,0.0,0.0,0.0
+New Jersey,2017,Nov,15,0.0,0.0,8.0,0.0
+New Mexico,2017,Nov,15,0.0,0.0,0.0,0.0
+New York,2017,Nov,15,0.0,1.0,59.0,0.0
+North Carolina,2017,Nov,15,0.0,0.0,5.0,0.0
+North Dakota,2017,Nov,15,0.0,0.0,0.0,0.0
+Ohio,2017,Nov,15,0.0,0.0,3.0,0.0
+Oklahoma,2017,Nov,15,0.0,0.0,1.0,0.0
+Oregon,2017,Nov,15,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Nov,15,0.0,1.0,5.0,0.0
+Rhode Island,2017,Nov,15,0.0,0.0,3.0,0.0
+South Carolina,2017,Nov,15,0.0,0.0,2.0,0.0
+South Dakota,2017,Nov,15,0.0,0.0,0.0,0.0
+Tennessee,2017,Nov,15,0.0,0.0,0.0,0.0
+Texas‡,2017,Nov,15,0.0,1.0,40.0,0.0
+Utah,2017,Nov,15,0.0,0.0,4.0,0.0
+Vermont,2017,Nov,15,0.0,0.0,3.0,0.0
+Virginia,2017,Nov,15,0.0,0.0,6.0,0.0
+Washington,2017,Nov,15,0.0,0.0,11.0,0.0
+West Virginia,2017,Nov,15,0.0,1.0,1.0,0.0
+Wisconsin,2017,Nov,15,0.0,0.0,4.0,0.0
+Wyoming,2017,Nov,15,0.0,0.0,2.0,0.0
+American Samoa,2017,Nov,15,0.0,0.0,64.0,0.0
+Puerto Rico,2017,Nov,15,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Nov,15,0.0,0.0,44.0,0.0
+Alabama,2017,Nov,22,0.0,3.0,3.0,0.0
+Alaska,2017,Nov,22,0.0,0.0,1.0,0.0
+Arizona,2017,Nov,22,0.0,0.0,1.0,0.0
+Arkansas,2017,Nov,22,0.0,0.0,0.0,0.0
+California,2017,Nov,22,0.0,3.0,37.0,0.0
+Colorado,2017,Nov,22,0.0,0.0,6.0,0.0
+Connecticut,2017,Nov,22,0.0,0.0,0.0,0.0
+Delaware,2017,Nov,22,0.0,0.0,0.0,0.0
+District of Columbia,2017,Nov,22,0.0,0.0,2.0,0.0
+Florida‡,2017,Nov,22,0.0,5.0,83.0,0.0
+Georgia,2017,Nov,22,0.0,0.0,2.0,0.0
+Hawaii,2017,Nov,22,0.0,0.0,2.0,0.0
+Idaho,2017,Nov,22,0.0,0.0,0.0,0.0
+Illinois,2017,Nov,22,0.0,0.0,7.0,0.0
+Indiana,2017,Nov,22,0.0,0.0,2.0,0.0
+Iowa,2017,Nov,22,0.0,0.0,1.0,0.0
+Kansas,2017,Nov,22,0.0,0.0,2.0,0.0
+Kentucky,2017,Nov,22,0.0,0.0,2.0,0.0
+Louisiana,2017,Nov,22,0.0,0.0,1.0,0.0
+Maine,2017,Nov,22,0.0,0.0,1.0,0.0
+Maryland,2017,Nov,22,0.0,0.0,10.0,0.0
+Massachusetts,2017,Nov,22,0.0,0.0,9.0,0.0
+Michigan,2017,Nov,22,0.0,0.0,7.0,0.0
+Minnesota,2017,Nov,22,0.0,0.0,6.0,0.0
+Mississippi,2017,Nov,22,0.0,0.0,2.0,0.0
+Missouri,2017,Nov,22,0.0,0.0,1.0,0.0
+Montana,2017,Nov,22,0.0,0.0,0.0,0.0
+Nebraska,2017,Nov,22,0.0,0.0,1.0,0.0
+Nevada,2017,Nov,22,0.0,0.0,1.0,0.0
+New Hampshire,2017,Nov,22,0.0,0.0,0.0,0.0
+New Jersey,2017,Nov,22,0.0,0.0,8.0,0.0
+New Mexico,2017,Nov,22,0.0,0.0,0.0,0.0
+New York,2017,Nov,22,0.0,1.0,59.0,0.0
+North Carolina,2017,Nov,22,0.0,0.0,5.0,0.0
+North Dakota,2017,Nov,22,0.0,0.0,0.0,0.0
+Ohio,2017,Nov,22,0.0,0.0,3.0,0.0
+Oklahoma,2017,Nov,22,0.0,0.0,1.0,0.0
+Oregon,2017,Nov,22,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Nov,22,0.0,1.0,5.0,0.0
+Rhode Island,2017,Nov,22,0.0,0.0,3.0,0.0
+South Carolina,2017,Nov,22,0.0,0.0,2.0,0.0
+South Dakota,2017,Nov,22,0.0,0.0,0.0,0.0
+Tennessee,2017,Nov,22,0.0,0.0,0.0,0.0
+Texas‡,2017,Nov,22,0.0,1.0,40.0,0.0
+Utah,2017,Nov,22,0.0,0.0,4.0,0.0
+Vermont,2017,Nov,22,0.0,0.0,3.0,0.0
+Virginia,2017,Nov,22,0.0,0.0,6.0,0.0
+Washington,2017,Nov,22,0.0,0.0,11.0,0.0
+West Virginia,2017,Nov,22,0.0,1.0,1.0,0.0
+Wisconsin,2017,Nov,22,0.0,0.0,4.0,0.0
+Wyoming,2017,Nov,22,0.0,0.0,2.0,0.0
+American Samoa,2017,Nov,22,0.0,0.0,64.0,0.0
+Puerto Rico,2017,Nov,22,0.0,6.0,476.0,0.0
+U.S. Virgin Islands,2017,Nov,22,0.0,0.0,44.0,0.0
+Alabama,2017,Nov,29,0.0,3.0,3.0,0.0
+Alaska,2017,Nov,29,0.0,0.0,1.0,0.0
+Arizona,2017,Nov,29,0.0,0.0,2.0,0.0
+Arkansas,2017,Nov,29,0.0,0.0,0.0,0.0
+California,2017,Nov,29,0.0,4.0,41.0,0.0
+Colorado,2017,Nov,29,0.0,0.0,6.0,0.0
+Connecticut,2017,Nov,29,0.0,0.0,0.0,0.0
+Delaware,2017,Nov,29,0.0,0.0,0.0,0.0
+District of Columbia,2017,Nov,29,0.0,0.0,2.0,0.0
+Florida‡,2017,Nov,29,0.0,5.0,88.0,0.0
+Georgia,2017,Nov,29,0.0,0.0,2.0,0.0
+Hawaii,2017,Nov,29,0.0,0.0,2.0,0.0
+Idaho,2017,Nov,29,0.0,0.0,0.0,0.0
+Illinois,2017,Nov,29,0.0,0.0,7.0,0.0
+Indiana,2017,Nov,29,0.0,0.0,2.0,0.0
+Iowa,2017,Nov,29,0.0,0.0,1.0,0.0
+Kansas,2017,Nov,29,0.0,0.0,2.0,0.0
+Kentucky,2017,Nov,29,0.0,0.0,2.0,0.0
+Louisiana,2017,Nov,29,0.0,5.0,1.0,0.0
+Maine,2017,Nov,29,0.0,0.0,1.0,0.0
+Maryland,2017,Nov,29,0.0,0.0,10.0,0.0
+Massachusetts,2017,Nov,29,0.0,0.0,9.0,0.0
+Michigan,2017,Nov,29,0.0,0.0,7.0,0.0
+Minnesota,2017,Nov,29,0.0,0.0,6.0,0.0
+Mississippi,2017,Nov,29,0.0,0.0,2.0,0.0
+Missouri,2017,Nov,29,0.0,0.0,1.0,0.0
+Montana,2017,Nov,29,0.0,0.0,0.0,0.0
+Nebraska,2017,Nov,29,0.0,0.0,1.0,0.0
+Nevada,2017,Nov,29,0.0,0.0,1.0,0.0
+New Hampshire,2017,Nov,29,0.0,0.0,0.0,0.0
+New Jersey,2017,Nov,29,0.0,0.0,8.0,0.0
+New Mexico,2017,Nov,29,0.0,0.0,0.0,0.0
+New York,2017,Nov,29,0.0,1.0,59.0,0.0
+North Carolina,2017,Nov,29,0.0,0.0,5.0,0.0
+North Dakota,2017,Nov,29,0.0,0.0,0.0,0.0
+Ohio,2017,Nov,29,0.0,0.0,3.0,0.0
+Oklahoma,2017,Nov,29,0.0,0.0,1.0,0.0
+Oregon,2017,Nov,29,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Nov,29,0.0,1.0,5.0,0.0
+Rhode Island,2017,Nov,29,0.0,0.0,3.0,0.0
+South Carolina,2017,Nov,29,0.0,0.0,2.0,0.0
+South Dakota,2017,Nov,29,0.0,0.0,0.0,0.0
+Tennessee,2017,Nov,29,0.0,0.0,0.0,0.0
+Texas‡,2017,Nov,29,0.0,1.0,40.0,0.0
+Utah,2017,Nov,29,0.0,0.0,4.0,0.0
+Vermont,2017,Nov,29,0.0,0.0,3.0,0.0
+Virginia,2017,Nov,29,0.0,0.0,6.0,0.0
+Washington,2017,Nov,29,0.0,0.0,11.0,0.0
+West Virginia,2017,Nov,29,0.0,1.0,1.0,0.0
+Wisconsin,2017,Nov,29,0.0,0.0,4.0,0.0
+Wyoming,2017,Nov,29,0.0,0.0,2.0,0.0
+American Samoa,2017,Nov,29,0.0,0.0,64.0,0.0
+Puerto Rico,2017,Nov,29,0.0,6.0,486.0,0.0
+U.S. Virgin Islands,2017,Nov,29,0.0,0.0,44.0,0.0
+Alabama,2017,Dec,6,0.0,3.0,3.0,0.0
+Alaska,2017,Dec,6,0.0,0.0,1.0,0.0
+Arizona,2017,Dec,6,0.0,0.0,2.0,0.0
+Arkansas,2017,Dec,6,0.0,0.0,0.0,0.0
+California,2017,Dec,6,0.0,4.0,43.0,0.0
+Colorado,2017,Dec,6,0.0,0.0,6.0,0.0
+Connecticut,2017,Dec,6,0.0,0.0,0.0,0.0
+Delaware,2017,Dec,6,0.0,0.0,0.0,0.0
+District of Columbia,2017,Dec,6,0.0,0.0,2.0,0.0
+Florida‡,2017,Dec,6,0.0,5.0,91.0,0.0
+Georgia,2017,Dec,6,0.0,0.0,2.0,0.0
+Hawaii,2017,Dec,6,0.0,0.0,2.0,0.0
+Idaho,2017,Dec,6,0.0,0.0,0.0,0.0
+Illinois,2017,Dec,6,0.0,0.0,7.0,0.0
+Indiana,2017,Dec,6,0.0,0.0,2.0,0.0
+Iowa,2017,Dec,6,0.0,0.0,1.0,0.0
+Kansas,2017,Dec,6,0.0,0.0,2.0,0.0
+Kentucky,2017,Dec,6,0.0,0.0,2.0,0.0
+Louisiana,2017,Dec,6,0.0,5.0,1.0,0.0
+Maine,2017,Dec,6,0.0,0.0,1.0,0.0
+Maryland,2017,Dec,6,0.0,1.0,10.0,0.0
+Massachusetts,2017,Dec,6,0.0,0.0,9.0,0.0
+Michigan,2017,Dec,6,0.0,0.0,7.0,0.0
+Minnesota,2017,Dec,6,0.0,0.0,6.0,0.0
+Mississippi,2017,Dec,6,0.0,0.0,2.0,0.0
+Missouri,2017,Dec,6,0.0,0.0,1.0,0.0
+Montana,2017,Dec,6,0.0,0.0,0.0,0.0
+Nebraska,2017,Dec,6,0.0,0.0,1.0,0.0
+Nevada,2017,Dec,6,0.0,0.0,1.0,0.0
+New Hampshire,2017,Dec,6,0.0,0.0,0.0,0.0
+New Jersey,2017,Dec,6,0.0,0.0,11.0,0.0
+New Mexico,2017,Dec,6,0.0,0.0,0.0,0.0
+New York,2017,Dec,6,0.0,1.0,59.0,0.0
+North Carolina,2017,Dec,6,0.0,0.0,5.0,0.0
+North Dakota,2017,Dec,6,0.0,0.0,0.0,0.0
+Ohio,2017,Dec,6,0.0,0.0,3.0,0.0
+Oklahoma,2017,Dec,6,0.0,0.0,1.0,0.0
+Oregon,2017,Dec,6,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Dec,6,0.0,1.0,6.0,0.0
+Rhode Island,2017,Dec,6,0.0,0.0,3.0,0.0
+South Carolina,2017,Dec,6,0.0,0.0,2.0,0.0
+South Dakota,2017,Dec,6,0.0,0.0,0.0,0.0
+Tennessee,2017,Dec,6,0.0,0.0,1.0,0.0
+Texas‡,2017,Dec,6,0.0,2.0,41.0,0.0
+Utah,2017,Dec,6,0.0,0.0,4.0,0.0
+Vermont,2017,Dec,6,0.0,0.0,3.0,0.0
+Virginia,2017,Dec,6,0.0,0.0,6.0,0.0
+Washington,2017,Dec,6,0.0,0.0,11.0,0.0
+West Virginia,2017,Dec,6,0.0,1.0,1.0,0.0
+Wisconsin,2017,Dec,6,0.0,0.0,4.0,0.0
+Wyoming,2017,Dec,6,0.0,0.0,2.0,0.0
+American Samoa,2017,Dec,6,0.0,0.0,64.0,0.0
+Puerto Rico,2017,Dec,6,0.0,6.0,487.0,0.0
+U.S. Virgin Islands,2017,Dec,6,0.0,0.0,44.0,0.0
+Alabama,2017,Dec,20,0.0,3.0,3.0,0.0
+Alaska,2017,Dec,20,0.0,0.0,1.0,0.0
+Arizona,2017,Dec,20,0.0,0.0,2.0,0.0
+Arkansas,2017,Dec,20,0.0,0.0,0.0,0.0
+California,2017,Dec,20,0.0,4.0,46.0,0.0
+Colorado,2017,Dec,20,0.0,0.0,6.0,0.0
+Connecticut,2017,Dec,20,0.0,0.0,0.0,0.0
+Delaware,2017,Dec,20,0.0,0.0,0.0,0.0
+District of Columbia,2017,Dec,20,0.0,0.0,2.0,0.0
+Florida‡,2017,Dec,20,0.0,5.0,92.0,0.0
+Georgia,2017,Dec,20,0.0,0.0,2.0,0.0
+Hawaii,2017,Dec,20,0.0,0.0,2.0,0.0
+Idaho,2017,Dec,20,0.0,0.0,0.0,0.0
+Illinois,2017,Dec,20,0.0,0.0,7.0,0.0
+Indiana,2017,Dec,20,0.0,0.0,2.0,0.0
+Iowa,2017,Dec,20,0.0,0.0,1.0,0.0
+Kansas,2017,Dec,20,0.0,0.0,2.0,0.0
+Kentucky,2017,Dec,20,0.0,0.0,2.0,0.0
+Louisiana,2017,Dec,20,0.0,5.0,1.0,0.0
+Maine,2017,Dec,20,0.0,0.0,1.0,0.0
+Maryland,2017,Dec,20,0.0,1.0,10.0,0.0
+Massachusetts,2017,Dec,20,0.0,0.0,9.0,0.0
+Michigan,2017,Dec,20,0.0,0.0,7.0,0.0
+Minnesota,2017,Dec,20,0.0,0.0,6.0,0.0
+Mississippi,2017,Dec,20,0.0,0.0,2.0,0.0
+Missouri,2017,Dec,20,0.0,0.0,2.0,0.0
+Montana,2017,Dec,20,0.0,0.0,0.0,0.0
+Nebraska,2017,Dec,20,0.0,0.0,1.0,0.0
+Nevada,2017,Dec,20,0.0,0.0,1.0,0.0
+New Hampshire,2017,Dec,20,0.0,0.0,0.0,0.0
+New Jersey,2017,Dec,20,0.0,0.0,11.0,0.0
+New Mexico,2017,Dec,20,0.0,0.0,0.0,0.0
+New York,2017,Dec,20,0.0,1.0,61.0,0.0
+North Carolina,2017,Dec,20,0.0,0.0,5.0,0.0
+North Dakota,2017,Dec,20,0.0,0.0,0.0,0.0
+Ohio,2017,Dec,20,0.0,0.0,3.0,0.0
+Oklahoma,2017,Dec,20,0.0,0.0,1.0,0.0
+Oregon,2017,Dec,20,0.0,0.0,5.0,0.0
+Pennsylvania,2017,Dec,20,0.0,1.0,6.0,0.0
+Rhode Island,2017,Dec,20,0.0,0.0,3.0,0.0
+South Carolina,2017,Dec,20,0.0,0.0,2.0,0.0
+South Dakota,2017,Dec,20,0.0,0.0,0.0,0.0
+Tennessee,2017,Dec,20,0.0,0.0,1.0,0.0
+Texas‡,2017,Dec,20,0.0,2.0,44.0,0.0
+Utah,2017,Dec,20,0.0,0.0,4.0,0.0
+Vermont,2017,Dec,20,0.0,0.0,3.0,0.0
+Virginia,2017,Dec,20,0.0,0.0,6.0,0.0
+Washington,2017,Dec,20,0.0,0.0,13.0,0.0
+West Virginia,2017,Dec,20,0.0,1.0,1.0,0.0
+Wisconsin,2017,Dec,20,0.0,0.0,4.0,0.0
+Wyoming,2017,Dec,20,0.0,0.0,2.0,0.0
+American Samoa,2017,Dec,20,0.0,0.0,72.0,0.0
+Puerto Rico,2017,Dec,20,0.0,6.0,494.0,0.0
+U.S. Virgin Islands,2017,Dec,20,0.0,0.0,45.0,0.0
+Alabama,2018,Jan,10,0.0,3.0,3.0,0.0
+Alaska,2018,Jan,10,0.0,0.0,1.0,0.0
+Arizona,2018,Jan,10,0.0,0.0,3.0,0.0
+Arkansas,2018,Jan,10,0.0,0.0,0.0,0.0
+California,2018,Jan,10,0.0,4.0,50.0,0.0
+Colorado,2018,Jan,10,0.0,0.0,6.0,0.0
+Connecticut,2018,Jan,10,0.0,0.0,0.0,0.0
+Delaware,2018,Jan,10,0.0,0.0,0.0,0.0
+District of Columbia,2018,Jan,10,0.0,0.0,3.0,0.0
+Florida‡,2018,Jan,10,0.0,5.0,104.0,0.0
+Georgia,2018,Jan,10,0.0,0.0,2.0,0.0
+Hawaii,2018,Jan,10,0.0,0.0,2.0,0.0
+Idaho,2018,Jan,10,0.0,0.0,0.0,0.0
+Illinois,2018,Jan,10,0.0,0.0,8.0,0.0
+Indiana,2018,Jan,10,0.0,0.0,2.0,0.0
+Iowa,2018,Jan,10,0.0,0.0,1.0,0.0
+Kansas,2018,Jan,10,0.0,0.0,2.0,0.0
+Kentucky,2018,Jan,10,0.0,0.0,2.0,0.0
+Louisiana,2018,Jan,10,0.0,5.0,1.0,0.0
+Maine,2018,Jan,10,0.0,0.0,1.0,0.0
+Maryland,2018,Jan,10,0.0,1.0,10.0,0.0
+Massachusetts,2018,Jan,10,0.0,0.0,9.0,0.0
+Michigan,2018,Jan,10,0.0,0.0,7.0,0.0
+Minnesota,2018,Jan,10,0.0,0.0,6.0,0.0
+Mississippi,2018,Jan,10,0.0,0.0,2.0,0.0
+Missouri,2018,Jan,10,0.0,0.0,2.0,0.0
+Montana,2018,Jan,10,0.0,0.0,0.0,0.0
+Nebraska,2018,Jan,10,0.0,0.0,1.0,0.0
+Nevada,2018,Jan,10,0.0,0.0,1.0,0.0
+New Hampshire,2018,Jan,10,0.0,0.0,0.0,0.0
+New Jersey,2018,Jan,10,0.0,0.0,11.0,0.0
+New Mexico,2018,Jan,10,0.0,0.0,0.0,0.0
+New York,2018,Jan,10,0.0,1.0,61.0,0.0
+North Carolina,2018,Jan,10,0.0,0.0,5.0,0.0
+North Dakota,2018,Jan,10,0.0,0.0,0.0,0.0
+Ohio,2018,Jan,10,0.0,0.0,3.0,0.0
+Oklahoma,2018,Jan,10,0.0,0.0,1.0,0.0
+Oregon,2018,Jan,10,0.0,0.0,5.0,0.0
+Pennsylvania,2018,Jan,10,0.0,1.0,6.0,0.0
+Rhode Island,2018,Jan,10,0.0,0.0,3.0,0.0
+South Carolina,2018,Jan,10,0.0,0.0,2.0,0.0
+South Dakota,2018,Jan,10,0.0,0.0,0.0,0.0
+Tennessee,2018,Jan,10,0.0,0.0,1.0,0.0
+Texas‡,2018,Jan,10,0.0,2.0,47.0,0.0
+Utah,2018,Jan,10,0.0,0.0,4.0,0.0
+Vermont,2018,Jan,10,0.0,0.0,3.0,0.0
+Virginia,2018,Jan,10,0.0,0.0,6.0,0.0
+Washington,2018,Jan,10,0.0,0.0,13.0,0.0
+West Virginia,2018,Jan,10,0.0,1.0,1.0,0.0
+Wisconsin,2018,Jan,10,0.0,0.0,4.0,0.0
+Wyoming,2018,Jan,10,0.0,0.0,2.0,0.0
+American Samoa,2018,Jan,10,0.0,0.0,73.0,0.0
+Puerto Rico,2018,Jan,10,0.0,6.0,513.0,0.0
+U.S. Virgin Islands,2018,Jan,10,0.0,0.0,45.0,0.0
+Alabama,2018,Jan,24,0.0,3.0,3.0,0.0
+Alaska,2018,Jan,24,0.0,0.0,1.0,0.0
+Arizona,2018,Jan,24,0.0,0.0,3.0,0.0
+Arkansas,2018,Jan,24,0.0,0.0,0.0,0.0
+California,2018,Jan,24,0.0,4.0,51.0,0.0
+Colorado,2018,Jan,24,0.0,0.0,6.0,0.0
+Connecticut,2018,Jan,24,0.0,0.0,0.0,0.0
+Delaware,2018,Jan,24,0.0,0.0,0.0,0.0
+District of Columbia,2018,Jan,24,0.0,0.0,3.0,0.0
+Florida‡,2018,Jan,24,0.0,5.0,107.0,0.0
+Georgia,2018,Jan,24,0.0,0.0,2.0,0.0
+Hawaii,2018,Jan,24,0.0,0.0,3.0,0.0
+Idaho,2018,Jan,24,0.0,0.0,0.0,0.0
+Illinois,2018,Jan,24,0.0,0.0,7.0,0.0
+Indiana,2018,Jan,24,0.0,0.0,3.0,0.0
+Iowa,2018,Jan,24,0.0,0.0,1.0,0.0
+Kansas,2018,Jan,24,0.0,0.0,2.0,0.0
+Kentucky,2018,Jan,24,0.0,0.0,2.0,0.0
+Louisiana,2018,Jan,24,0.0,5.0,1.0,0.0
+Maine,2018,Jan,24,0.0,0.0,1.0,0.0
+Maryland,2018,Jan,24,0.0,1.0,12.0,0.0
+Massachusetts,2018,Jan,24,0.0,0.0,10.0,0.0
+Michigan,2018,Jan,24,0.0,0.0,7.0,0.0
+Minnesota,2018,Jan,24,0.0,0.0,6.0,0.0
+Mississippi,2018,Jan,24,0.0,0.0,2.0,0.0
+Missouri,2018,Jan,24,0.0,0.0,2.0,0.0
+Montana,2018,Jan,24,0.0,0.0,0.0,0.0
+Nebraska,2018,Jan,24,0.0,0.0,1.0,0.0
+Nevada,2018,Jan,24,0.0,0.0,1.0,0.0
+New Hampshire,2018,Jan,24,0.0,0.0,0.0,0.0
+New Jersey,2018,Jan,24,0.0,0.0,11.0,0.0
+New Mexico,2018,Jan,24,0.0,0.0,0.0,0.0
+New York,2018,Jan,24,0.0,1.0,61.0,0.0
+North Carolina,2018,Jan,24,0.0,0.0,8.0,0.0
+North Dakota,2018,Jan,24,0.0,0.0,0.0,0.0
+Ohio,2018,Jan,24,0.0,0.0,3.0,0.0
+Oklahoma,2018,Jan,24,0.0,0.0,1.0,0.0
+Oregon,2018,Jan,24,0.0,0.0,5.0,0.0
+Pennsylvania,2018,Jan,24,0.0,1.0,6.0,0.0
+Rhode Island,2018,Jan,24,0.0,0.0,3.0,0.0
+South Carolina,2018,Jan,24,0.0,0.0,2.0,0.0
+South Dakota,2018,Jan,24,0.0,0.0,0.0,0.0
+Tennessee,2018,Jan,24,0.0,0.0,1.0,0.0
+Texas‡,2018,Jan,24,0.0,2.0,47.0,0.0
+Utah,2018,Jan,24,0.0,0.0,4.0,0.0
+Vermont,2018,Jan,24,0.0,0.0,3.0,0.0
+Virginia,2018,Jan,24,0.0,0.0,6.0,0.0
+Washington,2018,Jan,24,0.0,0.0,13.0,0.0
+West Virginia,2018,Jan,24,0.0,1.0,1.0,0.0
+Wisconsin,2018,Jan,24,0.0,0.0,4.0,0.0
+Wyoming,2018,Jan,24,0.0,0.0,2.0,0.0
+American Samoa,2018,Jan,24,0.0,0.0,73.0,0.0
+Puerto Rico,2018,Jan,24,0.0,6.0,519.0,0.0
+U.S. Virgin Islands,2018,Jan,24,0.0,0.0,45.0,0.0
